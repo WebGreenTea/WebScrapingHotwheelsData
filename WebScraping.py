@@ -3,43 +3,9 @@ from requests_html import HTMLSession
 import bs4
 
 
-'''
-def getDataFromYear(year):
+FROMYEAR=1995
+UNTILYEAR=2022
 
-    session = HTMLSession()
-
-
-    url = f'https://hotwheels.fandom.com/wiki/List_of_{year}_Hot_Wheels'
-
-    r = session.get(url)
-    #r.html.render(sleep=1)
-    
-    table = r.html.find('table',first=True)
-
-    row = table.find('tr')
-
-
-
-
-    for i in range(1,len(row)):
-        
-        #print(row[i].find('td')[0].text)
-
-        yield {
-            "Year":year,
-            "Toy":row[i].find('td')[0].text,
-            "Col":row[i].find('td')[1].text,
-            "ModelName":row[i].find('td')[2].text,
-            "Series":row[i].find('td')[3].text,
-            "SeriesNumber":row[i].find('td')[4].text,
-            "img_url":row[i].find('td')[5].find('a',first=True).attrs['href']
-        }
-
-
-
-for i in getDataFromYear(1995):
-    print(i)
-'''
 
 
 def getDataFromYear(year):
@@ -61,14 +27,27 @@ def getDataFromYear(year):
             colums = row.find_all('td')
 
             try:
-                CarNumber=str(colums[1].text.strip())
+                CarNumber=str(colums[1].text).strip()
                 if((CarNumber.isdigit())):
-                    print(CarNumber)
+                    #print(CarNumber)
+                    
+
+                    yield {
+                        "YEAR":year,
+                        "ToyID":str(colums[0].text).strip(),
+                        "CarNumber":CarNumber,
+                        "ModelName":str(colums[2].text).strip(),
+                        "Series":str(colums[3].text).strip(),
+                        "SeriesNumber":str(colums[4].text).strip(),
+                        "img_url":str(colums[5].find('a')['href']).strip()
+                    }
             except:
                 pass
             
             
-getDataFromYear(1995)
+for year in range(FROMYEAR,UNTILYEAR+1):    
+    for item in getDataFromYear(year):
+        print(item)
 
 
 
