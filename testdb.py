@@ -4,7 +4,7 @@ import re
 from dotenv import load_dotenv 
 
 
-MODELNAME = 'nissan'
+MODELNAME = 'fangula'
 
 
 load_dotenv()
@@ -16,6 +16,7 @@ records = db.Mainline
 rgxName = re.compile(f'.*{MODELNAME}.*', re.IGNORECASE)  # compile the regex
 
 
-for document in (records.find({"$or":[ {"YEAR":2010}, {"YEAR":2021}],'ModelName':rgxName})): 
+#for document in (records.find({"$or":[ {"YEAR":2010}, {"YEAR":2021}],'ModelName':rgxName})): 
+for document in (records.find({'ModelName':rgxName})): 
     print(document)
     
