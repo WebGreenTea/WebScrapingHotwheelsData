@@ -1,0 +1,5047 @@
+1996
+ML19960110 เปลี่ยน Modelname 
+จาก Street Beast Error card, should be \"BMW M1\"
+เป็น  Street Beast Street Beast (Error card, should be \"BMW M1\")
+
+
+
+1997
+ML19970008 เปลี่ยน Modelname 
+จาก 1970 Plymouth Barracuda was a planned release as \"1997 First Edition #8\"
+เป็น 1970 Plymouth Barracuda
+
+
+
+
+2001
+ML20010101 เปลี่ยน Modelname 
+จาก Chevy 1500 Chevy Pick-Up
+เป็น Chevy Pick-Up (Chevy 1500)
+
+
+ML20010104 เปลี่ยน Modelname 
+จาก Avus Quattro Audi Avus
+เป็น Audi Avus
+
+
+ML20010190 เปลี่ยน Modelname 
+จาก Race Bait 308 Ferrari 308
+เป็น Race Bait 308 (Ferrari 308)
+
+
+
+2003
+ML20030215 เปลี่ยน
+{
+        "id": "ML20030215",
+        "YEAR": 2003,
+        "ToyID": "57166",
+        "NumbersInYear": "",
+        "ModelName": "2003 Final Run",
+        "Series": "07/12",
+        "SeriesNumber": "",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/af/Bywayman_FR.JPG/revision/latest?cb=20090101183627"
+}
+เป็น
+{
+        "id": "ML20030215",
+        "YEAR": 2003,
+        "ToyID": "57166",
+        "NumbersInYear": "201",
+        "ModelName": "Bywayman",
+        "Series": "2003 Final Run",
+        "SeriesNumber": "07/12",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/af/Bywayman_FR.JPG/revision/latest?cb=20090101183627"
+}
+
+
+
+2005
+- มี \u200b ต่อท้าย SeriesNumber แทบทุกคัน
+
+
+2007
+- มี \u200b ต่อท้าย SeriesNumber แทบทุกคัน
+
+
+
+
+2009
+เปลี่ยนคันท้ายๆ จาก
+{
+        "id": "ML20090343",
+        "YEAR": 2009,
+        "ToyID": "N4011",
+        "NumbersInYear": "008",
+        "ModelName": "'69 Mercury Cougar Eliminator (3rd Color)",
+        "Series": "2009 New Models",
+        "SeriesNumber": "8/42",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/69cougar_purple_RL5SP.JPG/revision/latest?cb=20091208040130"
+    },
+    {
+        "id": "ML20090344",
+        "YEAR": 2009,
+        "ToyID": "N4022",
+        "NumbersInYear": "019",
+        "ModelName": "'70 Chevelle SS Wagon (3rd Color)",
+        "Series": "2009 New Models",
+        "SeriesNumber": "19/42",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/70chevellewagon_RL5SP.JPG/revision/latest?cb=20091208080507"
+    },
+    {
+        "id": "ML20090345",
+        "YEAR": 2009,
+        "ToyID": "N4034",
+        "NumbersInYear": "031",
+        "ModelName": "'66 Ford Fairlane GT (2nd Color)",
+        "Series": "2009 New Models",
+        "SeriesNumber": "31/42",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Fairlane_redRL.JPG/revision/latest?cb=20100205115412"
+    },
+    {
+        "id": "ML20090346",
+        "YEAR": 2009,
+        "ToyID": "P2398",
+        "NumbersInYear": "078",
+        "ModelName": "'67 Shelby GT-500 (2nd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Gt500_rl_sleepercivic.jpg/revision/latest?cb=20100112061518"
+    },
+    {
+        "id": "ML20090347",
+        "YEAR": 2009,
+        "ToyID": "P2406",
+        "NumbersInYear": "086",
+        "ModelName": "'08 Dodge Challenger SRT8 (2nd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Challenger_greenRL.JPG/revision/latest?cb=20100222232924"
+    },
+    {
+        "id": "ML20090348",
+        "YEAR": 2009,
+        "ToyID": "P2433",
+        "NumbersInYear": "113",
+        "ModelName": "Ice Cream Truck (3rd Color)",
+        "Series": "HW City Works",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/77/Icecream_RL5SP.JPG/revision/latest?cb=20091208080508"
+    },
+    {
+        "id": "ML20090349",
+        "YEAR": 2009,
+        "ToyID": "P2443",
+        "NumbersInYear": "123",
+        "ModelName": "Jeep Scrambler (2nd Color)",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/Jeepscrambler_blueRL.JPG/revision/latest?cb=20091007115817"
+    },
+    {
+        "id": "ML20090350",
+        "YEAR": 2009,
+        "ToyID": "P2464",
+        "NumbersInYear": "144",
+        "ModelName": "Mustang Mach 1 (2nd Color)",
+        "Series": "Rebel Rides",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/Mach1_orange_RL5SP.JPG/revision/latest?cb=20091208080508"
+    },
+    {
+        "id": "ML20090351",
+        "YEAR": 2009,
+        "ToyID": "P2469",
+        "NumbersInYear": "149",
+        "ModelName": "'67 Camaro (2nd Color)",
+        "Series": "Dream Garage",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/67camaro_dream_RL5SP.JPG/revision/latest?cb=20091201111311"
+    },
+    {
+        "id": "ML20090352",
+        "YEAR": 2009,
+        "ToyID": "P2478",
+        "NumbersInYear": "158",
+        "ModelName": "Dairy Delivery (2nd Color)",
+        "Series": "Modified Rides",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/Dairy_Delivery_-_09_Modified_Rides_RL5SP.jpg/revision/latest?cb=20091019051159"
+    },
+    {
+        "id": "ML20090353",
+        "YEAR": 2009,
+        "ToyID": "N4017",
+        "NumbersInYear": "014",
+        "ModelName": "Fast Gassin' (3rd Color)",
+        "Series": "2009 New Models",
+        "SeriesNumber": "14/42",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Fastgassin_whiteGY5SP.JPG/revision/latest?cb=20100120123951"
+    },
+    {
+        "id": "ML20090354",
+        "YEAR": 2009,
+        "ToyID": "P2441",
+        "NumbersInYear": "121",
+        "ModelName": "Custom Volkswagen Beetle (3rd Color)",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Custom_VW_Beetle_-_09_Heat_Fleet_GY5SP.jpg/revision/latest?cb=20100208052336"
+    }
+เป็น---------------------------------------------------------------------------------------------------------------------------------
+
+{
+        "id": "ML20090343",
+        "YEAR": 2009,
+        "ToyID": "N4011",
+        "NumbersInYear": "008",
+        "ModelName": "'69 Mercury Cougar Eliminator (3rd Color)",
+        "Series": "2009 New Models",
+        "SeriesNumber": "8/42",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/69cougar_purple_RL5SP.JPG/revision/latest?cb=20091208040130"
+    },
+    {
+        "id": "ML20090344",
+        "YEAR": 2009,
+        "ToyID": "N4022",
+        "NumbersInYear": "019",
+        "ModelName": "'70 Chevelle SS Wagon (3rd Color)",
+        "Series": "2009 New Models",
+        "SeriesNumber": "19/42",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/70chevellewagon_RL5SP.JPG/revision/latest?cb=20091208080507"
+    },
+    {
+        "id": "ML20090345",
+        "YEAR": 2009,
+        "ToyID": "N4034",
+        "NumbersInYear": "031",
+        "ModelName": "'66 Ford Fairlane GT (2nd Color)",
+        "Series": "2009 New Models",
+        "SeriesNumber": "31/42",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/13/Fairlane_redRL.JPG/revision/latest?cb=20100205115412"
+    },
+    {
+        "id": "ML20090346",
+        "YEAR": 2009,
+        "ToyID": "P2398",
+        "NumbersInYear": "078",
+        "ModelName": "'67 Shelby GT-500 (2nd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/Gt500_rl_sleepercivic.jpg/revision/latest?cb=20100112061518"
+    },
+    {
+        "id": "ML20090347",
+        "YEAR": 2009,
+        "ToyID": "P2406",
+        "NumbersInYear": "086",
+        "ModelName": "'08 Dodge Challenger SRT8 (2nd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/24/Challenger_greenRL.JPG/revision/latest?cb=20100222232924"
+    },
+    {
+        "id": "ML20090348",
+        "YEAR": 2009,
+        "ToyID": "P2433",
+        "NumbersInYear": "113",
+        "ModelName": "Ice Cream Truck (3rd Color)",
+        "Series": "HW City Works",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/77/Icecream_RL5SP.JPG/revision/latest?cb=20091208080508"
+    },
+    {
+        "id": "ML20090349",
+        "YEAR": 2009,
+        "ToyID": "P2443",
+        "NumbersInYear": "123",
+        "ModelName": "Jeep Scrambler (2nd Color)",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/Jeepscrambler_blueRL.JPG/revision/latest?cb=20091007115817"
+    },
+    {
+        "id": "ML20090350",
+        "YEAR": 2009,
+        "ToyID": "P2464",
+        "NumbersInYear": "144",
+        "ModelName": "Mustang Mach 1 (2nd Color)",
+        "Series": "Rebel Rides",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/Mach1_orange_RL5SP.JPG/revision/latest?cb=20091208080508"
+    },
+    {
+        "id": "ML20090351",
+        "YEAR": 2009,
+        "ToyID": "P2469",
+        "NumbersInYear": "149",
+        "ModelName": "'67 Camaro (2nd Color)",
+        "Series": "Dream Garage",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/67camaro_dream_RL5SP.JPG/revision/latest?cb=20091201111311"
+    },
+    {
+        "id": "ML20090352",
+        "YEAR": 2009,
+        "ToyID": "P2478",
+        "NumbersInYear": "158",
+        "ModelName": "Dairy Delivery (2nd Color)",
+        "Series": "Modified Rides",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/Dairy_Delivery_-_09_Modified_Rides_RL5SP.jpg/revision/latest?cb=20091019051159"
+    },
+    {
+        "id": "ML20090353",
+        "YEAR": 2009,
+        "ToyID": "N4017",
+        "NumbersInYear": "014",
+        "ModelName": "Fast Gassin' (3rd Color)",
+        "Series": "2009 New Models",
+        "SeriesNumber": "14/42",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Goodyear Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Fastgassin_whiteGY5SP.JPG/revision/latest?cb=20100120123951"
+    },
+    {
+        "id": "ML20090354",
+        "YEAR": 2009,
+        "ToyID": "P2441",
+        "NumbersInYear": "121",
+        "ModelName": "Custom Volkswagen Beetle (3rd Color)",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Goodyear Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Custom_VW_Beetle_-_09_Heat_Fleet_GY5SP.jpg/revision/latest?cb=20100208052336"
+    }
+
+
+
+
+
+2010
+เปลี่ยนคันท้ายๆ จาก
+{
+        "id": "ML20100423",
+        "YEAR": 2010,
+        "ToyID": "R0918",
+        "NumbersInYear": "003",
+        "ModelName": "'67 Pontiac Firebird 400 (2nd Color)",
+        "Series": "2010 New Models",
+        "SeriesNumber": "3/44",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/67FireBird400_redGY5SP.JPG/revision/latest?cb=20100120123949"
+    },
+    {
+        "id": "ML20100424",
+        "YEAR": 2010,
+        "ToyID": "R0919",
+        "NumbersInYear": "004",
+        "ModelName": "Volkswagen Beetle (2nd Color)",
+        "Series": "2010 New Models",
+        "SeriesNumber": "4/44",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/100_4665.jpg/revision/latest?cb=20100318080655"
+    },
+    {
+        "id": "ML20100425",
+        "YEAR": 2010,
+        "ToyID": "R7529",
+        "NumbersInYear": "104",
+        "ModelName": "Pass'n Gasser",
+        "Series": "HW Performance",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/PassnGasser_performance_GY5SP.JPG/revision/latest?cb=20100120123952"
+    },
+    {
+        "id": "ML20100426",
+        "YEAR": 2010,
+        "ToyID": "R7531",
+        "NumbersInYear": "106",
+        "ModelName": "'41 Willys",
+        "Series": "HW Performance",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/41ProModWillys_performance_GY5SP.JPG/revision/latest?cb=20100120104006"
+    },
+    {
+        "id": "ML20100427",
+        "YEAR": 2010,
+        "ToyID": "R7568",
+        "NumbersInYear": "143",
+        "ModelName": "Bone Shaker",
+        "Series": "HW Hot Rods",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Boneshaker_hotrod_GY5SP.JPG/revision/latest?cb=20100120123950"
+    },
+    {
+        "id": "ML20100428",
+        "YEAR": 2010,
+        "ToyID": "R7583",
+        "NumbersInYear": "158",
+        "ModelName": "Ford Mustang Funny Car",
+        "Series": "HW Racing",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/85/MustangFC_racing_purpleGY5SP.JPG/revision/latest?cb=20100120123951"
+    },
+    {
+        "id": "ML20100429",
+        "YEAR": 2010,
+        "ToyID": "R7600",
+        "NumbersInYear": "171",
+        "ModelName": "Cadillac LMP",
+        "Series": "Race World - Speedway",
+        "SeriesNumber": "3/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/42/CadillacLMP_speedway_goldGY5SP.JPG/revision/latest?cb=20100120123950"
+    },
+    {
+        "id": "ML20100430",
+        "YEAR": 2010,
+        "ToyID": "R7601",
+        "NumbersInYear": "172",
+        "ModelName": "Saleen S7",
+        "Series": "Race World - Speedway",
+        "SeriesNumber": "4/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/SaleenS7_speedway_blackGY5SP.JPG/revision/latest?cb=20100120123952"
+    },
+    {
+        "id": "ML20100431",
+        "YEAR": 2010,
+        "ToyID": "R6458",
+        "NumbersInYear": "044",
+        "ModelName": "'67 Chevelle SS 396 (2nd Color)",
+        "Series": "2010 New Models",
+        "SeriesNumber": "44/44",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/67ChevelleSS396_goldBFG.JPG/revision/latest?cb=20100404070718"
+    },
+    {
+        "id": "ML20100432",
+        "YEAR": 2010,
+        "ToyID": "R7495",
+        "NumbersInYear": "070",
+        "ModelName": "Chevy Silverado (2nd Color)",
+        "Series": "HW Garage",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Chevysilverado_garage_purpleBFG.JPG/revision/latest?cb=20100404071050"
+    },
+    {
+        "id": "ML20100433",
+        "YEAR": 2010,
+        "ToyID": "R7531",
+        "NumbersInYear": "106",
+        "ModelName": "'41 Willys (2nd Color)",
+        "Series": "HW Performance",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/97/41ProModWillys_performance_greyBFG.JPG/revision/latest?cb=20100404070128"
+    },
+    {
+        "id": "ML20100434",
+        "YEAR": 2010,
+        "ToyID": "R7532",
+        "NumbersInYear": "107",
+        "ModelName": "'56 Ford F-100 (2nd Color)",
+        "Series": "HW Performance",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/77/56fordtruck_performance_greyBFG.JPG/revision/latest?cb=20100404070717"
+    },
+    {
+        "id": "ML20100435",
+        "YEAR": 2010,
+        "ToyID": "R7541",
+        "NumbersInYear": "116",
+        "ModelName": "GMC Motorhome",
+        "Series": "HW City Works",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/2010_GMC_Motorhome_BF_Goodrich.jpg/revision/latest?cb=20100411182521"
+    },
+    {
+        "id": "ML20100436",
+        "YEAR": 2010,
+        "ToyID": "R7569",
+        "NumbersInYear": "144",
+        "ModelName": "Deuce Roadster",
+        "Series": "HW Hot Rods",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/Deuceroadster_hotrods_blackBFG.JPG/revision/latest?cb=20100404113011"
+    },
+    {
+        "id": "ML20100437",
+        "YEAR": 2010,
+        "ToyID": "R7586",
+        "NumbersInYear": "161",
+        "ModelName": "'64 Chevy Impala (2nd Color)",
+        "Series": "Hot Auction",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/64impala_hotauction_redBFG.JPG/revision/latest?cb=20100404071049"
+    },
+    {
+        "id": "ML20100438",
+        "YEAR": 2010,
+        "ToyID": "R7587",
+        "NumbersInYear": "162",
+        "ModelName": "'55 Chevy Bel Air",
+        "Series": "Hot Auction",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/2010_55_Chevy_Bel_Air_Red_BF_Goodrich.jpg/revision/latest?cb=20100413160452"
+    },
+    {
+        "id": "ML20100439",
+        "YEAR": 2010,
+        "ToyID": "R7606",
+        "NumbersInYear": "177",
+        "ModelName": "Meyers Manx",
+        "Series": "Race World - Beach",
+        "SeriesNumber": "1/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/20/MeyersManx_beach_blueBFG.JPG/revision/latest?cb=20100404070129"
+    },
+    {
+        "id": "ML20100440",
+        "YEAR": 2010,
+        "ToyID": "R7638",
+        "NumbersInYear": "209",
+        "ModelName": "Phantom Racer",
+        "Series": "Race World - Volcano",
+        "SeriesNumber": "2/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/25/PhantomRacer_Volcano_purpleBFG.JPG/revision/latest?cb=20100404070130"
+    }
+
+เป็น---------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": "ML20100423",
+        "YEAR": 2010,
+        "ToyID": "R0918",
+        "NumbersInYear": "003",
+        "ModelName": "'67 Pontiac Firebird 400 (2nd Color)",
+        "Series": "2010 New Models",
+        "SeriesNumber": "3/44",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Goodyear Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/67FireBird400_redGY5SP.JPG/revision/latest?cb=20100120123949"
+    },
+    {
+        "id": "ML20100424",
+        "YEAR": 2010,
+        "ToyID": "R0919",
+        "NumbersInYear": "004",
+        "ModelName": "Volkswagen Beetle (2nd Color)",
+        "Series": "2010 New Models",
+        "SeriesNumber": "4/44",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Goodyear Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/100_4665.jpg/revision/latest?cb=20100318080655"
+    },
+    {
+        "id": "ML20100425",
+        "YEAR": 2010,
+        "ToyID": "R7529",
+        "NumbersInYear": "104",
+        "ModelName": "Pass'n Gasser",
+        "Series": "HW Performance",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Goodyear Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/PassnGasser_performance_GY5SP.JPG/revision/latest?cb=20100120123952"
+    },
+    {
+        "id": "ML20100426",
+        "YEAR": 2010,
+        "ToyID": "R7531",
+        "NumbersInYear": "106",
+        "ModelName": "'41 Willys",
+        "Series": "HW Performance",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Goodyear Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/41ProModWillys_performance_GY5SP.JPG/revision/latest?cb=20100120104006"
+    },
+    {
+        "id": "ML20100427",
+        "YEAR": 2010,
+        "ToyID": "R7568",
+        "NumbersInYear": "143",
+        "ModelName": "Bone Shaker",
+        "Series": "HW Hot Rods",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Goodyear Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Boneshaker_hotrod_GY5SP.JPG/revision/latest?cb=20100120123950"
+    },
+    {
+        "id": "ML20100428",
+        "YEAR": 2010,
+        "ToyID": "R7583",
+        "NumbersInYear": "158",
+        "ModelName": "Ford Mustang Funny Car",
+        "Series": "HW Racing",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Goodyear Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/85/MustangFC_racing_purpleGY5SP.JPG/revision/latest?cb=20100120123951"
+    },
+    {
+        "id": "ML20100429",
+        "YEAR": 2010,
+        "ToyID": "R7600",
+        "NumbersInYear": "171",
+        "ModelName": "Cadillac LMP",
+        "Series": "Race World - Speedway",
+        "SeriesNumber": "3/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Goodyear Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/42/CadillacLMP_speedway_goldGY5SP.JPG/revision/latest?cb=20100120123950"
+    },
+    {
+        "id": "ML20100430",
+        "YEAR": 2010,
+        "ToyID": "R7601",
+        "NumbersInYear": "172",
+        "ModelName": "Saleen S7",
+        "Series": "Race World - Speedway",
+        "SeriesNumber": "4/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Goodyear Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/SaleenS7_speedway_blackGY5SP.JPG/revision/latest?cb=20100120123952"
+    },
+    {
+        "id": "ML20100431",
+        "YEAR": 2010,
+        "ToyID": "R6458",
+        "NumbersInYear": "044",
+        "ModelName": "'67 Chevelle SS 396 (2nd Color)",
+        "Series": "2010 New Models",
+        "SeriesNumber": "44/44",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "BF Goodrich Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/67ChevelleSS396_goldBFG.JPG/revision/latest?cb=20100404070718"
+    },
+    {
+        "id": "ML20100432",
+        "YEAR": 2010,
+        "ToyID": "R7495",
+        "NumbersInYear": "070",
+        "ModelName": "Chevy Silverado (2nd Color)",
+        "Series": "HW Garage",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "BF Goodrich Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/Chevysilverado_garage_purpleBFG.JPG/revision/latest?cb=20100404071050"
+    },
+    {
+        "id": "ML20100433",
+        "YEAR": 2010,
+        "ToyID": "R7531",
+        "NumbersInYear": "106",
+        "ModelName": "'41 Willys (2nd Color)",
+        "Series": "HW Performance",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "BF Goodrich Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/97/41ProModWillys_performance_greyBFG.JPG/revision/latest?cb=20100404070128"
+    },
+    {
+        "id": "ML20100434",
+        "YEAR": 2010,
+        "ToyID": "R7532",
+        "NumbersInYear": "107",
+        "ModelName": "'56 Ford F-100 (2nd Color)",
+        "Series": "HW Performance",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "BF Goodrich Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/77/56fordtruck_performance_greyBFG.JPG/revision/latest?cb=20100404070717"
+    },
+    {
+        "id": "ML20100435",
+        "YEAR": 2010,
+        "ToyID": "R7541",
+        "NumbersInYear": "116",
+        "ModelName": "GMC Motorhome",
+        "Series": "HW City Works",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "BF Goodrich Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/2010_GMC_Motorhome_BF_Goodrich.jpg/revision/latest?cb=20100411182521"
+    },
+    {
+        "id": "ML20100436",
+        "YEAR": 2010,
+        "ToyID": "R7569",
+        "NumbersInYear": "144",
+        "ModelName": "Deuce Roadster",
+        "Series": "HW Hot Rods",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "BF Goodrich Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/Deuceroadster_hotrods_blackBFG.JPG/revision/latest?cb=20100404113011"
+    },
+    {
+        "id": "ML20100437",
+        "YEAR": 2010,
+        "ToyID": "R7586",
+        "NumbersInYear": "161",
+        "ModelName": "'64 Chevy Impala (2nd Color)",
+        "Series": "Hot Auction",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "BF Goodrich Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/64impala_hotauction_redBFG.JPG/revision/latest?cb=20100404071049"
+    },
+    {
+        "id": "ML20100438",
+        "YEAR": 2010,
+        "ToyID": "R7587",
+        "NumbersInYear": "162",
+        "ModelName": "'55 Chevy Bel Air",
+        "Series": "Hot Auction",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "BF Goodrich Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/2010_55_Chevy_Bel_Air_Red_BF_Goodrich.jpg/revision/latest?cb=20100413160452"
+    },
+    {
+        "id": "ML20100439",
+        "YEAR": 2010,
+        "ToyID": "R7606",
+        "NumbersInYear": "177",
+        "ModelName": "Meyers Manx",
+        "Series": "Race World - Beach",
+        "SeriesNumber": "1/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "BF Goodrich Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/20/MeyersManx_beach_blueBFG.JPG/revision/latest?cb=20100404070129"
+    },
+    {
+        "id": "ML20100440",
+        "YEAR": 2010,
+        "ToyID": "R7638",
+        "NumbersInYear": "209",
+        "ModelName": "Phantom Racer",
+        "Series": "Race World - Volcano",
+        "SeriesNumber": "2/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "BF Goodrich Tire Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/25/PhantomRacer_Volcano_purpleBFG.JPG/revision/latest?cb=20100404070130"
+    }
+
+2011
+{
+        "id": "ML20110430",
+        "YEAR": 2011,
+        "ToyID": "T9979",
+        "NumbersInYear": "002",
+        "ModelName": "'72 Ford Gran Torino Sport (3rd Color)",
+        "Series": "2011 New Models",
+        "SeriesNumber": "2/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/44/72GranTorino_BlueWM.JPG/revision/latest?cb=20110425215530"
+    },
+    {
+        "id": "ML20110431",
+        "YEAR": 2011,
+        "ToyID": "T9981",
+        "NumbersInYear": "004",
+        "ModelName": "'69 COPO Corvette (3rd Color)",
+        "Series": "2011 New Models",
+        "SeriesNumber": "4/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/69COPOCorvette_BlackWM.JPG/revision/latest?cb=20110425201252"
+    },
+    {
+        "id": "ML20110432",
+        "YEAR": 2011,
+        "ToyID": "T9985",
+        "NumbersInYear": "106",
+        "ModelName": "'70 Monte Carlo (3rd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/70Monte_Muscle_BlueWM.JPG/revision/latest?cb=20110425234222"
+    },
+    {
+        "id": "ML20110433",
+        "YEAR": 2011,
+        "ToyID": "T9816",
+        "NumbersInYear": "109",
+        "ModelName": "Olds 442",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Olds442_Muscle_TealWM.JPG/revision/latest?cb=20110425201255"
+    },
+    {
+        "id": "ML20110434",
+        "YEAR": 2011,
+        "ToyID": "T9987",
+        "NumbersInYear": "134",
+        "ModelName": "Plymouth Duster Thruster (3rd Color)",
+        "Series": "HW Performance",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/72Duster_Performance_BlueWM.JPG/revision/latest?cb=20110425201252"
+    },
+    {
+        "id": "ML20110435",
+        "YEAR": 2011,
+        "ToyID": "T9988",
+        "NumbersInYear": "144",
+        "ModelName": "2010 Ford Mustang GT (3rd Color)",
+        "Series": "Faster Than Ever",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/89/2010MustangGT_FTE_MaroonWM.JPG/revision/latest?cb=20110425234223"
+    },
+    {
+        "id": "ML20110436",
+        "YEAR": 2011,
+        "ToyID": "T9963",
+        "NumbersInYear": "151",
+        "ModelName": "'67 Chevelle SS 396 (2nd Color)",
+        "Series": "HW Racing",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/67ChevelleSS396_Racing_WhiteWM.JPG/revision/latest?cb=20110425215529"
+    },
+    {
+        "id": "ML20110437",
+        "YEAR": 2011,
+        "ToyID": "T9866",
+        "NumbersInYear": "159",
+        "ModelName": "'92 Ford Mustang",
+        "Series": "HW Racing",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/92Mustang_Racing_BlueWM.JPG/revision/latest?cb=20110425201253"
+    },
+    {
+        "id": "ML20110438",
+        "YEAR": 2011,
+        "ToyID": "T9943",
+        "NumbersInYear": "163",
+        "ModelName": "Pontiac Firebird (2nd Color)",
+        "Series": "HW Main Street",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/IROCFirebird_MainST_WhiteWM.JPG/revision/latest?cb=20110425234223"
+    },
+    {
+        "id": "ML20110439",
+        "YEAR": 2011,
+        "ToyID": "T9990",
+        "NumbersInYear": "173",
+        "ModelName": "Back Slider (2nd Color)",
+        "Series": "HW City Works",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/BackSlider_City_OrangeWM.JPG/revision/latest?cb=20110425201253"
+    },
+    {
+        "id": "ML20110440",
+        "YEAR": 2011,
+        "ToyID": "V0023",
+        "NumbersInYear": "030",
+        "ModelName": "Mini Cooper S Challenge (2nd Color)",
+        "Series": "2011 New Models",
+        "SeriesNumber": "30/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/100_2539.JPG/revision/latest?cb=20111001184314"
+    },
+    {
+        "id": "ML20110441",
+        "YEAR": 2011,
+        "ToyID": "V0024",
+        "NumbersInYear": "034",
+        "ModelName": "Blvd. Bruiser (2nd Color)",
+        "Series": "2011 New Models",
+        "SeriesNumber": "34/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/Blvd._Bruiser_purple_metallic_2011_new_model_walmart_redline.JPG/revision/latest?cb=20130701162818"
+    },
+    {
+        "id": "ML20110442",
+        "YEAR": 2011,
+        "ToyID": "T9790",
+        "NumbersInYear": "083",
+        "ModelName": "'70 Plymouth AAR Cuda",
+        "Series": "Street Beasts",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/100_3380.JPG/revision/latest?cb=20111007021255"
+    },
+    {
+        "id": "ML20110443",
+        "YEAR": 2011,
+        "ToyID": "V0025",
+        "NumbersInYear": "086",
+        "ModelName": "'67 Pontiac Firebird 400 (3rd Color)",
+        "Series": "Street Beasts",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/V0025-redline.jpg/revision/latest?cb=20190529062131"
+    },
+    {
+        "id": "ML20110444",
+        "YEAR": 2011,
+        "ToyID": "T9806",
+        "NumbersInYear": "099",
+        "ModelName": "Custom Volkswagen Beetle",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/IMG_9622_copy.jpg/revision/latest?cb=20160611204147"
+    },
+    {
+        "id": "ML20110445",
+        "YEAR": 2011,
+        "ToyID": "V0027",
+        "NumbersInYear": "104",
+        "ModelName": "'68 El Camino (2nd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/2011ElCaminoOrangeWMRL5SP.jpg/revision/latest?cb=20110811154900"
+    },
+    {
+        "id": "ML20110446",
+        "YEAR": 2011,
+        "ToyID": "V0030",
+        "NumbersInYear": "139",
+        "ModelName": "Buick Grand National (2nd Color)",
+        "Series": "HW Performance",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/V0030-redline.jpg/revision/latest?cb=20190529063111"
+    },
+    {
+        "id": "ML20110447",
+        "YEAR": 2011,
+        "ToyID": "V0031",
+        "NumbersInYear": "152",
+        "ModelName": "'41 Willys (3rd Color)",
+        "Series": "HW Racing",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/RC04w.jpg/revision/latest?cb=20170214021919"
+    },
+    {
+        "id": "ML20110448",
+        "YEAR": 2011,
+        "ToyID": "V0032",
+        "NumbersInYear": "165",
+        "ModelName": "Dixie Challenger (2nd Color)",
+        "Series": "HW Main Street",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Dixie_Challenger_blakc_flames_walmart_redline_5sp_wheels_2011.JPG/revision/latest?cb=20140420030137"
+    },
+    {
+        "id": "ML20110449",
+        "YEAR": 2011,
+        "ToyID": "T9873",
+        "NumbersInYear": "166",
+        "ModelName": "'69 Dodge Charger",
+        "Series": "HW Main Street",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/69_Charger_-_11MainSt-RL.JPG/revision/latest?cb=20110809051724"
+    }
+เป็น---------------------------------------------------------------------------------------------------------------------------------
+    {
+        "id": "ML20110430",
+        "YEAR": 2011,
+        "ToyID": "T9979",
+        "NumbersInYear": "002",
+        "ModelName": "'72 Ford Gran Torino Sport (3rd Color)",
+        "Series": "2011 New Models",
+        "SeriesNumber": "2/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/44/72GranTorino_BlueWM.JPG/revision/latest?cb=20110425215530"
+    },
+    {
+        "id": "ML20110431",
+        "YEAR": 2011,
+        "ToyID": "T9981",
+        "NumbersInYear": "004",
+        "ModelName": "'69 COPO Corvette (3rd Color)",
+        "Series": "2011 New Models",
+        "SeriesNumber": "4/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/69COPOCorvette_BlackWM.JPG/revision/latest?cb=20110425201252"
+    },
+    {
+        "id": "ML20110432",
+        "YEAR": 2011,
+        "ToyID": "T9985",
+        "NumbersInYear": "106",
+        "ModelName": "'70 Monte Carlo (3rd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/70Monte_Muscle_BlueWM.JPG/revision/latest?cb=20110425234222"
+    },
+    {
+        "id": "ML20110433",
+        "YEAR": 2011,
+        "ToyID": "T9816",
+        "NumbersInYear": "109",
+        "ModelName": "Olds 442",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/Olds442_Muscle_TealWM.JPG/revision/latest?cb=20110425201255"
+    },
+    {
+        "id": "ML20110434",
+        "YEAR": 2011,
+        "ToyID": "T9987",
+        "NumbersInYear": "134",
+        "ModelName": "Plymouth Duster Thruster (3rd Color)",
+        "Series": "HW Performance",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/72Duster_Performance_BlueWM.JPG/revision/latest?cb=20110425201252"
+    },
+    {
+        "id": "ML20110435",
+        "YEAR": 2011,
+        "ToyID": "T9988",
+        "NumbersInYear": "144",
+        "ModelName": "2010 Ford Mustang GT (3rd Color)",
+        "Series": "Faster Than Ever",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/89/2010MustangGT_FTE_MaroonWM.JPG/revision/latest?cb=20110425234223"
+    },
+    {
+        "id": "ML20110436",
+        "YEAR": 2011,
+        "ToyID": "T9963",
+        "NumbersInYear": "151",
+        "ModelName": "'67 Chevelle SS 396 (2nd Color)",
+        "Series": "HW Racing",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/67ChevelleSS396_Racing_WhiteWM.JPG/revision/latest?cb=20110425215529"
+    },
+    {
+        "id": "ML20110437",
+        "YEAR": 2011,
+        "ToyID": "T9866",
+        "NumbersInYear": "159",
+        "ModelName": "'92 Ford Mustang",
+        "Series": "HW Racing",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a5/92Mustang_Racing_BlueWM.JPG/revision/latest?cb=20110425201253"
+    },
+    {
+        "id": "ML20110438",
+        "YEAR": 2011,
+        "ToyID": "T9943",
+        "NumbersInYear": "163",
+        "ModelName": "Pontiac Firebird (2nd Color)",
+        "Series": "HW Main Street",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/IROCFirebird_MainST_WhiteWM.JPG/revision/latest?cb=20110425234223"
+    },
+    {
+        "id": "ML20110439",
+        "YEAR": 2011,
+        "ToyID": "T9990",
+        "NumbersInYear": "173",
+        "ModelName": "Back Slider (2nd Color)",
+        "Series": "HW City Works",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/BackSlider_City_OrangeWM.JPG/revision/latest?cb=20110425201253"
+    },
+    {
+        "id": "ML20110440",
+        "YEAR": 2011,
+        "ToyID": "V0023",
+        "NumbersInYear": "030",
+        "ModelName": "Mini Cooper S Challenge (2nd Color)",
+        "Series": "2011 New Models",
+        "SeriesNumber": "30/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/100_2539.JPG/revision/latest?cb=20111001184314"
+    },
+    {
+        "id": "ML20110441",
+        "YEAR": 2011,
+        "ToyID": "V0024",
+        "NumbersInYear": "034",
+        "ModelName": "Blvd. Bruiser (2nd Color)",
+        "Series": "2011 New Models",
+        "SeriesNumber": "34/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/Blvd._Bruiser_purple_metallic_2011_new_model_walmart_redline.JPG/revision/latest?cb=20130701162818"
+    },
+    {
+        "id": "ML20110442",
+        "YEAR": 2011,
+        "ToyID": "T9790",
+        "NumbersInYear": "083",
+        "ModelName": "'70 Plymouth AAR Cuda",
+        "Series": "Street Beasts",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/100_3380.JPG/revision/latest?cb=20111007021255"
+    },
+    {
+        "id": "ML20110443",
+        "YEAR": 2011,
+        "ToyID": "V0025",
+        "NumbersInYear": "086",
+        "ModelName": "'67 Pontiac Firebird 400 (3rd Color)",
+        "Series": "Street Beasts",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/V0025-redline.jpg/revision/latest?cb=20190529062131"
+    },
+    {
+        "id": "ML20110444",
+        "YEAR": 2011,
+        "ToyID": "T9806",
+        "NumbersInYear": "099",
+        "ModelName": "Custom Volkswagen Beetle",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/IMG_9622_copy.jpg/revision/latest?cb=20160611204147"
+    },
+    {
+        "id": "ML20110445",
+        "YEAR": 2011,
+        "ToyID": "V0027",
+        "NumbersInYear": "104",
+        "ModelName": "'68 El Camino (2nd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/2011ElCaminoOrangeWMRL5SP.jpg/revision/latest?cb=20110811154900"
+    },
+    {
+        "id": "ML20110446",
+        "YEAR": 2011,
+        "ToyID": "V0030",
+        "NumbersInYear": "139",
+        "ModelName": "Buick Grand National (2nd Color)",
+        "Series": "HW Performance",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/V0030-redline.jpg/revision/latest?cb=20190529063111"
+    },
+    {
+        "id": "ML20110447",
+        "YEAR": 2011,
+        "ToyID": "V0031",
+        "NumbersInYear": "152",
+        "ModelName": "'41 Willys (3rd Color)",
+        "Series": "HW Racing",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/RC04w.jpg/revision/latest?cb=20170214021919"
+    },
+    {
+        "id": "ML20110448",
+        "YEAR": 2011,
+        "ToyID": "V0032",
+        "NumbersInYear": "165",
+        "ModelName": "Dixie Challenger (2nd Color)",
+        "Series": "HW Main Street",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Dixie_Challenger_blakc_flames_walmart_redline_5sp_wheels_2011.JPG/revision/latest?cb=20140420030137"
+    },
+    {
+        "id": "ML20110449",
+        "YEAR": 2011,
+        "ToyID": "T9873",
+        "NumbersInYear": "166",
+        "ModelName": "'69 Dodge Charger",
+        "Series": "HW Main Street",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/69_Charger_-_11MainSt-RL.JPG/revision/latest?cb=20110809051724"
+    }
+
+
+2012
+{
+        "id": "ML20120388",
+        "YEAR": 2012,
+        "ToyID": "V5602",
+        "NumbersInYear": "022",
+        "ModelName": "1985 Chevrolet Camaro IROC-Z (2nd Color)",
+        "Series": "2012 New Models",
+        "SeriesNumber": "22/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/da/20181214_193245.jpg/revision/latest?cb=20181215004827"
+    },
+    {
+        "id": "ML20120389",
+        "YEAR": 2012,
+        "ToyID": "V5635",
+        "NumbersInYear": "037",
+        "ModelName": "'61 Impala (2nd Color)",
+        "Series": "2012 New Models",
+        "SeriesNumber": "37/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    },
+    {
+        "id": "ML20120390",
+        "YEAR": 2012,
+        "ToyID": "V5392",
+        "NumbersInYear": "089",
+        "ModelName": "'70 Road Runner",
+        "Series": "Muscle Mania - Mopar",
+        "SeriesNumber": "9/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    },
+    {
+        "id": "ML20120391",
+        "YEAR": 2012,
+        "ToyID": "V5604",
+        "NumbersInYear": "103",
+        "ModelName": "'62 Chevy (2nd Color)",
+        "Series": "Muscle Mania - GM",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/86/2012-62Chevy-Gold.jpg/revision/latest?cb=20120607001919"
+    },
+    {
+        "id": "ML20120392",
+        "YEAR": 2012,
+        "ToyID": "V5436",
+        "NumbersInYear": "133",
+        "ModelName": "Diesel Duty",
+        "Series": "HW City Works",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    },
+    {
+        "id": "ML20120393",
+        "YEAR": 2012,
+        "ToyID": "V5445",
+        "NumbersInYear": "141",
+        "ModelName": "Honda S2000",
+        "Series": "HW Performance",
+        "SeriesNumber": "1/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Honda_S2000_BLUE_WALMART.jpg/revision/latest?cb=20120531120337"
+    },
+    {
+        "id": "ML20120394",
+        "YEAR": 2012,
+        "ToyID": "W4455",
+        "NumbersInYear": "155",
+        "ModelName": "Volkswagen Brasilia (2nd Color)",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "5/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/40/Volkswagen_brasilia_2012_green.png/revision/latest?cb=20120422164608"
+    },
+    {
+        "id": "ML20120395",
+        "YEAR": 2012,
+        "ToyID": "V5473",
+        "NumbersInYear": "169",
+        "ModelName": "Amazoom",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "9/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    },
+    {
+        "id": "ML20120396",
+        "YEAR": 2012,
+        "ToyID": "V5615",
+        "NumbersInYear": "173",
+        "ModelName": "'67 Pontiac GTO (2nd Color)",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    },
+    {
+        "id": "ML20120397",
+        "YEAR": 2012,
+        "ToyID": "V5481",
+        "NumbersInYear": "177",
+        "ModelName": "'71 Dodge Demon",
+        "Series": "HW Racing",
+        "SeriesNumber": "7/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/75/71_dodge_demon_2012_blue.png/revision/latest?cb=20120422154032"
+    },
+    {
+        "id": "ML20120398",
+        "YEAR": 2012,
+        "ToyID": "V5626",
+        "NumbersInYear": "033",
+        "ModelName": "Subaru WRX STI (2nd Color)",
+        "Series": "2012 New Models",
+        "SeriesNumber": "33/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/2012-033-NM33-SubaruWRXSTI-Red-RedlineSP5.jpg/revision/latest?cb=20120814003542"
+    },
+    {
+        "id": "ML20120399",
+        "YEAR": 2012,
+        "ToyID": "V5648",
+        "NumbersInYear": "081",
+        "ModelName": "'68 Dodge Dart (3rd Color)",
+        "Series": "Muscle Mania - Mopar",
+        "SeriesNumber": "1/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/da/2012-081-MMM01-68DodgeDart-Blue-Redline5SP.jpg/revision/latest?cb=20120814003003"
+    },
+    {
+        "id": "ML20120400",
+        "YEAR": 2012,
+        "ToyID": "V5408",
+        "NumbersInYear": "105",
+        "ModelName": "'67 Pontiac Firebird 400",
+        "Series": "Muscle Mania - GM",
+        "SeriesNumber": "5/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/42/V5408-redline.jpg/revision/latest?cb=20190602183323"
+    },
+    {
+        "id": "ML20120401",
+        "YEAR": 2012,
+        "ToyID": "V5650",
+        "NumbersInYear": "112",
+        "ModelName": "'66 Ford 427 Fairlane (2nd Color)",
+        "Series": "Muscle Mania - Ford",
+        "SeriesNumber": "2/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/65/V5650-redline.jpg/revision/latest?cb=20190602183340"
+    },
+    {
+        "id": "ML20120402",
+        "YEAR": 2012,
+        "ToyID": "V5651",
+        "NumbersInYear": "123",
+        "ModelName": "Aston Martin One-77 (3rd Color)",
+        "Series": "All Stars",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/A-1.jpg/revision/latest?cb=20170504023824"
+    },
+    {
+        "id": "ML20120403",
+        "YEAR": 2012,
+        "ToyID": "V5431",
+        "NumbersInYear": "128",
+        "ModelName": "Lamborghini Estoque",
+        "Series": "All Stars",
+        "SeriesNumber": "8/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/93/V5431-redline.jpg/revision/latest?cb=20190602183409"
+    },
+    {
+        "id": "ML20120404",
+        "YEAR": 2012,
+        "ToyID": "V5654",
+        "NumbersInYear": "140",
+        "ModelName": "Custom '69 Chevy Pickup (2nd Color)",
+        "Series": "HW City Works",
+        "SeriesNumber": "10/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Custom_69_chevy_pickup_2012_satin_blue.jpg/revision/latest?cb=20120802034212"
+    },
+    {
+        "id": "ML20120405",
+        "YEAR": 2012,
+        "ToyID": "V5447",
+        "NumbersInYear": "143",
+        "ModelName": "Baja Breaker",
+        "Series": "HW Performance",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/52/Baja_breaker_2012_black.jpg/revision/latest?cb=20120802034211"
+    },
+    {
+        "id": "ML20120406",
+        "YEAR": 2012,
+        "ToyID": "V5457",
+        "NumbersInYear": "153",
+        "ModelName": "Dodge Challenger Concept",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Dodge_challenger_concept_2012_green.jpg/revision/latest?cb=20120802034212"
+    },
+    {
+        "id": "ML20120407",
+        "YEAR": 2012,
+        "ToyID": "V5655",
+        "NumbersInYear": "179",
+        "ModelName": "'71 Maverick Grabber (2nd Color)",
+        "Series": "HW Racing",
+        "SeriesNumber": "9/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/V5655-redline.jpg/revision/latest?cb=20190602183428"
+    },
+    {
+        "id": "ML20120408",
+        "YEAR": 2012,
+        "ToyID": "Y5852",
+        "NumbersInYear": "",
+        "ModelName": "Rodzilla",
+        "Series": "Year of the Dragon Edition",
+        "SeriesNumber": "",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Rodzilla_year_of_the_dragon_2012.jpg/revision/latest?cb=20120802034212"
+    }
+เป็น---------------------------------------------------------------------------------------------------------------------------------
+{
+        "id": "ML20120388",
+        "YEAR": 2012,
+        "ToyID": "V5602",
+        "NumbersInYear": "022",
+        "ModelName": "1985 Chevrolet Camaro IROC-Z (2nd Color)",
+        "Series": "2012 New Models",
+        "SeriesNumber": "22/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/da/20181214_193245.jpg/revision/latest?cb=20181215004827"
+    },
+    {
+        "id": "ML20120389",
+        "YEAR": 2012,
+        "ToyID": "V5635",
+        "NumbersInYear": "037",
+        "ModelName": "'61 Impala (2nd Color)",
+        "Series": "2012 New Models",
+        "SeriesNumber": "37/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    },
+    {
+        "id": "ML20120390",
+        "YEAR": 2012,
+        "ToyID": "V5392",
+        "NumbersInYear": "089",
+        "ModelName": "'70 Road Runner",
+        "Series": "Muscle Mania - Mopar",
+        "SeriesNumber": "9/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    },
+    {
+        "id": "ML20120391",
+        "YEAR": 2012,
+        "ToyID": "V5604",
+        "NumbersInYear": "103",
+        "ModelName": "'62 Chevy (2nd Color)",
+        "Series": "Muscle Mania - GM",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/86/2012-62Chevy-Gold.jpg/revision/latest?cb=20120607001919"
+    },
+    {
+        "id": "ML20120392",
+        "YEAR": 2012,
+        "ToyID": "V5436",
+        "NumbersInYear": "133",
+        "ModelName": "Diesel Duty",
+        "Series": "HW City Works",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    },
+    {
+        "id": "ML20120393",
+        "YEAR": 2012,
+        "ToyID": "V5445",
+        "NumbersInYear": "141",
+        "ModelName": "Honda S2000",
+        "Series": "HW Performance",
+        "SeriesNumber": "1/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Honda_S2000_BLUE_WALMART.jpg/revision/latest?cb=20120531120337"
+    },
+    {
+        "id": "ML20120394",
+        "YEAR": 2012,
+        "ToyID": "W4455",
+        "NumbersInYear": "155",
+        "ModelName": "Volkswagen Brasilia (2nd Color)",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "5/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/40/Volkswagen_brasilia_2012_green.png/revision/latest?cb=20120422164608"
+    },
+    {
+        "id": "ML20120395",
+        "YEAR": 2012,
+        "ToyID": "V5473",
+        "NumbersInYear": "169",
+        "ModelName": "Amazoom",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "9/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    },
+    {
+        "id": "ML20120396",
+        "YEAR": 2012,
+        "ToyID": "V5615",
+        "NumbersInYear": "173",
+        "ModelName": "'67 Pontiac GTO (2nd Color)",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Image_Not_Available.jpg/revision/latest?cb=20151025125428"
+    },
+    {
+        "id": "ML20120397",
+        "YEAR": 2012,
+        "ToyID": "V5481",
+        "NumbersInYear": "177",
+        "ModelName": "'71 Dodge Demon",
+        "Series": "HW Racing",
+        "SeriesNumber": "7/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Hot Wheels Windshield Banner Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/75/71_dodge_demon_2012_blue.png/revision/latest?cb=20120422154032"
+    },
+    {
+        "id": "ML20120398",
+        "YEAR": 2012,
+        "ToyID": "V5626",
+        "NumbersInYear": "033",
+        "ModelName": "Subaru WRX STI (2nd Color)",
+        "Series": "2012 New Models",
+        "SeriesNumber": "33/50\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/2012-033-NM33-SubaruWRXSTI-Red-RedlineSP5.jpg/revision/latest?cb=20120814003542"
+    },
+    {
+        "id": "ML20120399",
+        "YEAR": 2012,
+        "ToyID": "V5648",
+        "NumbersInYear": "081",
+        "ModelName": "'68 Dodge Dart (3rd Color)",
+        "Series": "Muscle Mania - Mopar",
+        "SeriesNumber": "1/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/da/2012-081-MMM01-68DodgeDart-Blue-Redline5SP.jpg/revision/latest?cb=20120814003003"
+    },
+    {
+        "id": "ML20120400",
+        "YEAR": 2012,
+        "ToyID": "V5408",
+        "NumbersInYear": "105",
+        "ModelName": "'67 Pontiac Firebird 400",
+        "Series": "Muscle Mania - GM",
+        "SeriesNumber": "5/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/42/V5408-redline.jpg/revision/latest?cb=20190602183323"
+    },
+    {
+        "id": "ML20120401",
+        "YEAR": 2012,
+        "ToyID": "V5650",
+        "NumbersInYear": "112",
+        "ModelName": "'66 Ford 427 Fairlane (2nd Color)",
+        "Series": "Muscle Mania - Ford",
+        "SeriesNumber": "2/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/65/V5650-redline.jpg/revision/latest?cb=20190602183340"
+    },
+    {
+        "id": "ML20120402",
+        "YEAR": 2012,
+        "ToyID": "V5651",
+        "NumbersInYear": "123",
+        "ModelName": "Aston Martin One-77 (3rd Color)",
+        "Series": "All Stars",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/A-1.jpg/revision/latest?cb=20170504023824"
+    },
+    {
+        "id": "ML20120403",
+        "YEAR": 2012,
+        "ToyID": "V5431",
+        "NumbersInYear": "128",
+        "ModelName": "Lamborghini Estoque",
+        "Series": "All Stars",
+        "SeriesNumber": "8/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/93/V5431-redline.jpg/revision/latest?cb=20190602183409"
+    },
+    {
+        "id": "ML20120404",
+        "YEAR": 2012,
+        "ToyID": "V5654",
+        "NumbersInYear": "140",
+        "ModelName": "Custom '69 Chevy Pickup (2nd Color)",
+        "Series": "HW City Works",
+        "SeriesNumber": "10/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/Custom_69_chevy_pickup_2012_satin_blue.jpg/revision/latest?cb=20120802034212"
+    },
+    {
+        "id": "ML20120405",
+        "YEAR": 2012,
+        "ToyID": "V5447",
+        "NumbersInYear": "143",
+        "ModelName": "Baja Breaker",
+        "Series": "HW Performance",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/52/Baja_breaker_2012_black.jpg/revision/latest?cb=20120802034211"
+    },
+    {
+        "id": "ML20120406",
+        "YEAR": 2012,
+        "ToyID": "V5457",
+        "NumbersInYear": "153",
+        "ModelName": "Dodge Challenger Concept",
+        "Series": "Heat Fleet",
+        "SeriesNumber": "3/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Dodge_challenger_concept_2012_green.jpg/revision/latest?cb=20120802034212"
+    },
+    {
+        "id": "ML20120407",
+        "YEAR": 2012,
+        "ToyID": "V5655",
+        "NumbersInYear": "179",
+        "ModelName": "'71 Maverick Grabber (2nd Color)",
+        "Series": "HW Racing",
+        "SeriesNumber": "9/10\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive",
+            "Redline Exclusives"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/V5655-redline.jpg/revision/latest?cb=20190602183428"
+    },
+    {
+        "id": "ML20120408",
+        "YEAR": 2012,
+        "ToyID": "Y5852",
+        "NumbersInYear": "",
+        "ModelName": "Rodzilla",
+        "Series": "Year of the Dragon Edition",
+        "SeriesNumber": "",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/Rodzilla_year_of_the_dragon_2012.jpg/revision/latest?cb=20120802034212"
+    }
+
+
+
+2014
+{
+        "id": "ML20140434",
+        "YEAR": 2014,
+        "ToyID": "BFV67",
+        "NumbersInYear": "",
+        "ModelName": "Bone Shaker",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "1/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/Bone_Shaker-20455.jpg/revision/latest?cb=20141214192315"
+    },
+    {
+        "id": "ML20140435",
+        "YEAR": 2014,
+        "ToyID": "BFV68",
+        "NumbersInYear": "",
+        "ModelName": "'06 Dodge Viper SRT10",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "2/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/2014-red-kroger-mystery.jpg/revision/latest?cb=20180814135717"
+    },
+    {
+        "id": "ML20140436",
+        "YEAR": 2014,
+        "ToyID": "BFV69",
+        "NumbersInYear": "",
+        "ModelName": "'66 Chevy Nova",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "3/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/66_Chevy_Nova-20453.jpg/revision/latest?cb=20141214190125"
+    },
+    {
+        "id": "ML20140437",
+        "YEAR": 2014,
+        "ToyID": "CGN47",
+        "NumbersInYear": "",
+        "ModelName": "Triumph TR6",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "4/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Triumph_TR6-20454.jpg/revision/latest?cb=20141214191131"
+    }
+เป็น---------------------------------------------------------------------------------------------------------------------------------
+ {
+        "id": "ML20140434",
+        "YEAR": 2014,
+        "ToyID": "BFV67",
+        "NumbersInYear": "",
+        "ModelName": "Bone Shaker",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "1/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/Bone_Shaker-20455.jpg/revision/latest?cb=20141214192315"
+    },
+    {
+        "id": "ML20140435",
+        "YEAR": 2014,
+        "ToyID": "BFV68",
+        "NumbersInYear": "",
+        "ModelName": "'06 Dodge Viper SRT10",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "2/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/2014-red-kroger-mystery.jpg/revision/latest?cb=20180814135717"
+    },
+    {
+        "id": "ML20140436",
+        "YEAR": 2014,
+        "ToyID": "BFV69",
+        "NumbersInYear": "",
+        "ModelName": "'66 Chevy Nova",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "3/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/66_Chevy_Nova-20453.jpg/revision/latest?cb=20141214190125"
+    },
+    {
+        "id": "ML20140437",
+        "YEAR": 2014,
+        "ToyID": "CGN47",
+        "NumbersInYear": "",
+        "ModelName": "Triumph TR6",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "4/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/35/Triumph_TR6-20454.jpg/revision/latest?cb=20141214191131"
+    }
+
+2015
+    {
+        "id": "ML20150434",
+        "YEAR": 2015,
+        "ToyID": "CFK11",
+        "NumbersInYear": "",
+        "ModelName": "Power Pipes",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "1/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/86/PowerPipesCFK11.jpg/revision/latest?cb=20150704234656"
+    },
+    {
+        "id": "ML20150435",
+        "YEAR": 2015,
+        "ToyID": "CFK12",
+        "NumbersInYear": "",
+        "ModelName": "'11 Dodge Charger R/T",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "2/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/%2711_Dodge_Charger_R-T.JPG/revision/latest?cb=20160202151147"
+    },
+    {
+        "id": "ML20150436",
+        "YEAR": 2015,
+        "ToyID": "DJC79",
+        "NumbersInYear": "",
+        "ModelName": "'70 Pontiac GTO Judge",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "3/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/57/Gto_judge_white_2014.jpg/revision/latest?cb=20181029025833"
+    },
+    {
+        "id": "ML20150437",
+        "YEAR": 2015,
+        "ToyID": "CFK13",
+        "NumbersInYear": "",
+        "ModelName": "Growler",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "4/4",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/GrowlerCFK13.jpg/revision/latest?cb=20150621183635"
+    }
+เป็น---------------------------------------------------------------------------------------------------------------------------------
+ {
+        "id": "ML20150434",
+        "YEAR": 2015,
+        "ToyID": "CFK11",
+        "NumbersInYear": "",
+        "ModelName": "Power Pipes",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "1/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/86/PowerPipesCFK11.jpg/revision/latest?cb=20150704234656"
+    },
+    {
+        "id": "ML20150435",
+        "YEAR": 2015,
+        "ToyID": "CFK12",
+        "NumbersInYear": "",
+        "ModelName": "'11 Dodge Charger R/T",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "2/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/%2711_Dodge_Charger_R-T.JPG/revision/latest?cb=20160202151147"
+    },
+    {
+        "id": "ML20150436",
+        "YEAR": 2015,
+        "ToyID": "DJC79",
+        "NumbersInYear": "",
+        "ModelName": "'70 Pontiac GTO Judge",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "3/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/57/Gto_judge_white_2014.jpg/revision/latest?cb=20181029025833"
+    },
+    {
+        "id": "ML20150437",
+        "YEAR": 2015,
+        "ToyID": "CFK13",
+        "NumbersInYear": "",
+        "ModelName": "Growler",
+        "Series": "Scavenger Hunt",
+        "SeriesNumber": "4/4",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/GrowlerCFK13.jpg/revision/latest?cb=20150621183635"
+    }
+
+
+
+2016
+    {
+        "id": "ML20160434",
+        "YEAR": 2016,
+        "ToyID": "DHY13",
+        "NumbersInYear": "",
+        "ModelName": "Mountain Mauler",
+        "Series": "Special Edition",
+        "SeriesNumber": "1/4\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Kroger_Mountain_Mauler.jpg/revision/latest?cb=20170203210752"
+    },
+    {
+        "id": "ML20160435",
+        "YEAR": 2016,
+        "ToyID": "DHY14",
+        "NumbersInYear": "",
+        "ModelName": "Hypertruck",
+        "Series": "Special Edition",
+        "SeriesNumber": "2/4\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/HypertruckDHY14.jpg/revision/latest?cb=20170218050948"
+    },
+    {
+        "id": "ML20160436",
+        "YEAR": 2016,
+        "ToyID": "DHY15",
+        "NumbersInYear": "",
+        "ModelName": "F-Racer",
+        "Series": "Special Edition",
+        "SeriesNumber": "3/4\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Dhy15.jpg/revision/latest?cb=20190814134607"
+    },
+    {
+        "id": "ML20160437",
+        "YEAR": 2016,
+        "ToyID": "DLH90",
+        "NumbersInYear": "",
+        "ModelName": "Maelstrom",
+        "Series": "Special Edition",
+        "SeriesNumber": "4/4\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/2016Maelstrom.JPG/revision/latest?cb=20160517030914"
+    },
+    {
+        "id": "ML20160438",
+        "YEAR": 2016,
+        "ToyID": "DLP31",
+        "NumbersInYear": "",
+        "ModelName": "24 Ours",
+        "Series": "Snowflake Edition",
+        "SeriesNumber": "No #\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/2016_24_Ours.jpg/revision/latest?cb=20151231033119"
+    },
+    {
+        "id": "ML20160439",
+        "YEAR": 2016,
+        "ToyID": "DLP32",
+        "NumbersInYear": "",
+        "ModelName": "Flight '03",
+        "Series": "Snowflake Edition",
+        "SeriesNumber": "No #\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/16sfDLP32yellow800.jpg/revision/latest?cb=20151118213752"
+    },
+    {
+        "id": "ML20160440",
+        "YEAR": 2016,
+        "ToyID": "DMY62",
+        "NumbersInYear": "",
+        "ModelName": "Fast 4WD",
+        "Series": "Spring Edition",
+        "SeriesNumber": "No #\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/Fast4WDDMY62.jpg/revision/latest?cb=20160907183605"
+    },
+    {
+        "id": "ML20160441",
+        "YEAR": 2016,
+        "ToyID": "DMY63",
+        "NumbersInYear": "",
+        "ModelName": "Anthracite",
+        "Series": "Spring Edition",
+        "SeriesNumber": "No #\u200b",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/67/Anthracite_Spring_Card.JPG/revision/latest?cb=20220302000827"
+    }
+
+เป็น---------------------------------------------------------------------------------------------------------------------------------
+
+{
+        "id": "ML20160434",
+        "YEAR": 2016,
+        "ToyID": "DHY13",
+        "NumbersInYear": "",
+        "ModelName": "Mountain Mauler",
+        "Series": "Special Edition",
+        "SeriesNumber": "1/4\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fc/Kroger_Mountain_Mauler.jpg/revision/latest?cb=20170203210752"
+    },
+    {
+        "id": "ML20160435",
+        "YEAR": 2016,
+        "ToyID": "DHY14",
+        "NumbersInYear": "",
+        "ModelName": "Hypertruck",
+        "Series": "Special Edition",
+        "SeriesNumber": "2/4\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/HypertruckDHY14.jpg/revision/latest?cb=20170218050948"
+    },
+    {
+        "id": "ML20160436",
+        "YEAR": 2016,
+        "ToyID": "DHY15",
+        "NumbersInYear": "",
+        "ModelName": "F-Racer",
+        "Series": "Special Edition",
+        "SeriesNumber": "3/4\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/32/Dhy15.jpg/revision/latest?cb=20190814134607"
+    },
+    {
+        "id": "ML20160437",
+        "YEAR": 2016,
+        "ToyID": "DLH90",
+        "NumbersInYear": "",
+        "ModelName": "Maelstrom",
+        "Series": "Special Edition",
+        "SeriesNumber": "4/4\u200b",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/2016Maelstrom.JPG/revision/latest?cb=20160517030914"
+    },
+    {
+        "id": "ML20160438",
+        "YEAR": 2016,
+        "ToyID": "DLP31",
+        "NumbersInYear": "",
+        "ModelName": "24 Ours",
+        "Series": "Snowflake Edition",
+        "SeriesNumber": "",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/2016_24_Ours.jpg/revision/latest?cb=20151231033119"
+    },
+    {
+        "id": "ML20160439",
+        "YEAR": 2016,
+        "ToyID": "DLP32",
+        "NumbersInYear": "",
+        "ModelName": "Flight '03",
+        "Series": "Snowflake Edition",
+        "SeriesNumber": "",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/16sfDLP32yellow800.jpg/revision/latest?cb=20151118213752"
+    },
+    {
+        "id": "ML20160440",
+        "YEAR": 2016,
+        "ToyID": "DMY62",
+        "NumbersInYear": "",
+        "ModelName": "Fast 4WD",
+        "Series": "Spring Edition",
+        "SeriesNumber": "",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/Fast4WDDMY62.jpg/revision/latest?cb=20160907183605"
+    },
+    {
+        "id": "ML20160441",
+        "YEAR": 2016,
+        "ToyID": "DMY63",
+        "NumbersInYear": "",
+        "ModelName": "Anthracite",
+        "Series": "Spring Edition",
+        "SeriesNumber": "",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/67/Anthracite_Spring_Card.JPG/revision/latest?cb=20220302000827"
+    }
+
+
+2017
+เปลี่ยนท่อนล่างเป็น
+
+{
+        "id": "ML20170366",
+        "YEAR": 2017,
+        "ToyID": "DVC99",
+        "NumbersInYear": "",
+        "ModelName": "Winning Formula",
+        "Series": "Legends of Speed",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/Winning_Formula_-_17_Legends_of_Speed_600pxOTD.jpg/revision/latest?cb=20161122074205"
+    },
+    {
+        "id": "ML20170367",
+        "YEAR": 2017,
+        "ToyID": "DVD02",
+        "NumbersInYear": "",
+        "ModelName": "Fangula",
+        "Series": "Fright Cars",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/Fangula-17-fright-cars-600pxotd.png/revision/latest?cb=20170207192623"
+    },
+    {
+        "id": "ML20170368",
+        "YEAR": 2017,
+        "ToyID": "DVD11",
+        "NumbersInYear": "",
+        "ModelName": "Dragon Blaster",
+        "Series": "Street Beasts",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/16/THDragonBlaster.jpg/revision/latest?cb=20161130115008"
+    },
+    {
+        "id": "ML20170369",
+        "YEAR": 2017,
+        "ToyID": "DVD01",
+        "NumbersInYear": "",
+        "ModelName": "'69 Camaro Z28",
+        "Series": "Tooned",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/DVD01_01.jpg/revision/latest?cb=20170109195408"
+    },
+    {
+        "id": "ML20170370",
+        "YEAR": 2017,
+        "ToyID": "DVD00",
+        "NumbersInYear": "",
+        "ModelName": "Tooligan",
+        "Series": "Experimotors",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/84/IMG20170615145417.jpg/revision/latest?cb=20170615065814"
+    },
+    {
+        "id": "ML20170371",
+        "YEAR": 2017,
+        "ToyID": "DVD07",
+        "NumbersInYear": "",
+        "ModelName": "So Plowed",
+        "Series": "HW Snow Stormers",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/93/SoPlowedTH.jpg/revision/latest?cb=20180107121335"
+    },
+    {
+        "id": "ML20170372",
+        "YEAR": 2017,
+        "ToyID": "DVD04",
+        "NumbersInYear": "",
+        "ModelName": "HW Pursuit",
+        "Series": "HW Rescue",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/79/TH-2017-HWPursuit.jpg/revision/latest?cb=20170305032119"
+    },
+    {
+        "id": "ML20170373",
+        "YEAR": 2017,
+        "ToyID": "DVD03",
+        "NumbersInYear": "",
+        "ModelName": "Fandango",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/Fandango-17th-hwartcars-600pxotd.png/revision/latest?cb=20170403165743"
+    },
+    {
+        "id": "ML20170374",
+        "YEAR": 2017,
+        "ToyID": "DVD09",
+        "NumbersInYear": "",
+        "ModelName": "Pedal Driver",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/53/IMG20170618121008.jpg/revision/latest?cb=20170618041324"
+    },
+    {
+        "id": "ML20170375",
+        "YEAR": 2017,
+        "ToyID": "DVD13",
+        "NumbersInYear": "",
+        "ModelName": "Blade Raider",
+        "Series": "HW Digital Circuit",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/Blade-raider-17-hwdigitalcircuit-red-th-600pxotd.png/revision/latest?cb=20170605194257"
+    },
+    {
+        "id": "ML20170376",
+        "YEAR": 2017,
+        "ToyID": "DVD05",
+        "NumbersInYear": "",
+        "ModelName": "Arrow Dynamic",
+        "Series": "X-Raycers",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4d/ArrowDynamicTHDVD052017.jpg/revision/latest?cb=20170716080639"
+    },
+    {
+        "id": "ML20170377",
+        "YEAR": 2017,
+        "ToyID": "DVD08",
+        "NumbersInYear": "",
+        "ModelName": "24 Ours (2nd Color)",
+        "Series": "HW Glow Wheels",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/07/2017_24_Ours_-THunt.jpg/revision/latest?cb=20180821025650"
+    },
+    {
+        "id": "ML20170378",
+        "YEAR": 2017,
+        "ToyID": "DVD12",
+        "NumbersInYear": "",
+        "ModelName": "Hot Wheels Ford Transit Connect (2nd Color)",
+        "Series": "HW City Works",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/2017_HW_City_Works_06-10_Hot_Wheels_Ford_Transit_Connect_%27Pizza_Express%27_-Treasure_Hunt-_Black_.jpg/revision/latest?cb=20170822020033"
+    },
+    {
+        "id": "ML20170379",
+        "YEAR": 2017,
+        "ToyID": "DVC90",
+        "NumbersInYear": "",
+        "ModelName": "Blast Lane (2nd Color)",
+        "Series": "HW Moto",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/BlastLane2017TH.jpg/revision/latest?cb=20180101084708"
+    },
+    {
+        "id": "ML20170380",
+        "YEAR": 2017,
+        "ToyID": "DVD06",
+        "NumbersInYear": "",
+        "ModelName": "Pharodox (2nd Color)",
+        "Series": "Super Chromes",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/91/Pharodox-2017-gold-TH.jpg/revision/latest?cb=20190314225436"
+    },
+    {
+        "id": "ML20170381",
+        "YEAR": 2017,
+        "ToyID": "DVC89",
+        "NumbersInYear": "",
+        "ModelName": "'63 Chevy II",
+        "Series": "HW Flames",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/%2763_Chevy_II_DVC89.png/revision/latest?cb=20170420205752"
+    },
+    {
+        "id": "ML20170382",
+        "YEAR": 2017,
+        "ToyID": "DVC84",
+        "NumbersInYear": "",
+        "ModelName": "The Mystery Machine",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/13/The_Mystery_Machine-HW_2017_TH-ScreenTime.jpg/revision/latest?cb=20170609033514"
+    },
+    {
+        "id": "ML20170383",
+        "YEAR": 2017,
+        "ToyID": "DVC85",
+        "NumbersInYear": "",
+        "ModelName": "16 Angels",
+        "Series": "Holiday Racers",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/95/THS-2017-16Angels.JPG/revision/latest?cb=20170305020107"
+    },
+    {
+        "id": "ML20170384",
+        "YEAR": 2017,
+        "ToyID": "DVC87",
+        "NumbersInYear": "",
+        "ModelName": "Toyota Off-Road Truck",
+        "Series": "HW Speed Graphics",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Hot_Wheels_-_Toyota_Off-Road_Truck_%28Falken%29_Blue_4.jpg/revision/latest?cb=20180306064414"
+    },
+    {
+        "id": "ML20170385",
+        "YEAR": 2017,
+        "ToyID": "DVD10",
+        "NumbersInYear": "",
+        "ModelName": "Surf Crate",
+        "Series": "Surf's Up",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/72/Surf_Crate_%28DVD10%29_01.jpg/revision/latest?cb=20170830174343"
+    },
+    {
+        "id": "ML20170386",
+        "YEAR": 2017,
+        "ToyID": "DVC86",
+        "NumbersInYear": "",
+        "ModelName": "'17 Acura NSX",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/38/2017-THS-17AcuraNSX.jpg/revision/latest?cb=20170311010702"
+    },
+    {
+        "id": "ML20170387",
+        "YEAR": 2017,
+        "ToyID": "DVC88",
+        "NumbersInYear": "",
+        "ModelName": "'67 Chevy C10",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/RC227STH.jpg/revision/latest?cb=20170328021941"
+    },
+    {
+        "id": "ML20170388",
+        "YEAR": 2017,
+        "ToyID": "DVC91",
+        "NumbersInYear": "",
+        "ModelName": "Batmobile",
+        "Series": "Batman",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/Batmobile_DVC91.jpg/revision/latest?cb=20170920180001"
+    },
+    {
+        "id": "ML20170389",
+        "YEAR": 2017,
+        "ToyID": "DVC97",
+        "NumbersInYear": "",
+        "ModelName": "2013 SRT Viper",
+        "Series": "Then and Now",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/13-dodge-viper-srt-17thenandnow-gld-600pxotd.png/revision/latest?cb=20170522173207"
+    },
+    {
+        "id": "ML20170390",
+        "YEAR": 2017,
+        "ToyID": "DVC92",
+        "NumbersInYear": "",
+        "ModelName": "Cruise Bruiser",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/84/Cruise_Bruiser_-_17_HWDaredevils_SUPER_600pxOTD.png/revision/latest?cb=20170605193052"
+    },
+    {
+        "id": "ML20170391",
+        "YEAR": 2017,
+        "ToyID": "DVC95",
+        "NumbersInYear": "",
+        "ModelName": "'69 Chevelle SS 396",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/83/69chevelless3962017supertreasureloose.jpg/revision/latest?cb=20171022200513"
+    },
+    {
+        "id": "ML20170392",
+        "YEAR": 2017,
+        "ToyID": "DVC93",
+        "NumbersInYear": "",
+        "ModelName": "2005 Ford Mustang",
+        "Series": "HW Race Team",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/76/2005_Mustang_%28DVC93%29_01.jpg/revision/latest?cb=20170903004337"
+    },
+    {
+        "id": "ML20170393",
+        "YEAR": 2017,
+        "ToyID": "DVC96",
+        "NumbersInYear": "",
+        "ModelName": "'67 Camaro",
+        "Series": "Camaro Fifty",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/67-camaro-17th-camaro-fifty-sth-dkred-1kpxotd.png/revision/latest?cb=20170814163649"
+    },
+    {
+        "id": "ML20170394",
+        "YEAR": 2017,
+        "ToyID": "DVC98",
+        "NumbersInYear": "",
+        "ModelName": "Velocita",
+        "Series": "HW Exotics",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/38/Velocita_%28DVC98%29.jpg/revision/latest?cb=20170917005951"
+    },
+    {
+        "id": "ML20170395",
+        "YEAR": 2017,
+        "ToyID": "DVC94",
+        "NumbersInYear": "",
+        "ModelName": "Nissan Fairlady Z",
+        "Series": "Nightburnerz",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/45/NissanFairladyZ2017STH.jpg/revision/latest?cb=20170921235126"
+    },
+    {
+        "id": "ML20170396",
+        "YEAR": 2017,
+        "ToyID": "FBH95",
+        "NumbersInYear": "",
+        "ModelName": "'14 Corvette Stingray (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "1/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/14_Corvette_Stingray_%28FBH95%29.JPG/revision/latest?cb=20171020011629"
+    },
+    {
+        "id": "ML20170397",
+        "YEAR": 2017,
+        "ToyID": "FDR60",
+        "NumbersInYear": "",
+        "ModelName": "'55 Chevy Bel Air Gasser (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "2/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/06/55_Chevy_Gasser_-_17_Red_Edition_600pxOTD.png/revision/latest?cb=20170107070849"
+    },
+    {
+        "id": "ML20170398",
+        "YEAR": 2017,
+        "ToyID": "FDR61",
+        "NumbersInYear": "",
+        "ModelName": "'77 Pontiac Firebird (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "3/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/77_Pontiac_Firebird_-_17_Red_Edition_600pxOTD.png/revision/latest?cb=20170301073732"
+    },
+    {
+        "id": "ML20170399",
+        "YEAR": 2017,
+        "ToyID": "FBH94",
+        "NumbersInYear": "",
+        "ModelName": "Rescue Duty (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "4/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/68/2017_Rescue_Duty_-_Target_Red_Edition.jpg/revision/latest?cb=20171222180238"
+    },
+    {
+        "id": "ML20170400",
+        "YEAR": 2017,
+        "ToyID": "FDR62",
+        "NumbersInYear": "",
+        "ModelName": "'64 Lincoln Continental (3rd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "5/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/11/64_Lincoln_Continental_%28FDR62%29.JPG/revision/latest?cb=20171022000537"
+    },
+    {
+        "id": "ML20170401",
+        "YEAR": 2017,
+        "ToyID": "FDR63",
+        "NumbersInYear": "",
+        "ModelName": "2005 Corvette C6 (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "6/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/Tooned_Corvette_C6_%28FDR63%29.JPG/revision/latest?cb=20171022000119"
+    },
+    {
+        "id": "ML20170402",
+        "YEAR": 2017,
+        "ToyID": "FBH81",
+        "NumbersInYear": "",
+        "ModelName": "Night Shifter (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "7/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/NightShifterFBH81.jpg/revision/latest?cb=20171002191116"
+    },
+    {
+        "id": "ML20170403",
+        "YEAR": 2017,
+        "ToyID": "FBJ14",
+        "NumbersInYear": "",
+        "ModelName": "'68 Chevy Nova (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "8/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/HW_68_CHEVY_NOVA_1_C.jpg/revision/latest?cb=20170706162839"
+    },
+    {
+        "id": "ML20170404",
+        "YEAR": 2017,
+        "ToyID": "FDR64",
+        "NumbersInYear": "",
+        "ModelName": "'15 Dodge Charger SRT (3rd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "9/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/%2715Charger.Red_Edition.jpg/revision/latest?cb=20180819021146"
+    },
+    {
+        "id": "ML20170405",
+        "YEAR": 2017,
+        "ToyID": "FDR65",
+        "NumbersInYear": "",
+        "ModelName": "'67 Pontiac Firebird 400 (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "10/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/67_Pontiac_Firebird_400_2017_Red_Edition.jpg/revision/latest?cb=20171014202752"
+    },
+    {
+        "id": "ML20170406",
+        "YEAR": 2017,
+        "ToyID": "FDR66",
+        "NumbersInYear": "",
+        "ModelName": "'70 Chevy Chevelle (3rd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "11/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/58/70-chevy-chevelle-SS-white-target.jpg/revision/latest?cb=20190930062644"
+    },
+    {
+        "id": "ML20170407",
+        "YEAR": 2017,
+        "ToyID": "FDR67",
+        "NumbersInYear": "",
+        "ModelName": "Kool Kombi (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "12/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Kool_Kombi_%28FDR67%29.jpg/revision/latest?cb=20171015201429"
+    },
+    {
+        "id": "ML20170408",
+        "YEAR": 2017,
+        "ToyID": "FBJ03",
+        "NumbersInYear": "",
+        "ModelName": "'73 BMW 3.0 CSL Race Car (2nd Color)",
+        "Series": "HW Speed Graphics",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/14/%2773_BMW_3.0_CSL_Race_Car-HW_2017-SpeedGraphics.jpg/revision/latest?cb=20170609033159"
+    },
+    {
+        "id": "ML20170409",
+        "YEAR": 2017,
+        "ToyID": "FBH87",
+        "NumbersInYear": "",
+        "ModelName": "Ford Focus RS (2nd Color)",
+        "Series": "HW Speed Graphics",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/Ford_Focus_RS-HW_2017-SpeedGraphics.jpg/revision/latest?cb=20170604173551"
+    },
+    {
+        "id": "ML20170410",
+        "YEAR": 2017,
+        "ToyID": "FBJ07",
+        "NumbersInYear": "",
+        "ModelName": "'67 Pontiac GTO (2nd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/%2767_Pontiac_GTO-HW_2017-MuscleMania.jpg/revision/latest?cb=20170604173619"
+    },
+    {
+        "id": "ML20170411",
+        "YEAR": 2017,
+        "ToyID": "FBH83",
+        "NumbersInYear": "",
+        "ModelName": "Dodge Charger Daytona (3rd Color)",
+        "Series": "Tooned",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/FBH83.jpg/revision/latest?cb=20170807203630"
+    },
+    {
+        "id": "ML20170412",
+        "YEAR": 2017,
+        "ToyID": "FBH86",
+        "NumbersInYear": "",
+        "ModelName": "Custom '01 Acura Integra GSR (2nd Color)",
+        "Series": "HW Speed Graphics",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/ZamacIntegra.jpg/revision/latest?cb=20181117001704"
+    },
+    {
+        "id": "ML20170413",
+        "YEAR": 2017,
+        "ToyID": "FBH93",
+        "NumbersInYear": "",
+        "ModelName": "Zotic (3rd Color)",
+        "Series": "HW Speed Graphics",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b1/FBH93.jpg/revision/latest?cb=20170807204555"
+    },
+    {
+        "id": "ML20170414",
+        "YEAR": 2017,
+        "ToyID": "FBH84",
+        "NumbersInYear": "",
+        "ModelName": "Volkswagen Beetle (3rd Color)",
+        "Series": "Tooned",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/49/FBH84.jpg/revision/latest?cb=20170807202340"
+    },
+    {
+        "id": "ML20170415",
+        "YEAR": 2017,
+        "ToyID": "FBH88",
+        "NumbersInYear": "",
+        "ModelName": "Street Creeper (2nd Color)",
+        "Series": "Fright Cars",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/61/FBH88.JPG/revision/latest?cb=20171106031049"
+    },
+    {
+        "id": "ML20170416",
+        "YEAR": 2017,
+        "ToyID": "FBH90",
+        "NumbersInYear": "",
+        "ModelName": "Dodge Ram 1500 (2nd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/68/Dodge_Ram_1500_ZAMAC_2017.jpg/revision/latest?cb=20170526171050"
+    },
+    {
+        "id": "ML20170417",
+        "YEAR": 2017,
+        "ToyID": "FBH85",
+        "NumbersInYear": "",
+        "ModelName": "Porsche 993 GT2 (2nd Color)",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/Gt2zamac.jpg/revision/latest?cb=20171113095613"
+    },
+    {
+        "id": "ML20170418",
+        "YEAR": 2017,
+        "ToyID": "FBJ16",
+        "NumbersInYear": "",
+        "ModelName": "'32 Ford (3rd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/32_Ford_%28FBJ16%29_02.jpg/revision/latest?cb=20170925000905"
+    },
+    {
+        "id": "ML20170419",
+        "YEAR": 2017,
+        "ToyID": "FBJ06",
+        "NumbersInYear": "",
+        "ModelName": "Ford Shelby GT350R (2nd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/24/FBJ06.jpg/revision/latest?cb=20170620173100"
+    },
+    {
+        "id": "ML20170420",
+        "YEAR": 2017,
+        "ToyID": "FBJ17",
+        "NumbersInYear": "",
+        "ModelName": "'68 Dodge Dart (3rd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/88/FBJ17.jpg/revision/latest?cb=20170807210622"
+    },
+    {
+        "id": "ML20170421",
+        "YEAR": 2017,
+        "ToyID": "FBJ01",
+        "NumbersInYear": "",
+        "ModelName": "'71 Datsun Bluebird 510 Wagon (2nd Color)",
+        "Series": "Surf's Up",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/96/71_Datsun_Bluebird_510_Wagon_Zamac.jpg/revision/latest?cb=20170817021248"
+    },
+    {
+        "id": "ML20170422",
+        "YEAR": 2017,
+        "ToyID": "FBJ08",
+        "NumbersInYear": "",
+        "ModelName": "D-Muscle (2nd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/FBJ08.jpg/revision/latest?cb=20170807212016"
+    },
+    {
+        "id": "ML20170423",
+        "YEAR": 2017,
+        "ToyID": "FBH97",
+        "NumbersInYear": "",
+        "ModelName": "Blast Lane (3rd Color)",
+        "Series": "HW Moto",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Blast_Lane_FBH97_Zamac.jpeg/revision/latest?cb=20180706222223"
+    },
+    {
+        "id": "ML20170424",
+        "YEAR": 2017,
+        "ToyID": "FTK55",
+        "NumbersInYear": "",
+        "ModelName": "Custom Ford Bronco (3rd Color)",
+        "Series": "Surf's Up",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/55/FTK55.JPG/revision/latest?cb=20181130172220"
+    },
+    {
+        "id": "ML20170425",
+        "YEAR": 2017,
+        "ToyID": "FBP05",
+        "NumbersInYear": "",
+        "ModelName": "'67 Camaro (2nd Color)",
+        "Series": "Camaro Fifty",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/33/67%27camaro_zamac.jpg/revision/latest?cb=20181130170712"
+    },
+    {
+        "id": "ML20170426",
+        "YEAR": 2017,
+        "ToyID": "FBH82",
+        "NumbersInYear": "",
+        "ModelName": "Custom '56 Ford Truck (2nd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/Custom_%2756_Ford_Truck-HW_2017_--HotTrucks-Kmart.jpg/revision/latest?cb=20170604180502"
+    },
+    {
+        "id": "ML20170427",
+        "YEAR": 2017,
+        "ToyID": "FBH92",
+        "NumbersInYear": "",
+        "ModelName": "Cool-One (3rd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/HW_COOL_ONE_4_C.jpg/revision/latest?cb=20170608171714"
+    },
+    {
+        "id": "ML20170428",
+        "YEAR": 2017,
+        "ToyID": "FBJ05",
+        "NumbersInYear": "",
+        "ModelName": "Dodge Viper SRT10 ACR (2nd Color)",
+        "Series": "Nightburnerz",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/Dodge_Viper_SRT10_ACR-HW_2017--NightBurnerz-Kmart.jpg/revision/latest?cb=20170604180535"
+    },
+    {
+        "id": "ML20170429",
+        "YEAR": 2017,
+        "ToyID": "FBJ15",
+        "NumbersInYear": "",
+        "ModelName": "'55 Chevy (2nd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/30/%2755_Chevy-HW_2017_--Flames-Kmart.jpg/revision/latest?cb=20170604180427"
+    },
+    {
+        "id": "ML20170430",
+        "YEAR": 2017,
+        "ToyID": "FBH96",
+        "NumbersInYear": "",
+        "ModelName": "Hi-Roller (2nd Color)",
+        "Series": "X-Raycers",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/06/HI-ROLLER_FBH96.JPG/revision/latest?cb=20180126002610"
+    },
+    {
+        "id": "ML20170431",
+        "YEAR": 2017,
+        "ToyID": "FBJ02",
+        "NumbersInYear": "",
+        "ModelName": "2005 Ford Mustang (2nd Color)",
+        "Series": "HW Race Team",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/05_Ford_Mustang_White_Kmart_Exclusive.jpg/revision/latest?cb=20170917213110"
+    },
+    {
+        "id": "ML20170432",
+        "YEAR": 2017,
+        "ToyID": "FBJ11",
+        "NumbersInYear": "",
+        "ModelName": "'95 Mazda RX-7 (2nd Color)",
+        "Series": "Then and Now",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/13/%2795_Mazda_RX_7-HW_2017_--Kmart_Exclusive.jpg/revision/latest?cb=20171205022545"
+    },
+    {
+        "id": "ML20170433",
+        "YEAR": 2017,
+        "ToyID": "FBJ12",
+        "NumbersInYear": "",
+        "ModelName": "Mazda RX-7 (2nd Color)",
+        "Series": "Then and Now",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/Mazda_RX_7-HW_2017_--Kmart_Exclusive.jpg/revision/latest?cb=20171205022619"
+    },
+    {
+        "id": "ML20170434",
+        "YEAR": 2017,
+        "ToyID": "FKB97",
+        "NumbersInYear": "",
+        "ModelName": "'90 Honda Civic EF (2nd Color)",
+        "Series": "Then and Now",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f8/Honda_Civic_EF_Kmart.jpg/revision/latest?cb=20180712065221"
+    },
+    {
+        "id": "ML20170435",
+        "YEAR": 2017,
+        "ToyID": "FKB98",
+        "NumbersInYear": "",
+        "ModelName": "Baja Hauler (3rd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/KMart_Baja_Hauler_1.jpg/revision/latest?cb=20180123092242"
+    },
+    {
+        "id": "ML20170436",
+        "YEAR": 2017,
+        "ToyID": "FKB99",
+        "NumbersInYear": "",
+        "ModelName": "Formula Flashback (2nd Color)",
+        "Series": "Legends of Speed",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/Formulaflashback-kmart.jpg/revision/latest?cb=20181202125506"
+    },
+    {
+        "id": "ML20170437",
+        "YEAR": 2017,
+        "ToyID": "FKC00",
+        "NumbersInYear": "",
+        "ModelName": "Surf Crate (2nd Color)",
+        "Series": "Surf's Up",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Surfcrate-kmart.jpg/revision/latest?cb=20181202131313"
+    },
+    {
+        "id": "ML20170438",
+        "YEAR": 2017,
+        "ToyID": "FBH98",
+        "NumbersInYear": "",
+        "ModelName": "Terrain Storm (3rd Color)",
+        "Series": "HW Snow Stormers",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/82/Terrain_Storm_FBH98.jpg/revision/latest?cb=20190317032531"
+    },
+    {
+        "id": "ML20170439",
+        "YEAR": 2017,
+        "ToyID": "FBJ00",
+        "NumbersInYear": "",
+        "ModelName": "Grass Chomper (2nd Color)",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/Krogergrasschomper.jpg/revision/latest?cb=20181202132914"
+    },
+    {
+        "id": "ML20170440",
+        "YEAR": 2017,
+        "ToyID": "FBJ13",
+        "NumbersInYear": "",
+        "ModelName": "Lamborghini Veneno (2nd Color)",
+        "Series": "HW Exotics",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/Lamborghini_Veneno_FBJ13.jpg/revision/latest?cb=20170519143607"
+    },
+    {
+        "id": "ML20170441",
+        "YEAR": 2017,
+        "ToyID": "FCJ75",
+        "NumbersInYear": "",
+        "ModelName": "Custom '72 Chevy LUV (2nd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/Krogerluv.jpg/revision/latest?cb=20181202133910"
+    },
+    {
+        "id": "ML20170442",
+        "YEAR": 2017,
+        "ToyID": "FBH89",
+        "NumbersInYear": "",
+        "ModelName": "'68 Plymouth Barracuda Formula S (2nd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Toys R Us Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/Toysrusbarracuda.jpg/revision/latest?cb=20181202140856"
+    },
+    {
+        "id": "ML20170443",
+        "YEAR": 2017,
+        "ToyID": "FBH99",
+        "NumbersInYear": "",
+        "ModelName": "Rip Rod (2nd Color)",
+        "Series": "HW Glow Wheels",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Toys R Us Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/90/FBH99_C.JPG/revision/latest?cb=20171124062736"
+    },
+    {
+        "id": "ML20170444",
+        "YEAR": 2017,
+        "ToyID": "FBJ09",
+        "NumbersInYear": "",
+        "ModelName": "'81 Camaro (2nd Color)",
+        "Series": "Camaro Fifty",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Toys R Us Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/78/Screen_Shot_2017-08-07_at_3.37.32_AM.png/revision/latest?cb=20170807073815"
+    },
+    {
+        "id": "ML20170445",
+        "YEAR": 2017,
+        "ToyID": "FDY58",
+        "NumbersInYear": "",
+        "ModelName": "1978 Dodge Li'l Red Express Truck (3rd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walgreens Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/1978_Dodge_Li%27l_Red_Express_Truck-HW_2017--Hot_Trucks.jpg/revision/latest?cb=20171205021901"
+    },
+    {
+        "id": "ML20170446",
+        "YEAR": 2017,
+        "ToyID": "DVD14",
+        "NumbersInYear": "",
+        "ModelName": "Rally Cat (2nd Color)",
+        "Series": "HW Digital Circuit",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/04/Rally-cat-2017-red.jpg/revision/latest?cb=20190311123609"
+    },
+    {
+        "id": "ML20170447",
+        "YEAR": 2017,
+        "ToyID": "DVD15",
+        "NumbersInYear": "",
+        "ModelName": "Solid Muscle (2nd Color)",
+        "Series": "HW Digital Circuit",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/98/SolidMuscleBlue.jpg/revision/latest?cb=20170925033558"
+    },
+    {
+        "id": "ML20170448",
+        "YEAR": 2017,
+        "ToyID": "DVD16",
+        "NumbersInYear": "",
+        "ModelName": "Blade Raider (2nd Color)",
+        "Series": "HW Digital Circuit",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/Blade-raider-17-hwdigitalcircuit-green-600pxotd.png/revision/latest?cb=20170605194411"
+    },
+    {
+        "id": "ML20170449",
+        "YEAR": 2017,
+        "ToyID": "DVD17",
+        "NumbersInYear": "",
+        "ModelName": "Tour de Fast (2nd Color)",
+        "Series": "HW Digital Circuit",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/Tour_de_Fast_-_17_HWDigitalCircuit_BLACK_600pxOTD.png/revision/latest?cb=20170503072505"
+    },
+    {
+        "id": "ML20170450",
+        "YEAR": 2017,
+        "ToyID": "DVD18",
+        "NumbersInYear": "",
+        "ModelName": "Futurismo (2nd Color)",
+        "Series": "HW Digital Circuit",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/DSCN5112.jpg/revision/latest?cb=20170707162814"
+    }
+
+
+
+
+2018
+เปลี่ยนท่อนล่างเป็น
+{
+        "id": "ML20180366",
+        "YEAR": 2018,
+        "ToyID": "FKB29",
+        "NumbersInYear": "",
+        "ModelName": "Sting Rod II",
+        "Series": "Dino Riders",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/StingRodIITH2018.jpg/revision/latest?cb=20171212115414"
+    },
+    {
+        "id": "ML20180367",
+        "YEAR": 2018,
+        "ToyID": "FJW90",
+        "NumbersInYear": "",
+        "ModelName": "El Viento",
+        "Series": "X-Raycers",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/ElVientoFJW90OTH.jpg/revision/latest?cb=20171107204654"
+    },
+    {
+        "id": "ML20180368",
+        "YEAR": 2018,
+        "ToyID": "FKB31",
+        "NumbersInYear": "",
+        "ModelName": "Tanknator",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/TH_FKB31C.JPG/revision/latest?cb=20171207191826"
+    },
+    {
+        "id": "ML20180369",
+        "YEAR": 2018,
+        "ToyID": "FKB28",
+        "NumbersInYear": "",
+        "ModelName": "Street Stealth",
+        "Series": "HW Moto",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/88/StreetStealthTH.jpg/revision/latest?cb=20171223043951"
+    },
+    {
+        "id": "ML20180370",
+        "YEAR": 2018,
+        "ToyID": "FKB32",
+        "NumbersInYear": "",
+        "ModelName": "Zombot",
+        "Series": "HW Robots",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/ZombotTH2018.jpg/revision/latest?cb=20180127071919"
+    },
+    {
+        "id": "ML20180371",
+        "YEAR": 2018,
+        "ToyID": "FKB23",
+        "NumbersInYear": "",
+        "ModelName": "Rockster",
+        "Series": "HW Sports",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/RocksterFKB23.jpeg/revision/latest?cb=20180308192732"
+    },
+    {
+        "id": "ML20180372",
+        "YEAR": 2018,
+        "ToyID": "FKB27",
+        "NumbersInYear": "",
+        "ModelName": "Blitzspeeder (2nd Color)",
+        "Series": "Super Chromes",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/BLITZSPEEDER_TH_FKB27.jpg/revision/latest?cb=20180319213503"
+    },
+    {
+        "id": "ML20180373",
+        "YEAR": 2018,
+        "ToyID": "FKB22",
+        "NumbersInYear": "",
+        "ModelName": "RRRoadster (2nd Color)",
+        "Series": "Holiday Racers",
+        "SeriesNumber": "5/6",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/RRROADSTER_TH_FKB22.jpg/revision/latest?cb=20180401013752"
+    },
+    {
+        "id": "ML20180374",
+        "YEAR": 2018,
+        "ToyID": "FKB25",
+        "NumbersInYear": "",
+        "ModelName": "Kool Kombi",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/1193.JPG/revision/latest?cb=20180601200635"
+    },
+    {
+        "id": "ML20180375",
+        "YEAR": 2018,
+        "ToyID": "FKB35",
+        "NumbersInYear": "",
+        "ModelName": "Bump Around (2nd Color)",
+        "Series": "HW Fun Park",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/Bump_around_th.PNG/revision/latest?cb=20180723213421"
+    },
+    {
+        "id": "ML20180376",
+        "YEAR": 2018,
+        "ToyID": "FKB30",
+        "NumbersInYear": "",
+        "ModelName": "Hollowback (2nd Color)",
+        "Series": "HW Glow Wheels",
+        "SeriesNumber": "6/10\u200b",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/37361131_1911487095815102_4104254444361744384_n.jpg/revision/latest?cb=20180718163525"
+    },
+    {
+        "id": "ML20180377",
+        "YEAR": 2018,
+        "ToyID": "FKB34",
+        "NumbersInYear": "",
+        "ModelName": "Quick Bite (2nd Color)",
+        "Series": "Fast Foodie",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/18/QuickBite2018TH.png/revision/latest?cb=20180727161907"
+    },
+    {
+        "id": "ML20180378",
+        "YEAR": 2018,
+        "ToyID": "FKB33",
+        "NumbersInYear": "",
+        "ModelName": "Ratical Racer (2nd Color)",
+        "Series": "Street Beasts",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/Ratical_Race_-_FKB33_Loose.jpg/revision/latest?cb=20181217013349"
+    },
+    {
+        "id": "ML20180379",
+        "YEAR": 2018,
+        "ToyID": "FKB24",
+        "NumbersInYear": "",
+        "ModelName": "Batmobile (1989) (2nd Color)",
+        "Series": "Batman",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/HW_BATMOBILE_1_FKB24_C.jpg/revision/latest?cb=20180912142615"
+    },
+    {
+        "id": "ML20180380",
+        "YEAR": 2018,
+        "ToyID": "FKB21",
+        "NumbersInYear": "",
+        "ModelName": "Crate Racer (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/70/Crateracerfkb21.jpg/revision/latest?cb=20181203045340"
+    },
+    {
+        "id": "ML20180381",
+        "YEAR": 2018,
+        "ToyID": "FKB40",
+        "NumbersInYear": "",
+        "ModelName": "Datsun 620",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/10/IMG_7857.jpg/revision/latest?cb=20200121175856"
+    },
+    {
+        "id": "ML20180382",
+        "YEAR": 2018,
+        "ToyID": "FKB41",
+        "NumbersInYear": "",
+        "ModelName": "'68 Chevy Nova",
+        "Series": "HW Flames",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/65/%2768NovaFKB41%24TH.jpg/revision/latest?cb=20171108223509"
+    },
+    {
+        "id": "ML20180383",
+        "YEAR": 2018,
+        "ToyID": "FKB47",
+        "NumbersInYear": "",
+        "ModelName": "Porsche 934.5",
+        "Series": "Nightburnerz",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/Porsche_934.5_%2718_STH_01.jpg/revision/latest?cb=20170927033318"
+    },
+    {
+        "id": "ML20180384",
+        "YEAR": 2018,
+        "ToyID": "FJY37",
+        "NumbersInYear": "",
+        "ModelName": "2015 Ford Mustang GT",
+        "Series": "HW Speed Graphics",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cd/2015_Ford_Mustang_GT_Super_Treasure_Hunt-1.jpg/revision/latest?cb=20190516154126"
+    },
+    {
+        "id": "ML20180385",
+        "YEAR": 2018,
+        "ToyID": "FKB49",
+        "NumbersInYear": "",
+        "ModelName": "Nissan Skyline 2000 GT-R",
+        "Series": "Then and Now",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/68/NissanSkyline2000GTX%24TH.jpg/revision/latest?cb=20180328235702"
+    },
+    {
+        "id": "ML20180386",
+        "YEAR": 2018,
+        "ToyID": "FKB36",
+        "NumbersInYear": "",
+        "ModelName": "Indy 500 Oval",
+        "Series": "Legends of Speed",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/Hot-wheels-legends-of-speed-2018-super-t-hunt-indy-500-oval.jpg/revision/latest?cb=20200121181853"
+    },
+    {
+        "id": "ML20180387",
+        "YEAR": 2018,
+        "ToyID": "FKB39",
+        "NumbersInYear": "",
+        "ModelName": "'68 Mustang",
+        "Series": "Tooned",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/da/2018_-_Tooned_5-5_-_%2768_Mustang_-_Super_Treasure_Hunt.jpg/revision/latest?cb=20180801035420"
+    },
+    {
+        "id": "ML20180388",
+        "YEAR": 2018,
+        "ToyID": "FKB48",
+        "NumbersInYear": "",
+        "ModelName": "2017 Camaro ZL1",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/2018_-_Muscle_Mania_1-10_-_2017_Camaro_ZL1_-_Super_Treasure_Hunt.jpg/revision/latest?cb=20180801035523"
+    },
+    {
+        "id": "ML20180389",
+        "YEAR": 2018,
+        "ToyID": "FKB42",
+        "NumbersInYear": "",
+        "ModelName": "'52 Chevy",
+        "Series": "HW Metro",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/04/52_.jpg/revision/latest?cb=20180602151051"
+    },
+    {
+        "id": "ML20180390",
+        "YEAR": 2018,
+        "ToyID": "FKB50",
+        "NumbersInYear": "",
+        "ModelName": "Aventador Miura Homage",
+        "Series": "HW Exotics",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/00/ZhCZ1VjgiU1D1WPABw1AnJyn2v5raGgm1xdd-TA2s1A.jpg/revision/latest?cb=20180519032822"
+    },
+    {
+        "id": "ML20180391",
+        "YEAR": 2018,
+        "ToyID": "FKB46",
+        "NumbersInYear": "",
+        "ModelName": "King Kuda",
+        "Series": "Checkmate",
+        "SeriesNumber": "1/9",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/King-kuda-18-checkmate-th-1200pxotd.png/revision/latest?cb=20180725195950"
+    },
+    {
+        "id": "ML20180392",
+        "YEAR": 2018,
+        "ToyID": "FKB37",
+        "NumbersInYear": "",
+        "ModelName": "'17 Audi RS 6 Avant",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/AZ9A2626.jpg/revision/latest?cb=20180809165757"
+    },
+    {
+        "id": "ML20180393",
+        "YEAR": 2018,
+        "ToyID": "FKB45",
+        "NumbersInYear": "",
+        "ModelName": "Fiat 500",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c2/Fiat5002018sth1.jpg/revision/latest?cb=20180828141447"
+    },
+    {
+        "id": "ML20180394",
+        "YEAR": 2018,
+        "ToyID": "FKB44",
+        "NumbersInYear": "",
+        "ModelName": "'70 Ford Escort RS1600",
+        "Series": "HW 50th Race Team",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/70-ford-escort-rs1600-18-hw50thraceteam-super-1200pxotd.png/revision/latest?cb=20180910162412"
+    },
+    {
+        "id": "ML20180395",
+        "YEAR": 2018,
+        "ToyID": "FKB43",
+        "NumbersInYear": "",
+        "ModelName": "Cruella de Vil",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "9/10\u200b",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/EF7C4708-125D-473A-984B-FA34839B2BA3.jpeg/revision/latest?cb=20180807055035"
+    },
+    {
+        "id": "ML20180396",
+        "YEAR": 2018,
+        "ToyID": "FTT37",
+        "NumbersInYear": "",
+        "ModelName": "Bone Shaker",
+        "Series": "HW 50th Race Team",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [
+            "Super Ultimate Chase"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/Hot-wheels-2018-bone-shaker-sth-50-aniversario-D_NQ_NP_642795-MLM29015374035_122018-F.jpg/revision/latest?cb=20190810195132"
+    },
+    {
+        "id": "ML20180397",
+        "YEAR": 2018,
+        "ToyID": "FKC14",
+        "NumbersInYear": "",
+        "ModelName": "Volkswagen K\u00e4fer Racer (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "1/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/Vw-kafer-racer-target-red-edition-2018.jpg/revision/latest?cb=20190715051120"
+    },
+    {
+        "id": "ML20180398",
+        "YEAR": 2018,
+        "ToyID": "FKC15",
+        "NumbersInYear": "",
+        "ModelName": "'90 Acura NSX (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "2/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/2018-RedEdition-90AcuraNSX-Red-Carded.jpg/revision/latest?cb=20171220215842"
+    },
+    {
+        "id": "ML20180399",
+        "YEAR": 2018,
+        "ToyID": "FKC16",
+        "NumbersInYear": "",
+        "ModelName": "Ram 1500 (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "3/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/23/2018-RedEdition-Ram1500-White-Carded.jpg/revision/latest?cb=20171220215928"
+    },
+    {
+        "id": "ML20180400",
+        "YEAR": 2018,
+        "ToyID": "FKC17",
+        "NumbersInYear": "",
+        "ModelName": "2015 Ford Mustang GT (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "4/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/68/20180416_223024.jpg/revision/latest?cb=20180417035505"
+    },
+    {
+        "id": "ML20180401",
+        "YEAR": 2018,
+        "ToyID": "FKC18",
+        "NumbersInYear": "",
+        "ModelName": "Volkswagen T2 Pickup (3rd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "5/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/66/Ffdd.jpg/revision/latest?cb=20180417040342"
+    },
+    {
+        "id": "ML20180402",
+        "YEAR": 2018,
+        "ToyID": "FKC19",
+        "NumbersInYear": "",
+        "ModelName": "Flash Drive (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "6/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/20180416_222958.jpg/revision/latest?cb=20180417040428"
+    },
+    {
+        "id": "ML20180403",
+        "YEAR": 2018,
+        "ToyID": "FKC22",
+        "NumbersInYear": "",
+        "ModelName": "Fairlady 2000 (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "7/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/40/2018_-_Red_Edition_7-12_-_Fairlady_2000_-_Target_Exclusive.jpg/revision/latest?cb=20180801035830"
+    },
+    {
+        "id": "ML20180404",
+        "YEAR": 2018,
+        "ToyID": "FKC20",
+        "NumbersInYear": "",
+        "ModelName": "Custom '53 Chevy (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "8/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/Custom53Chevy.Red_Edition.JPG/revision/latest?cb=20180619232744"
+    },
+    {
+        "id": "ML20180405",
+        "YEAR": 2018,
+        "ToyID": "FKC21",
+        "NumbersInYear": "",
+        "ModelName": "'15 Dodge Challenger SRT (3rd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "9/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/28/2018_-_Red_Edition_9-12_-_%2715_Dodge_Challenger_SRT_-_Target_Exclusive.jpg/revision/latest?cb=20180801035857"
+    },
+    {
+        "id": "ML20180406",
+        "YEAR": 2018,
+        "ToyID": "FKC24",
+        "NumbersInYear": "",
+        "ModelName": "'32 Ford (3rd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "10/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/17/HW_32_FORD_2_FKC24_C.jpg/revision/latest?cb=20180905143854"
+    },
+    {
+        "id": "ML20180407",
+        "YEAR": 2018,
+        "ToyID": "FKC23",
+        "NumbersInYear": "",
+        "ModelName": "Time Attaxi (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "11/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/89/HW_TIME_TAXI_1_FKC23_C.jpg/revision/latest?cb=20180905142805"
+    },
+    {
+        "id": "ML20180408",
+        "YEAR": 2018,
+        "ToyID": "FKC25",
+        "NumbersInYear": "",
+        "ModelName": "'15 Mercedes-AMG GT (3rd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "12/12",
+        "ChaseCar": [
+            "Target Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/HW_15_MERCEDES-AMG_GT_RE_2_FKC25_C.jpg/revision/latest?cb=20180905141950"
+    },
+    {
+        "id": "ML20180409",
+        "YEAR": 2018,
+        "ToyID": "FKB76",
+        "NumbersInYear": "",
+        "ModelName": "Solid Muscle",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/2018_-_HW_Hot_Trucks_2-10_-_Solid_Muscle_-_Zamac_-_001.jpg/revision/latest?cb=20180801040356"
+    },
+    {
+        "id": "ML20180410",
+        "YEAR": 2018,
+        "ToyID": "FKB82",
+        "NumbersInYear": "",
+        "ModelName": "'55 Corvette (2nd Color)",
+        "Series": "Then and Now",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/73/2018_-_Then_and_Now_3-10_-_%2755_Corvette_-_Zamac_-_002.jpg/revision/latest?cb=20180801040424"
+    },
+    {
+        "id": "ML20180411",
+        "YEAR": 2018,
+        "ToyID": "FKB77",
+        "NumbersInYear": "",
+        "ModelName": "Porsche 911 GT3 RS (2nd Color)",
+        "Series": "Then and Now",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/2018_-_Then_and_Now_7-10_-_Porsche_911_GT3_RS_-_Zamac_-_003.jpg/revision/latest?cb=20180801040554"
+    },
+    {
+        "id": "ML20180412",
+        "YEAR": 2018,
+        "ToyID": "FKB81",
+        "NumbersInYear": "",
+        "ModelName": "'49 Ford F1 (2nd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/86/FKB81_c_18_003.png/revision/latest?cb=20180602171112"
+    },
+    {
+        "id": "ML20180413",
+        "YEAR": 2018,
+        "ToyID": "FKB79",
+        "NumbersInYear": "",
+        "ModelName": "Porsche 934.5 (2nd Color)",
+        "Series": "Nightburnerz",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/45/FKB79_-_Porsche_934_5-1.jpg/revision/latest?cb=20190807143032"
+    },
+    {
+        "id": "ML20180414",
+        "YEAR": 2018,
+        "ToyID": "FKB80",
+        "NumbersInYear": "",
+        "ModelName": "'67 Mustang (2nd Color)",
+        "Series": "Then and Now",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/ZAMAC_2018_67_Mustang_closeup.jpg/revision/latest?cb=20180907112849"
+    },
+    {
+        "id": "ML20180415",
+        "YEAR": 2018,
+        "ToyID": "FKB78",
+        "NumbersInYear": "",
+        "ModelName": "Datsun 620 (2nd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/15_Datsun_620_%282018_9%29_Zamac.png/revision/latest?cb=20180718035920"
+    },
+    {
+        "id": "ML20180416",
+        "YEAR": 2018,
+        "ToyID": "FKB83",
+        "NumbersInYear": "",
+        "ModelName": "Chill Mill (2nd Color)",
+        "Series": "HW Fun Park",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/CHILL_MILL_FKB83.jpg/revision/latest?cb=20180529033523"
+    },
+    {
+        "id": "ML20180417",
+        "YEAR": 2018,
+        "ToyID": "FKB84",
+        "NumbersInYear": "",
+        "ModelName": "Aston Martin One-77 (2nd Color)",
+        "Series": "HW Exotics",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/2018_-_HW_Exotics_5-10_-_Aston_Martin_One-77_-_Zamac_-_009.jpg/revision/latest?cb=20180801040639"
+    },
+    {
+        "id": "ML20180418",
+        "YEAR": 2018,
+        "ToyID": "FKB85",
+        "NumbersInYear": "",
+        "ModelName": "Indy 500 Oval (2nd Color)",
+        "Series": "Legends of Speed",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/48/2018_-_Legends_of_Speed_5-10_-_Indy_500_Oval_-_Zamac_-_010.jpg/revision/latest?cb=20180801040729"
+    },
+    {
+        "id": "ML20180419",
+        "YEAR": 2018,
+        "ToyID": "FKB86",
+        "NumbersInYear": "",
+        "ModelName": "Corvette C7.R (3rd Color)",
+        "Series": "Speed Graphics",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/94/2018_-_HW_Speed_Graphics_1-10_-_Corvette_C7R_-_Zamac_-_011.jpg/revision/latest?cb=20180801040752"
+    },
+    {
+        "id": "ML20180420",
+        "YEAR": 2018,
+        "ToyID": "FKB87",
+        "NumbersInYear": "",
+        "ModelName": "Custom '67 Pontiac Firebird (2nd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/IMG_E6042-1-.JPG/revision/latest?cb=20180519213448"
+    },
+    {
+        "id": "ML20180421",
+        "YEAR": 2018,
+        "ToyID": "FKB88",
+        "NumbersInYear": "",
+        "ModelName": "Dodge Charger Drift (2nd Color)",
+        "Series": "HW Metro",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/Chargerdriftzamac.jpg/revision/latest?cb=20181203063727"
+    },
+    {
+        "id": "ML20180422",
+        "YEAR": 2018,
+        "ToyID": "FKB89",
+        "NumbersInYear": "",
+        "ModelName": "Custom Datsun 240Z (3rd Color)",
+        "Series": "Nightburnerz",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/99/Zamac-Custom240z.jpg/revision/latest?cb=20181113223138"
+    },
+    {
+        "id": "ML20180423",
+        "YEAR": 2018,
+        "ToyID": "GDK91",
+        "NumbersInYear": "",
+        "ModelName": "McLaren P1 (2nd Color)",
+        "Series": "HW Exotics",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9b/P1zamac.jpg/revision/latest?cb=20181203064403"
+    },
+    {
+        "id": "ML20180424",
+        "YEAR": 2018,
+        "ToyID": "FKB91",
+        "NumbersInYear": "",
+        "ModelName": "'18 Dodge Challenger SRT Demon (2nd Color)",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/18_DODGE_CHALLENGER_SRT_DEMON_FKB91.jpg/revision/latest?cb=20181004141759"
+    },
+    {
+        "id": "ML20180425",
+        "YEAR": 2018,
+        "ToyID": "FKB93",
+        "NumbersInYear": "",
+        "ModelName": "'16 Honda Civic Type R (3rd Color)",
+        "Series": "HW Speed Graphics",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/Fk2r_ZAMAC.jpg/revision/latest?cb=20180708024126"
+    },
+    {
+        "id": "ML20180426",
+        "YEAR": 2018,
+        "ToyID": "FKB92",
+        "NumbersInYear": "",
+        "ModelName": "2009 Ford F-150 (2nd Color)",
+        "Series": "HW 50th Race Team",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Walmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0e/HW_2009_FORD_F-150_FKB92_2_C.jpg/revision/latest?cb=20181004145615"
+    },
+    {
+        "id": "ML20180427",
+        "YEAR": 2018,
+        "ToyID": "FKC01",
+        "NumbersInYear": "",
+        "ModelName": "Carbonator (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/2018_-_Experimotors_2-10_-_Carbonator_-_K-Mart_Exclusive_-_Green.jpg/revision/latest?cb=20180801040135"
+    },
+    {
+        "id": "ML20180428",
+        "YEAR": 2018,
+        "ToyID": "FKC02",
+        "NumbersInYear": "",
+        "ModelName": "'68 Chevy Nova (2nd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/2018_-_HW_Flames_3-10_-_%2768_Chevy_Nova_-_K-Mart_Exclusive_-_Yellow.jpg/revision/latest?cb=20180801040036"
+    },
+    {
+        "id": "ML20180429",
+        "YEAR": 2018,
+        "ToyID": "FKC03",
+        "NumbersInYear": "",
+        "ModelName": "Corvette C7 Z06 (2nd Color)",
+        "Series": "Then and Now",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/2018_-_Then_and_Now_8-10_-_Corvette_C7_Z06_-_K-Mart_Exclusive_-_Silver.jpg/revision/latest?cb=20180801040110"
+    },
+    {
+        "id": "ML20180430",
+        "YEAR": 2018,
+        "ToyID": "FKC04",
+        "NumbersInYear": "",
+        "ModelName": "Porsche 934 Turbo RSR (2nd Color)",
+        "Series": "Then and Now",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a7/S-l640-1-.jpg/revision/latest?cb=20181128125529"
+    },
+    {
+        "id": "ML20180431",
+        "YEAR": 2018,
+        "ToyID": "FJY41",
+        "NumbersInYear": "",
+        "ModelName": "'68 Mercury Cougar (2nd Color)",
+        "Series": "HW Speed Graphics",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e2/%2768_Mercury_Cougar-2014-2018_Version_-_Kmart_Exclusive_%282%29.jpg/revision/latest?cb=20181022005506"
+    },
+    {
+        "id": "ML20180432",
+        "YEAR": 2018,
+        "ToyID": "FJY73",
+        "NumbersInYear": "",
+        "ModelName": "Chevy Blazer 4x4 (3rd Color)",
+        "Series": "HW Sports",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/05/Chevy-blazer-4x4-2018-brown-kmart.jpg/revision/latest?cb=20181022042432"
+    },
+    {
+        "id": "ML20180433",
+        "YEAR": 2018,
+        "ToyID": "FKC05",
+        "NumbersInYear": "",
+        "ModelName": "Ford Focus RS (2nd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/df/Fkc05_hwartcars_09focusrs_otd-1-.png/revision/latest?cb=20181128131736"
+    },
+    {
+        "id": "ML20180434",
+        "YEAR": 2018,
+        "ToyID": "FKC08",
+        "NumbersInYear": "",
+        "ModelName": "Aventador Miura Homage (2nd Color)",
+        "Series": "HW Exotics",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/Lamborghini-aventador-miura-homage-blue.jpg/revision/latest?cb=20181102135120"
+    },
+    {
+        "id": "ML20180435",
+        "YEAR": 2018,
+        "ToyID": "FYG57",
+        "NumbersInYear": "",
+        "ModelName": "Classic '55 Nomad (3rd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/2018_-_HW_Flames_6-10_-_Classic_%2755_Nomad_-_K-Mart_Exclusive_-_Yellow.jpg/revision/latest?cb=20191029005607"
+    },
+    {
+        "id": "ML20180436",
+        "YEAR": 2018,
+        "ToyID": "GFB77",
+        "NumbersInYear": "",
+        "ModelName": "Exotique (3rd Color)",
+        "Series": "HW Exotics",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/HW_EXOTIQUE_GFB77_2_C.jpg/revision/latest?cb=20190412141620"
+    },
+    {
+        "id": "ML20180437",
+        "YEAR": 2018,
+        "ToyID": "GFB78",
+        "NumbersInYear": "",
+        "ModelName": "Fairlady 2000 (4th Color)",
+        "Series": "HW Speed Graphics",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/Datsun-fairlady-2000-white-kmart-2019.jpg/revision/latest?cb=20190128074910"
+    },
+    {
+        "id": "ML20180438",
+        "YEAR": 2018,
+        "ToyID": "GFB79",
+        "NumbersInYear": "",
+        "ModelName": "Hot Wheels Ford Transit Connect (3rd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [
+            "Kmart Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/de/Hot_Wheels_Ford_Transit_Connect_Kmart_Special_Color_Variation_2018_%281%29.jpg/revision/latest?cb=20181218005257"
+    },
+    {
+        "id": "ML20180439",
+        "YEAR": 2018,
+        "ToyID": "FKB38",
+        "NumbersInYear": "",
+        "ModelName": "2016 Ford GT Race (3rd Color)",
+        "Series": "Legends of Speed",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Kroger Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/16FordGTRace-2018-Kroger.png/revision/latest?cb=20180801170743"
+    },
+    {
+        "id": "ML20180440",
+        "YEAR": 2018,
+        "ToyID": "FKC09",
+        "NumbersInYear": "",
+        "ModelName": "Gotta Go (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Kroger Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/GottaGo-2018-Kroger.png/revision/latest?cb=20180801170725"
+    },
+    {
+        "id": "ML20180441",
+        "YEAR": 2018,
+        "ToyID": "FKC10",
+        "NumbersInYear": "",
+        "ModelName": "Tour de Fast (2nd Color)",
+        "Series": "HW Sports",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [
+            "Kroger Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8c/TourdeFast-2018-Kroger.png/revision/latest?cb=20180801170707"
+    },
+    {
+        "id": "ML20180442",
+        "YEAR": 2018,
+        "ToyID": "FKC11",
+        "NumbersInYear": "",
+        "ModelName": "'63 Chevy II (2nd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [
+            "Kroger Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/63ChevyII-2018-Kroger.png/revision/latest?cb=20180801170649"
+    },
+    {
+        "id": "ML20180443",
+        "YEAR": 2018,
+        "ToyID": "FKB95",
+        "NumbersInYear": "",
+        "ModelName": "MR11 (2nd Color)",
+        "Series": "HW Sports",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Kroger Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/43/Kroger-MR11.jpg/revision/latest?cb=20200615082233"
+    },
+    {
+        "id": "ML20180444",
+        "YEAR": 2018,
+        "ToyID": "FKB96",
+        "NumbersInYear": "",
+        "ModelName": "Custom '15 Ford Mustang (3rd Color)",
+        "Series": "Then and Now",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [
+            "Kroger Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/Custom-15-ford-mustang-gray-kroger-2018.jpg/revision/latest?cb=20181015041535"
+    },
+    {
+        "id": "ML20180445",
+        "YEAR": 2018,
+        "ToyID": "FJW92",
+        "NumbersInYear": "",
+        "ModelName": "Monteracer (2nd Color)",
+        "Series": "X-Raycers",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Kroger Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/83/Monteracer_2018_Kroger.png/revision/latest?cb=20190209213017"
+    },
+    {
+        "id": "ML20180446",
+        "YEAR": 2018,
+        "ToyID": "FJV70",
+        "NumbersInYear": "",
+        "ModelName": "Lamborghini Countach",
+        "Series": "Tooned",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [
+            "Toys R Us Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/Lamborghini_Countach-HW_2018_--Tooned_%28TRU%29.jpg/revision/latest?cb=20171228184308"
+    },
+    {
+        "id": "ML20180447",
+        "YEAR": 2018,
+        "ToyID": "FJV90",
+        "NumbersInYear": "",
+        "ModelName": "Lotus Esprit S1",
+        "Series": "HW Exotics",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [
+            "Toys R Us Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/59/Lotus_EspritS1-HW_2018_--Exotics_%28TRU%29.jpg/revision/latest?cb=20171228184334"
+    },
+    {
+        "id": "ML20180448",
+        "YEAR": 2018,
+        "ToyID": "FJY23",
+        "NumbersInYear": "",
+        "ModelName": "Bone Shaker (2nd Color)",
+        "Series": "Legends of Speed",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Toys R Us Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/75/Bone_Shaker-HW_2018_--LegendsOfSpeed_%28TRU%29.jpg/revision/latest?cb=20171228184234"
+    },
+    {
+        "id": "ML20180449",
+        "YEAR": 2018,
+        "ToyID": "FKC13",
+        "NumbersInYear": "",
+        "ModelName": "'69 Dodge Coronet Superbee (3rd Color)",
+        "Series": "HW Flames",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [
+            "Walgreens Exclusive"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/19/Coronetsuperbeewalgreens.jpg/revision/latest?cb=20181205183134"
+    },
+    {
+        "id": "ML20180450",
+        "YEAR": 2018,
+        "ToyID": "FJX50",
+        "NumbersInYear": "",
+        "ModelName": "'70 Chevelle SS Wagon",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/74/%2770ChevelleWagon2018.jpg/revision/latest?cb=20171229121557"
+    },
+    {
+        "id": "ML20180451",
+        "YEAR": 2018,
+        "ToyID": "FJX51",
+        "NumbersInYear": "",
+        "ModelName": "Fiat 500",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/60/HW-2018-FJX51-FIAT-500_Daredevils.JPG/revision/latest?cb=20171016154425"
+    },
+    {
+        "id": "ML20180452",
+        "YEAR": 2018,
+        "ToyID": "FJX52",
+        "NumbersInYear": "",
+        "ModelName": "HW450F",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/HW450FFJX52.jpg/revision/latest?cb=20171023211239"
+    },
+    {
+        "id": "ML20180453",
+        "YEAR": 2018,
+        "ToyID": "FJX53",
+        "NumbersInYear": "",
+        "ModelName": "Mad Propz",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/FJX53_C.JPG/revision/latest?cb=20171126092220"
+    },
+    {
+        "id": "ML20180454",
+        "YEAR": 2018,
+        "ToyID": "FJX54",
+        "NumbersInYear": "",
+        "ModelName": "Rally Cat",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/08/Rally-cat-2018-white.jpg/revision/latest?cb=20190311123653"
+    },
+    {
+        "id": "ML20180455",
+        "YEAR": 2018,
+        "ToyID": "FRR80",
+        "NumbersInYear": "",
+        "ModelName": "'70 Chevelle SS Wagon (2nd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/90/70_Chevelle_SS_Wagon_-_Blue.png/revision/latest?cb=20180211061308"
+    },
+    {
+        "id": "ML20180456",
+        "YEAR": 2018,
+        "ToyID": "FRR83",
+        "NumbersInYear": "",
+        "ModelName": "Fiat 500 (2nd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/Fiat_500_-_02.jpg/revision/latest?cb=20180506233924"
+    },
+    {
+        "id": "ML20180457",
+        "YEAR": 2018,
+        "ToyID": "FRR86",
+        "NumbersInYear": "",
+        "ModelName": "HW450F (2nd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/HW450FFRR862ndcolorvariation.jpg/revision/latest?cb=20180301001542"
+    },
+    {
+        "id": "ML20180458",
+        "YEAR": 2018,
+        "ToyID": "FRR89",
+        "NumbersInYear": "",
+        "ModelName": "Mad Propz (2nd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d3/MADPROPZFRR89.JPG/revision/latest?cb=20180123203335"
+    },
+    {
+        "id": "ML20180459",
+        "YEAR": 2018,
+        "ToyID": "FRR92",
+        "NumbersInYear": "",
+        "ModelName": "Rally Cat (2nd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/Rally-cat-2018-green.jpg/revision/latest?cb=20190311123714"
+    },
+    {
+        "id": "ML20180460",
+        "YEAR": 2018,
+        "ToyID": "FRR81",
+        "NumbersInYear": "",
+        "ModelName": "'70 Chevelle SS Wagon (3rd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/21/70_CHEVELLE_SS_WAGON_FRR81.jpg/revision/latest?cb=20180529190719"
+    },
+    {
+        "id": "ML20180461",
+        "YEAR": 2018,
+        "ToyID": "FRR84",
+        "NumbersInYear": "",
+        "ModelName": "Fiat 500 (3rd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/99/Fiat_500_-_03.jpg/revision/latest?cb=20180708001740"
+    },
+    {
+        "id": "ML20180462",
+        "YEAR": 2018,
+        "ToyID": "FRR87",
+        "NumbersInYear": "",
+        "ModelName": "HW450F (3rd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/89/HW450F_FRR87.jpg/revision/latest?cb=20180529183633"
+    },
+    {
+        "id": "ML20180463",
+        "YEAR": 2018,
+        "ToyID": "FRR90",
+        "NumbersInYear": "",
+        "ModelName": "Mad Propz (3rd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/MAD_PROPZ_FRR90.jpg/revision/latest?cb=20180529032752"
+    },
+    {
+        "id": "ML20180464",
+        "YEAR": 2018,
+        "ToyID": "FRR93",
+        "NumbersInYear": "",
+        "ModelName": "Rally Cat (3rd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/Rally-cat-2018-orange.jpg/revision/latest?cb=20190311123727"
+    },
+    {
+        "id": "ML20180465",
+        "YEAR": 2018,
+        "ToyID": "FRR82",
+        "NumbersInYear": "",
+        "ModelName": "'70 Chevelle SS Wagon (4th Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/393E5FD2-FD3C-439F-A339-7D6D0C63BBE6.jpeg/revision/latest?cb=20190221034353"
+    },
+    {
+        "id": "ML20180466",
+        "YEAR": 2018,
+        "ToyID": "FRR85",
+        "NumbersInYear": "",
+        "ModelName": "Fiat 500 (4th Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/Fiat_500_%284722%29_HW_L1200371.JPG/revision/latest?cb=20190419114457"
+    },
+    {
+        "id": "ML20180467",
+        "YEAR": 2018,
+        "ToyID": "FRR88",
+        "NumbersInYear": "",
+        "ModelName": "HW450F (4th Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/57/HW450F_FRR88.jpg/revision/latest?cb=20181014200603"
+    },
+    {
+        "id": "ML20180468",
+        "YEAR": 2018,
+        "ToyID": "FRR91",
+        "NumbersInYear": "",
+        "ModelName": "Mad Propz (4th Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/MAD_PROPZ_FRR91.jpg/revision/latest?cb=20181126211725"
+    },
+    {
+        "id": "ML20180469",
+        "YEAR": 2018,
+        "ToyID": "FRR94",
+        "NumbersInYear": "",
+        "ModelName": "Rally Cat (4th Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/Rally-cat-2018-gray.jpg/revision/latest?cb=20190311123744"
+    }
+
+
+2019
