@@ -16,8 +16,8 @@ UNTILYEAR = 2022
 output_list = []
 for year in range(FROMYEAR,UNTILYEAR+1):
     file = f'mainline{year}.json'
-    with open(file, "rb") as infile:
-        output_list.append(json.load(infile))
+    with open(file, "r") as infile:
+        output_list += json.load(infile)
 
-with open("mainline.json", "wb") as outfile:
+with open("mainline.json", "w") as outfile:
     json.dump(output_list, outfile)
