@@ -1,0 +1,5063 @@
+[
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT05",
+        "NumbersInYear": "001",
+        "ModelName": "1970 Pontiac Firebird",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/%2770PontiacFirebird.jpg/revision/latest?cb=20211012082657"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX22",
+        "NumbersInYear": "001",
+        "ModelName": "1970 Pontiac Firebird (2nd Color)",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/PontiacFirebird_Front.png/revision/latest?cb=20221004155332"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT80",
+        "NumbersInYear": "002",
+        "ModelName": "Twinnin' 'n Winnin'",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b9/HCT80.jpg/revision/latest?cb=20211208234306"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW83",
+        "NumbersInYear": "002",
+        "ModelName": "Twinnin' 'n Winnin' (2nd Color)",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/Twinnin_2022.jpg/revision/latest?cb=20220812153719"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV09",
+        "NumbersInYear": "003",
+        "ModelName": "Baja Bone Shaker",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/23/Baja_Bone_Shaker_2022.jpg/revision/latest?cb=20211214130052"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW68",
+        "NumbersInYear": "003",
+        "ModelName": "Baja Bone Shaker (2nd Color)",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/HCW68_Carded.jpg/revision/latest?cb=20220428141128"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV46",
+        "NumbersInYear": "004",
+        "ModelName": "Bubble Matic",
+        "Series": "Experimotors",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/68/BubbleMatic.jpg/revision/latest?cb=20220123204816"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW69",
+        "NumbersInYear": "004",
+        "ModelName": "Bubble Matic (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/18/Blue_HCW69_4-250.jpg/revision/latest?cb=20220619044816"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT32",
+        "NumbersInYear": "005",
+        "ModelName": "Mighty K",
+        "Series": "HW Metro",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/MightyK.jpg/revision/latest?cb=20211004092006"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW70",
+        "NumbersInYear": "005",
+        "ModelName": "Mighty K (2nd Color)",
+        "Series": "HW Metro",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4b/PinkMightyK.jpg/revision/latest?cb=20220712102933"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW57",
+        "NumbersInYear": "006",
+        "ModelName": "Fast Gassin",
+        "Series": "HW Metro",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/2022-fast-gassin-1.jpg/revision/latest?cb=20220421015158"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW94",
+        "NumbersInYear": "006",
+        "ModelName": "Fast Gassin (2nd Color)",
+        "Series": "HW Metro",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/FAST_GASSIN_HCW94.jpg/revision/latest?cb=20220620230032"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX94",
+        "NumbersInYear": "007",
+        "ModelName": "The Dark Knight Batmobile",
+        "Series": "Batman",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/The_Dark_Knight_Batmobile_-_2022_TH.jpg/revision/latest?cb=20220212021220"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT55",
+        "NumbersInYear": "008",
+        "ModelName": "Standard Kart",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d4/StandardKart2022.jpg/revision/latest?cb=20220701011058"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV00",
+        "NumbersInYear": "009",
+        "ModelName": "Minecart",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/49/9-250_HCV00.jpg/revision/latest?cb=20220619045554"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT27",
+        "NumbersInYear": "010",
+        "ModelName": "Tooned Volkswagen Golf Mk1",
+        "Series": "Tooned",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/da/%27ToonedGolf.jpg/revision/latest?cb=20211005082946"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW71",
+        "NumbersInYear": "010",
+        "ModelName": "Tooned Volkswagen Golf Mk1 (2nd Color)",
+        "Series": "Tooned",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/14/HCW71_Carded.jpg/revision/latest?cb=20220525121255"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT68",
+        "NumbersInYear": "011",
+        "ModelName": "Car-de-Asada",
+        "Series": "Fast Foodie",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/Car-De-Asada_2022.jpg/revision/latest?cb=20211208023915"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW72",
+        "NumbersInYear": "011",
+        "ModelName": "Car-de-Asada (2nd Color)",
+        "Series": "Fast Foodie",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/HCW72.jpg/revision/latest?cb=20220427001421"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT16",
+        "NumbersInYear": "012",
+        "ModelName": "Porsche 935",
+        "Series": "HW Turbo",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/%2719Porsche935.jpg/revision/latest?cb=20211004092126"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW73",
+        "NumbersInYear": "012",
+        "ModelName": "Porsche 935 (2nd Color)",
+        "Series": "HW Turbo",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/Porsche935_Front.png/revision/latest?cb=20221006183058"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY66",
+        "NumbersInYear": "012",
+        "ModelName": "Porsche 935 (3rd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "9/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/RedEd935.jpg/revision/latest?cb=20221105071752"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV25",
+        "NumbersInYear": "013",
+        "ModelName": "'85 Honda City Turbo II",
+        "Series": "HW Turbo",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5d/HCV25-01.JPG/revision/latest?cb=20211203050916"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW74",
+        "NumbersInYear": "013",
+        "ModelName": "'85 Honda City Turbo II (2nd Color)",
+        "Series": "HW Turbo",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/HCW74.jpg/revision/latest?cb=20220403171704"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV44",
+        "NumbersInYear": "014",
+        "ModelName": "Skull Crusher",
+        "Series": "Street Beasts",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Skull_Crusher_2022.jpg/revision/latest?cb=20220218195958"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW75",
+        "NumbersInYear": "014",
+        "ModelName": "Skull Crusher (2nd Color)",
+        "Series": "Street Beasts",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/49/HCW75.jpg/revision/latest?cb=20220325173640"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV40",
+        "NumbersInYear": "015",
+        "ModelName": "Let's GO",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/89/HCV40.jpg/revision/latest?cb=20211208233732"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW76",
+        "NumbersInYear": "015",
+        "ModelName": "Let's GO (2nd Color)",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/HCW76.png/revision/latest?cb=20220320163306"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV41",
+        "NumbersInYear": "016",
+        "ModelName": "Bogzilla",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/73/2022HWBogzillaGreenUS-16.jpg/revision/latest?cb=20211216052825"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW85",
+        "NumbersInYear": "016",
+        "ModelName": "Bogzilla (2nd Color)",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/55/HCW85.jpg/revision/latest?cb=20220320161129"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV01",
+        "NumbersInYear": "017",
+        "ModelName": "Toyota AE86 Sprinter Trueno",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/38/HCV01-01.JPG/revision/latest?cb=20211203052110"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW77",
+        "NumbersInYear": "017",
+        "ModelName": "Toyota AE86 Sprinter Trueno (2nd Color)",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/Ae86trueno_20220515_222501.jpg/revision/latest?cb=20220823210817"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV27",
+        "NumbersInYear": "018",
+        "ModelName": "'19 Mercedes-Benz A-Class",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1a/HCV27-01.JPG/revision/latest?cb=20211203035238"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY24",
+        "NumbersInYear": "018",
+        "ModelName": "'19 Mercedes-Benz A-Class (2nd Color - Zamac)",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/aa/2019_Mercedes_Zamac_Loose.JPG/revision/latest?cb=20220830031027"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW78",
+        "NumbersInYear": "018",
+        "ModelName": "'19 Mercedes-Benz A-Class (3rd Color)",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/Pietervdw_HW_Mercedes_A_Yellow.jpg/revision/latest?cb=20220321103038"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT61",
+        "NumbersInYear": "019",
+        "ModelName": "The Nash",
+        "Series": "Compact Kings",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/Nash_2022.jpg/revision/latest?cb=20211208023730"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW79",
+        "NumbersInYear": "019",
+        "ModelName": "The Nash (2nd Color)",
+        "Series": "Compact Kings",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/90/HCW79.jpg/revision/latest?cb=20220330044209"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV05",
+        "NumbersInYear": "020",
+        "ModelName": "'55 Chevy",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/HCV05_2022_020_%2755_Chevy.jpg/revision/latest?cb=20211203193805"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY10",
+        "NumbersInYear": "020",
+        "ModelName": "'55 Chevy",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/70/%2755_chevy.jpg/revision/latest?cb=20211115101135"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW84",
+        "NumbersInYear": "020",
+        "ModelName": "'55 Chevy (2nd Color)",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d9/55RCG2022-01.jpg/revision/latest?cb=20220607225214"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV23",
+        "NumbersInYear": "021",
+        "ModelName": "'76 Greenwood Corvette",
+        "Series": "HW Contoured",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f7/HCV23_2022_021_76_Greenwood_Corvette.jpg/revision/latest?cb=20211203200857"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY60",
+        "NumbersInYear": "021",
+        "ModelName": "'76 Greenwood Corvette (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "3/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c3/76_Greenwood_Corvette_-_Red_Edition.jpg/revision/latest?cb=20220523193008"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW80",
+        "NumbersInYear": "021",
+        "ModelName": "'76 Greenwood Corvette (3rd Color)",
+        "Series": "HW Contoured",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/89/Pietervdw_HW_GreenwoodCorvetteGreen.jpg/revision/latest?cb=20220321102226"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT41",
+        "NumbersInYear": "022",
+        "ModelName": "Roadster Bite",
+        "Series": "HW Speed Team",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/af/RoadsterBite.jpg/revision/latest?cb=20211015081340"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW81",
+        "NumbersInYear": "022",
+        "ModelName": "Roadster Bite (2nd Color)",
+        "Series": "HW Speed Team",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/83/SilverBite.jpg/revision/latest?cb=20220615103125"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV97",
+        "NumbersInYear": "023",
+        "ModelName": "2020 Ram 1500 Rebel",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/30/HCV97.jpg/revision/latest?cb=20211120112334"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX93",
+        "NumbersInYear": "023",
+        "ModelName": "2020 Ram 1500 Rebel (2nd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/85/1dodgeran.jpg/revision/latest?cb=20220619231240"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV58",
+        "NumbersInYear": "024",
+        "ModelName": "Mazda REPU",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/15/HCV58_2022_024_Mazda_REPU.jpg/revision/latest?cb=20211203203757"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY26",
+        "NumbersInYear": "024",
+        "ModelName": "Mazda REPU (2nd Color - Zamac)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/92/Mazda_Repu_-_ZAMAC.jpg/revision/latest?cb=20220523193327"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW82",
+        "NumbersInYear": "024",
+        "ModelName": "Mazda REPU (3rd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/58/HCW82.jpg/revision/latest?cb=20220423032539"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV03",
+        "NumbersInYear": "025",
+        "ModelName": "Humvee",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3a/Humvee_Baja_Blazers_2022.jpg/revision/latest?cb=20220409232706"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT50",
+        "NumbersInYear": "026",
+        "ModelName": "'20 Jeep Gladiator",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/00/HCT50_026_20_Jeep_Gladiator.jpg/revision/latest?cb=20211207181613"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY25",
+        "NumbersInYear": "026",
+        "ModelName": "'20 Jeep Gladiator (2nd Color - Zamac)",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b2/20_Jeep_Gladiator_-_ZAMAC.jpg/revision/latest?cb=20220523193927"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW66",
+        "NumbersInYear": "026",
+        "ModelName": "'20 Jeep Gladiator (3rd Color)",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/20_JEEP_GLADIATOR_HCW66.jpg/revision/latest?cb=20220620231740"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT36",
+        "NumbersInYear": "027",
+        "ModelName": "Bricking Trails",
+        "Series": "Experimotors",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/50/BrickingTrails.jpg/revision/latest?cb=20211018101005"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW86",
+        "NumbersInYear": "027",
+        "ModelName": "Bricking Trails (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0f/HCW86.jpg/revision/latest?cb=20220320161012"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV67",
+        "NumbersInYear": "028",
+        "ModelName": "Tooligan",
+        "Series": "Experimotors",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/Tooligan.jpg/revision/latest?cb=20220123204902"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX90",
+        "NumbersInYear": "028",
+        "ModelName": "Tooligan (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/HCX90.jpg/revision/latest?cb=20220428065420"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT48",
+        "NumbersInYear": "029",
+        "ModelName": "2009 Ford F-150",
+        "Series": "HW Metro",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5f/2009_ford_f150_2022.jpg/revision/latest?cb=20220501171123"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV02",
+        "NumbersInYear": "030",
+        "ModelName": "Street Cleaver",
+        "Series": "HW Metro",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/STREET_CLEAVER_HCV02.jpg/revision/latest?cb=20220330153151"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW98",
+        "NumbersInYear": "030",
+        "ModelName": "Street Cleaver (2nd Color)",
+        "Series": "HW Metro",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/45/HCW98.jpg/revision/latest?cb=20220425135417"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV73",
+        "NumbersInYear": "031",
+        "ModelName": "Loco Motorin'",
+        "Series": "HW Metro",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/HCV73.jpg/revision/latest?cb=20220402070959"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX83",
+        "NumbersInYear": "031",
+        "ModelName": "Loco Motorin' (2nd Color)",
+        "Series": "HW Metro",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/08/HCX83.jpg/revision/latest?cb=20220629174457"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV63",
+        "NumbersInYear": "032",
+        "ModelName": "Batman: Arkham Asylum Batmobile",
+        "Series": "Batman",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/Batman_Arkaham_Asylum_Batmobile_2022.jpeg/revision/latest?cb=20220308172445"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW59",
+        "NumbersInYear": "032",
+        "ModelName": "Batman: Arkham Asylum Batmobile (2nd Color)",
+        "Series": "Batman",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/HCW59_Carded.jpg/revision/latest?cb=20220330135814"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW63",
+        "NumbersInYear": "032",
+        "ModelName": "Batman: Arkham Asylum Batmobile (3rd Color)",
+        "Series": "Batman",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/HCW63.jpg/revision/latest?cb=20220606130207"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT21",
+        "NumbersInYear": "033",
+        "ModelName": "'87 Ford Sierra Cosworth",
+        "Series": "Retro Racers",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e0/%2787FordSierra.jpg/revision/latest?cb=20211012082719"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW87",
+        "NumbersInYear": "033",
+        "ModelName": "'87 Ford Sierra Cosworth (2nd Color)",
+        "Series": "Retro Racers",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/Pietervdw_HW_Ford_Sierra_blue.jpg/revision/latest?cb=20220321103007"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW51",
+        "NumbersInYear": "034",
+        "ModelName": "'73 BMW 3.0 CSL Race Car",
+        "Series": "Retro Racers",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/00/HCW51-01.JPG/revision/latest?cb=20211203040004"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY20",
+        "NumbersInYear": "034",
+        "ModelName": "'73 BMW 3.0 CSL Race Car",
+        "Series": "Retro Racers",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/2022-ML034_%28Large%29.JPG/revision/latest?cb=20220305032241"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY58",
+        "NumbersInYear": "034",
+        "ModelName": "'73 BMW 3.0 CSL Race Car (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "1/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/02/2022_Hot_Wheels_73_BMW_Red_Edition_carded.jpg/revision/latest?cb=20220427090248"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT56",
+        "NumbersInYear": "035",
+        "ModelName": "Disney Steamboat",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/Msg2087543911-39721.jpg/revision/latest?cb=20220111133352"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV45",
+        "NumbersInYear": "036",
+        "ModelName": "Skull Shaker",
+        "Series": "Tooned",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5b/HCV45-Carded.jpg/revision/latest?cb=20220110224045"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX87",
+        "NumbersInYear": "036",
+        "ModelName": "Skull Shaker (2nd Color)",
+        "Series": "Tooned",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/63/SKULL_CRUSHER_HCX87.jpg/revision/latest?cb=20220717225806"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX97",
+        "NumbersInYear": "037",
+        "ModelName": "Quick Bite",
+        "Series": "Fast Foodie",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/37/HCX97_037_Quick_Bite.jpg/revision/latest?cb=20211223222917"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW49",
+        "NumbersInYear": "038",
+        "ModelName": "'16 Cadillac ATS-V R",
+        "Series": "HW Turbo",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/HCW49-01.JPG/revision/latest?cb=20211203031348"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV66",
+        "NumbersInYear": "039",
+        "ModelName": "Veloci-Racer",
+        "Series": "Street Beasts",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/17/Veloci-Racer-2022.jpg/revision/latest?cb=20220212101429"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX27",
+        "NumbersInYear": "039",
+        "ModelName": "Veloci-Racer (2nd Color)",
+        "Series": "Street Beasts",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/VELOCI-RACER_HCX27.jpg/revision/latest?cb=20220620232558"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV42",
+        "NumbersInYear": "040",
+        "ModelName": "Fig Rig",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/HCV42-Carded.jpg/revision/latest?cb=20220110215224"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV28",
+        "NumbersInYear": "041",
+        "ModelName": "Ford Focus RS",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/HCV28-01.JPG/revision/latest?cb=20220525062245"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY50",
+        "NumbersInYear": "041",
+        "ModelName": "Ford Focus RS (2nd Color)",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/HCY50_-_Ford_Focus_RS-1.jpg/revision/latest?cb=20220830213952"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX73",
+        "NumbersInYear": "041",
+        "ModelName": "Ford Focus RS (3rd Color)",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/Ford_Focus_RS_orange_%282022%29.jpeg/revision/latest?cb=20220709091525"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV26",
+        "NumbersInYear": "042",
+        "ModelName": "Volkswagen Beetle",
+        "Series": "Compact Kings",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/Beetle._Blue_Woodie._Compact_Kings.jpg/revision/latest?cb=20220223003318"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY59",
+        "NumbersInYear": "042",
+        "ModelName": "Volkswagen Beetle (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "2/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b4/2022_Volkswagon_target_red_edition.jpg/revision/latest?cb=20220618181911"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW88",
+        "NumbersInYear": "042",
+        "ModelName": "Volkswagen Beetle (3rd Color)",
+        "Series": "Compact Kings",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/20220401_181203.jpg/revision/latest?cb=20220401234404"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV06",
+        "NumbersInYear": "043",
+        "ModelName": "'55 Chevy Bel Air Gasser",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/2022ML-043A_%28Large%29.JPG/revision/latest?cb=20220226032810"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW89",
+        "NumbersInYear": "043",
+        "ModelName": "'55 Chevy Bel Air Gasser (2nd Color)",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/Pietervdw_HW_Gasser_Triassic_Five_Purple.JPG/revision/latest?cb=20220321102520"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV07",
+        "NumbersInYear": "044",
+        "ModelName": "'57 Chevy",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/87/%2757_Chevy_2022_01.jpg/revision/latest?cb=20220603204157"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX92",
+        "NumbersInYear": "044",
+        "ModelName": "'57 Chevy (2nd Color)",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c1/%2757Chevy_Front.png/revision/latest?cb=20221006183230"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW40",
+        "NumbersInYear": "045",
+        "ModelName": "Fly-By",
+        "Series": "HW Contoured",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d2/FLY-BY.jpg/revision/latest?cb=20211230204303"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV24",
+        "NumbersInYear": "046",
+        "ModelName": "'70 Chevy Chevelle",
+        "Series": "HW Contoured",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/HCV24-01.JPG/revision/latest?cb=20211217035450"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV61",
+        "NumbersInYear": "047",
+        "ModelName": "Fast Fish",
+        "Series": "HW Speed Team",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/31/2022_Fast_Fish_Yellow_loose.JPG/revision/latest?cb=20220903174453"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX67",
+        "NumbersInYear": "047",
+        "ModelName": "Fast Fish (2nd Color)",
+        "Series": "HW Speed Team",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/46/FAST_FISH_HCX67.jpg/revision/latest?cb=20220620234258"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW46",
+        "NumbersInYear": "048",
+        "ModelName": "La Fasta",
+        "Series": "HW Speed Team",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/60/La_Fasta_2022.jpg/revision/latest?cb=20220319205155"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX76",
+        "NumbersInYear": "048",
+        "ModelName": "La Fasta (2nd Color)",
+        "Series": "HW Speed Team",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/23/LA_FASTA_HCX76.jpg/revision/latest?cb=20221006152600"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV57",
+        "NumbersInYear": "049",
+        "ModelName": "Tesla Cybertruck",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/TeslaCybertruck_Front.png/revision/latest?cb=20221107182715"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV13",
+        "NumbersInYear": "050",
+        "ModelName": "Track Manga",
+        "Series": "Spoiler Alert",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/Track_Manga_-_Spoiler_Alert_2022.jpg/revision/latest?cb=20220123093347"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW97",
+        "NumbersInYear": "050",
+        "ModelName": "Track Manga (2nd Color)",
+        "Series": "Spoiler Alert",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/71/Red_HCW97_50-250.jpg/revision/latest?cb=20220619035920"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW38",
+        "NumbersInYear": "051",
+        "ModelName": "Blade Raider",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/BLADE_RUNNER_.jpg/revision/latest?cb=20220128061156"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW92",
+        "NumbersInYear": "051",
+        "ModelName": "Blade Raider (2nd Color)",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/06/Blade_Raider_profile.jpg/revision/latest?cb=20220718084050"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV55",
+        "NumbersInYear": "052",
+        "ModelName": "HW450F",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/20220111_094317%281%29.jpg/revision/latest?cb=20220111085524"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT49",
+        "NumbersInYear": "053",
+        "ModelName": "'19 Chevy Silverado Trail Boss LT",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/HCT49_053_19_Chevy_Silverado_Trail_Boss_LT.jpg/revision/latest?cb=20211211081220"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW64",
+        "NumbersInYear": "053",
+        "ModelName": "'19 Chevy Silverado Trail Boss LT (2nd Color)",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/19_CHEVY_SILVERADO_TRAIL_BOSS_LT_HCW64.jpg/revision/latest?cb=20221006154302"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT81",
+        "NumbersInYear": "054",
+        "ModelName": "See Me Rollin'",
+        "Series": "Experimotors",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/SeeMeRollin%27.jpg/revision/latest?cb=20220123204841"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW93",
+        "NumbersInYear": "054",
+        "ModelName": "See Me Rollin' (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/Green_HCW93_54-250.jpg/revision/latest?cb=20220619040034"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT63",
+        "NumbersInYear": "055",
+        "ModelName": "Dodge Van",
+        "Series": "HW Metro",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/49/Dodge_Van_Purple_22.jpg/revision/latest?cb=20220114082232"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY16",
+        "NumbersInYear": "055",
+        "ModelName": "Dodge Van",
+        "Series": "HW Metro",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/62/DODGE_VAN.jpg/revision/latest?cb=20211115101328"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HJP28",
+        "NumbersInYear": "055",
+        "ModelName": "Dodge Van (2nd Color)",
+        "Series": "HW MetroBest Buy Exclusive",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/BestBuyVan.jpg/revision/latest?cb=20221105071813"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT79",
+        "NumbersInYear": "056",
+        "ModelName": "Barbie Dream Camper",
+        "Series": "HW Metro",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/HCT79_056_Barbie_Dream_Camper.jpg/revision/latest?cb=20211204144925"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW37",
+        "NumbersInYear": "057",
+        "ModelName": "McLaren F1 GTR",
+        "Series": "Retro Racers",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/83/HCW37-01.JPG/revision/latest?cb=20211217042606"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY51",
+        "NumbersInYear": "057",
+        "ModelName": "McLaren F1 GTR (2nd Color)",
+        "Series": "Retro Racers",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/61/Kroger.jpeg/revision/latest?cb=20220803051427"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX86",
+        "NumbersInYear": "057",
+        "ModelName": "McLaren F1 GTR (3rd Color)",
+        "Series": "Retro Racers",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/97/HCX86.jpg/revision/latest?cb=20220412142428"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT72",
+        "NumbersInYear": "058",
+        "ModelName": "'67 Ford GT40 Mk.IV",
+        "Series": "Retro Racers",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/GulfMkIV.jpg/revision/latest?cb=20211122061006"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW67",
+        "NumbersInYear": "058",
+        "ModelName": "'67 Ford GT40 Mk.IV (2nd Color)",
+        "Series": "Retro Racers",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/13/White_HCW67_58-250.jpg/revision/latest?cb=20220619040150"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT86",
+        "NumbersInYear": "059",
+        "ModelName": "GT-Scorcher",
+        "Series": "Retro Racers",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/GT-Scorcher_2022_01.jpg/revision/latest?cb=20220603215707"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW99",
+        "NumbersInYear": "059",
+        "ModelName": "GT-Scorcher (2nd Color)",
+        "Series": "Retro Racers",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5e/GT-SCORCHER_HCW99.jpg/revision/latest?cb=20220621000239"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT54",
+        "NumbersInYear": "060",
+        "ModelName": "X-Jet",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/X-Jet_2022_1.jpg/revision/latest?cb=20220208223121"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT40",
+        "NumbersInYear": "061",
+        "ModelName": "Sweet Driver",
+        "Series": "Fast Foodie",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/57/SweetDriver.jpg/revision/latest?cb=20211122061255"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW95",
+        "NumbersInYear": "061",
+        "ModelName": "Sweet Driver (2nd Color)",
+        "Series": "Fast Foodie",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/48/White_HCW95_61-250.jpg/revision/latest?cb=20220619040307"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW56",
+        "NumbersInYear": "062",
+        "ModelName": "Bully Goat",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ed/2022HWBullyGoatPurpleUS-62.jpg/revision/latest?cb=20220131063022"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX03",
+        "NumbersInYear": "062",
+        "ModelName": "Bully Goat (2nd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/03/Green_HCX03_62-250.jpg/revision/latest?cb=20220619040407"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW34",
+        "NumbersInYear": "063",
+        "ModelName": "'68 Dodge Dart",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d0/Dodge_Dart_HW_Art_Cars_2022_white.jpg/revision/latest?cb=20220403191443"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY52",
+        "NumbersInYear": "063",
+        "ModelName": "'68 Dodge Dart (2nd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/68_DODGE_DART_HCY52.jpg/revision/latest?cb=20221006160145"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW96",
+        "NumbersInYear": "063",
+        "ModelName": "'68 Dodge Dart (3rd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/01/HCW96.jpg/revision/latest?cb=20220406143221"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT77",
+        "NumbersInYear": "064",
+        "ModelName": "Nissan R390 GT1",
+        "Series": "HW Turbo",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/36/HCT77-01.JPG/revision/latest?cb=20211229023003"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY27",
+        "NumbersInYear": "064",
+        "ModelName": "Nissan R390 GT1 (2nd Color - Zamac)",
+        "Series": "HW Turbo",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/HW-2022-064-2-HCY27-Nissan_R390_GT1_%282nd_Colour_-_Zamac%29.png/revision/latest?cb=20221116115250"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT67",
+        "NumbersInYear": "065",
+        "ModelName": "'94 Bugatti EB110 SS",
+        "Series": "HW Turbo",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/46/SchumiBugatti.jpg/revision/latest?cb=20211122060732"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX91",
+        "NumbersInYear": "065",
+        "ModelName": "'94 Bugatti EB110 SS (2nd Color)",
+        "Series": "HW Turbo",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/BugattiEB110SS_Front.png/revision/latest?cb=20221107182818"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY01",
+        "NumbersInYear": "066",
+        "ModelName": "Pixel Shaker",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/PixelShaker.jpg/revision/latest?cb=20220825103002"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV32",
+        "NumbersInYear": "067",
+        "ModelName": "Subaru WRX STI",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/73/HCV32-01.JPG/revision/latest?cb=20211226030148"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX04",
+        "NumbersInYear": "067",
+        "ModelName": "Subaru WRX STI (2nd Color)",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/25/SUBARU_WRX_STI_HCX04.jpg/revision/latest?cb=20220705235324"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY64",
+        "NumbersInYear": "067",
+        "ModelName": "Subaru WRX STI (3rd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "7/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/39/Subaru_wrx_sti_red_edition_2022.png/revision/latest?cb=20220926075210"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT70",
+        "NumbersInYear": "068",
+        "ModelName": "'21 Ford Bronco",
+        "Series": "Mud Studs",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/21_Bronco_Grey_22.jpg/revision/latest?cb=20220114082218"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW91",
+        "NumbersInYear": "068",
+        "ModelName": "'21 Ford Bronco (2nd Color)",
+        "Series": "Mud Studs",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/Ford_Bronco%28red%29.png/revision/latest?cb=20220623185920"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW53",
+        "NumbersInYear": "069",
+        "ModelName": "Rocket Box",
+        "Series": "Compact Kings",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/05/Rocket_Box_2022_1.jpeg/revision/latest?cb=20220208221557"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX07",
+        "NumbersInYear": "069",
+        "ModelName": "Rocket Box (2nd Color)",
+        "Series": "Compact Kings",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/89/ROCKET_BOX_HCX07.jpg/revision/latest?cb=20220705235917"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV08",
+        "NumbersInYear": "070",
+        "ModelName": "'59 Chevy Impala",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/59_Impala_Pink_22.jpg/revision/latest?cb=20220114082225"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY43",
+        "NumbersInYear": "070",
+        "ModelName": "'59 Chevy Impala (2nd Color)",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Dollar General Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/59_CHEVY_IMPALA_HCY43.jpg/revision/latest?cb=20221006161720"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT42",
+        "NumbersInYear": "071",
+        "ModelName": "Mach It Go",
+        "Series": "HW Speed Team",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/57/MachItGo.jpg/revision/latest?cb=20211122061422"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW90",
+        "NumbersInYear": "071",
+        "ModelName": "Mach It Go (2nd Color)",
+        "Series": "HW Speed Team",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/HW-2022-071-2-HCW90-Mach_It_Go_%282nd_Colour%29.png/revision/latest?cb=20221116115352"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT18",
+        "NumbersInYear": "072",
+        "ModelName": "'20 Toyota Tacoma",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/86/%2720ToyotaTacoma.jpg/revision/latest?cb=20211117081532"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX56",
+        "NumbersInYear": "072",
+        "ModelName": "'20 Toyota Tacoma (2nd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/20_TOYOTA_TACOMA_HCX56.jpg/revision/latest?cb=20220706000452"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT06",
+        "NumbersInYear": "073",
+        "ModelName": "Ford Mustang Mach-E 1400",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e9/Mach-E1400.jpg/revision/latest?cb=20211117081457"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX38",
+        "NumbersInYear": "073",
+        "ModelName": "Ford Mustang Mach-E 1400 (2nd Color)",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/89/HCX38-01.JPG/revision/latest?cb=20220607000610"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY30",
+        "NumbersInYear": "073",
+        "ModelName": "Ford Mustang Mach-E 1400 (3rd Color - Zamac)",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1b/FORD_MUSTANG_MACH-E_1400_HCY30.jpg/revision/latest?cb=20221006194942"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV15",
+        "NumbersInYear": "074",
+        "ModelName": "Custom Ford Bronco",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/Custom_Ford_Bronco_2022_red_.png/revision/latest?cb=20211215114314"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY45",
+        "NumbersInYear": "074",
+        "ModelName": "Custom Ford Bronco (2nd Color)",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Dollar General Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2d/Custom_Ford_Bronco_-_Yellow.jpg/revision/latest?cb=20220523194523"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV47",
+        "NumbersInYear": "075",
+        "ModelName": "Airuption",
+        "Series": "Experimotors",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/Experimotors-airuption-2022-HCV47.jpg/revision/latest?cb=20220604081720"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV93",
+        "NumbersInYear": "076",
+        "ModelName": "'56 Ford F-100",
+        "Series": "HW Metro",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/2022ML-076_%28Large%29.JPG/revision/latest?cb=20220226032824"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY61",
+        "NumbersInYear": "076",
+        "ModelName": "'56 Ford F-100 (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "4/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/ba/56_Ford_F-100_-_Red_Edition.jpg/revision/latest?cb=20220523194556"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT89",
+        "NumbersInYear": "077",
+        "ModelName": "Ain't Fare",
+        "Series": "HW Metro",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/34/Ain%27t_Fare_de_HW_metro_2022.jpg/revision/latest?cb=20220331012203"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX00",
+        "NumbersInYear": "077",
+        "ModelName": "Ain't Fare (2nd Color)",
+        "Series": "HW Metro",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/HCX00.jpg/revision/latest?cb=20220426153056"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT04",
+        "NumbersInYear": "078",
+        "ModelName": "Classic TV Series Batmobile",
+        "Series": "Batman",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/50/%27ToonedBatmobile.jpg/revision/latest?cb=20211202064206"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW60",
+        "NumbersInYear": "078",
+        "ModelName": "Classic TV Series Batmobile (2nd Color)",
+        "Series": "Batman",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/CLASSIC_TV_SERIES_BATMOBILE_HCW60.jpg/revision/latest?cb=20220706001314"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV10",
+        "NumbersInYear": "079",
+        "ModelName": "'69 COPO Corvette",
+        "Series": "Retro Racers",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4e/2022_COPO_Corv_Blue.jpg/revision/latest?cb=20220218190148"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY28",
+        "NumbersInYear": "079",
+        "ModelName": "'69 COPO Corvette (2nd Color - Zamac)",
+        "Series": "Retro Racers",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9d/69_Copo_Corvette_-_ZAMAC_Walmart_Exclusive.jpg/revision/latest?cb=20220516192704"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV53",
+        "NumbersInYear": "080",
+        "ModelName": "U.S.S. Enterprise NCC-1701",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/20/Msg2087543911-39715.jpg/revision/latest?cb=20220111133642"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY08",
+        "NumbersInYear": "081",
+        "ModelName": "Tooned Twin Mill",
+        "Series": "Tooned",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/25/Tooned_Twin_Mill_2022_1_TH_Sealed.jpg/revision/latest?cb=20220208224159"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV51",
+        "NumbersInYear": "082",
+        "ModelName": "Donut Drifter",
+        "Series": "Fast Foodie",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/af/2022_donut_drifter.jpg/revision/latest?cb=20220311155343"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX84",
+        "NumbersInYear": "082",
+        "ModelName": "Donut Drifter (2nd Color)",
+        "Series": "Fast Foodie",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/84/HCX84.jpg/revision/latest?cb=20220801125157"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT31",
+        "NumbersInYear": "083",
+        "ModelName": "Count Muscula",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/CountMuscula.jpg/revision/latest?cb=20211210052342"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX01",
+        "NumbersInYear": "083",
+        "ModelName": "Count Muscula (2nd Color)",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/COUNT_MUSCULA_HCX01.jpg/revision/latest?cb=20220717232658"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT92",
+        "NumbersInYear": "084",
+        "ModelName": "FusionBusta",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c7/Fusion_Busta._Purple._2022.jpg/revision/latest?cb=20220616213403"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX66",
+        "NumbersInYear": "084",
+        "ModelName": "FusionBusta (2nd Color)",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/HCX66_carded.jpg/revision/latest?cb=20220923235445"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT08",
+        "NumbersInYear": "085",
+        "ModelName": "Lamborghini Si\u00e1n FKP 37",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/LamborghiniSianFKP37_Front.png/revision/latest?cb=20221105163600"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT95",
+        "NumbersInYear": "086",
+        "ModelName": "Mercedes-Benz 500 E",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9a/Mercedes-Benz_500_E_%282022%2C_red%29_by_%40mercedes_diecast_64.jpg/revision/latest?cb=20211202221325"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY42",
+        "NumbersInYear": "086",
+        "ModelName": "Mercedes-Benz 500 E (2nd Color)",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Dollar General Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/2022HWMercedesBenz500EDGExclWhite-86.jpg/revision/latest?cb=20220715183115"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT53",
+        "NumbersInYear": "087",
+        "ModelName": "Raijin Express",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d7/Raijin_Express_2022_01.jpg/revision/latest?cb=20220603212330"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX59",
+        "NumbersInYear": "087",
+        "ModelName": "Raijin Express (2nd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/37/GoldenRaijinExpress.jpg/revision/latest?cb=20220721135215"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV36",
+        "NumbersInYear": "088",
+        "ModelName": "Purrfect Speed",
+        "Series": "Street BeastsYear of the Tiger",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/41/Purrfect_Speed_2022.jpg/revision/latest?cb=20220218195958"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT59",
+        "NumbersInYear": "089",
+        "ModelName": "TURTOshell",
+        "Series": "Street Beasts",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/TURTOshell_2022.jpg/revision/latest?cb=20220218195956"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX05",
+        "NumbersInYear": "089",
+        "ModelName": "TURTOshell (2nd Color)",
+        "Series": "Street Beasts",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/70/HCX05_carded.jpg/revision/latest?cb=20220923231844"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW58",
+        "NumbersInYear": "090",
+        "ModelName": "Kick Kart",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b6/HCW58.jpg/revision/latest?cb=20220330020259"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX06",
+        "NumbersInYear": "090",
+        "ModelName": "Kick Kart (2nd Color)",
+        "Series": "HW Ride-Ons",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/KICK_CART_HCX06.jpg/revision/latest?cb=20220706002418"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT64",
+        "NumbersInYear": "091",
+        "ModelName": "Toyota Land Cruiser 80",
+        "Series": "Mud Studs",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/88/OverlandJ80.jpg/revision/latest?cb=20220615103835"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY57",
+        "NumbersInYear": "091",
+        "ModelName": "Toyota Land Cruiser 80 (2nd Color)",
+        "Series": "Mud Studs",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/39/KrogerCruiser.jpg/revision/latest?cb=20221105071831"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV22",
+        "NumbersInYear": "092",
+        "ModelName": "Mad Manga",
+        "Series": "HW Contoured",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Mad_Manga_%282022_Contoured%29.jpg/revision/latest?cb=20220617104939"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT51",
+        "NumbersInYear": "093",
+        "ModelName": "'63 Studebaker Champ",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/%2763_studebaker_champ.jpg/revision/latest?cb=20220313150035"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY14",
+        "NumbersInYear": "093",
+        "ModelName": "'63 Studebaker Champ",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/%E2%80%9863_studebaker.jpg/revision/latest?cb=20220120045059"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT57",
+        "NumbersInYear": "094",
+        "ModelName": "Rally Baja Crawler",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/99/HCT57.jpg/revision/latest?cb=20220319221752"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT58",
+        "NumbersInYear": "095",
+        "ModelName": "Hyperfin",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f0/HYPERFIN_HCT58.jpg/revision/latest?cb=20220330150316"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV38",
+        "NumbersInYear": "096",
+        "ModelName": "Wheelie Chair",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/51/NM10Reece.JPG/revision/latest?cb=20190721063759"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX08",
+        "NumbersInYear": "096",
+        "ModelName": "Wheelie Chair (2nd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/WHEELIE_CHAIR_HCX08.jpg/revision/latest?cb=20220718000120"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV76",
+        "NumbersInYear": "097",
+        "ModelName": "Mazda RX-7",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/Mazda_RX-7_2022_Version.jpg/revision/latest?cb=20220313153014"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX24",
+        "NumbersInYear": "097",
+        "ModelName": "Mazda RX-7 (2nd Color)",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/Mazda_rx7.jpg/revision/latest?cb=20220813182948"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV84",
+        "NumbersInYear": "098",
+        "ModelName": "Custom '01 Acura Integra GSR",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/94/CUSTOM_01_ACURA_INTEGRA_GSR_HCV84.jpg/revision/latest?cb=20220330145849"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY44",
+        "NumbersInYear": "098",
+        "ModelName": "Custom '01 Acura Integra GSR (2nd Color)",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Dollar General Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/2022HWCustom01AcuraIntegraGSRDGBlue-98.jpg/revision/latest?cb=20220811134644"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT90",
+        "NumbersInYear": "099",
+        "ModelName": "DAVancenator",
+        "Series": "Spoiler Alert",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/DAVancenator_2022_01.jpg/revision/latest?cb=20220603215107"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX19",
+        "NumbersInYear": "099",
+        "ModelName": "DAVancenator (2nd Color)",
+        "Series": "Spoiler Alert",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/HCX19.jpg/revision/latest?cb=20220426152753"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT78",
+        "NumbersInYear": "100",
+        "ModelName": "Nissan Leaf NISMO RC_02",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7e/Nissan_Leaf_Nismo_RC_02_2022_Mainline.JPG/revision/latest?cb=20220214182637"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY53",
+        "NumbersInYear": "100",
+        "ModelName": "Nissan Leaf NISMO RC_02 (2nd Color)",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e6/2022_Nissan_Leaf_Black.jpg/revision/latest?cb=20220727100713"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX89",
+        "NumbersInYear": "100",
+        "ModelName": "Nissan Leaf NISMO RC_02 (3rd Color)",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/NissanLeafNismoRC_02_Front.png/revision/latest?cb=20221107182953"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT38",
+        "NumbersInYear": "101",
+        "ModelName": "Coupe Clip",
+        "Series": "Experimotors",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/55/CoupeClip.jpg/revision/latest?cb=20211210052618"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX09",
+        "NumbersInYear": "101",
+        "ModelName": "Coupe Clip (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/02/HCX09.jpg/revision/latest?cb=20220411135922"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW55",
+        "NumbersInYear": "102",
+        "ModelName": "Cockney Cab II",
+        "Series": "HW Metro",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8e/Cockney_Cab_II_HW_Metro_2022.jpg/revision/latest?cb=20220401215557"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX10",
+        "NumbersInYear": "102",
+        "ModelName": "Cockney Cab II (2nd Color)",
+        "Series": "HW Metro",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/80/COCKNEY_CAB_II_HCX10.jpg/revision/latest?cb=20221006202810"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV69",
+        "NumbersInYear": "103",
+        "ModelName": "Aston Martin Valhalla Concept",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/ValhallaBond.jpg/revision/latest?cb=20211231073921"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT26",
+        "NumbersInYear": "104",
+        "ModelName": "Toon'd '83 Chevy Silverado",
+        "Series": "Tooned",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/Toon%27dSilverado.jpg/revision/latest?cb=20211228053318"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX11",
+        "NumbersInYear": "104",
+        "ModelName": "Toon'd '83 Chevy Silverado (2nd Color)",
+        "Series": "Tooned",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/49/2022HWToond83ChevySilveradoRedUSA-104.jpg/revision/latest?cb=20220822190738"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV43",
+        "NumbersInYear": "105",
+        "ModelName": "Bone Shaker",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/HCV43.jpg/revision/latest?cb=20220401201216"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY32",
+        "NumbersInYear": "105",
+        "ModelName": "Bone Shaker (2nd Color - Zamac)",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/77/Hot_Wheels_2022_-_BONE_SHAKER_-_%282nd_Color_ZAMAC%29.png/revision/latest?cb=20221126163922"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX12",
+        "NumbersInYear": "105",
+        "ModelName": "Bone Shaker (3rd Color)",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/BONE_SHAKER_HCX12.jpg/revision/latest?cb=20221006203600"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW39",
+        "NumbersInYear": "106",
+        "ModelName": "2020 Corvette",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c0/%2720CorvetteC8.jpg/revision/latest?cb=20220327110322"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY11",
+        "NumbersInYear": "106",
+        "ModelName": "2020 Corvette",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/2020_corvetteSTH.jpg/revision/latest?cb=20211115104454"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT93",
+        "NumbersInYear": "107",
+        "ModelName": "McLaren F1",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/Pietervdw_HW_McLaren_P1black.jpg/revision/latest?cb=20220321101728"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX13",
+        "NumbersInYear": "107",
+        "ModelName": "McLaren F1 (2nd Color)",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ea/%2793McLarenF1.jpg/revision/latest?cb=20220427110427"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HJP31",
+        "NumbersInYear": "107",
+        "ModelName": "McLaren F1 (3rd Color)",
+        "Series": "Factory FreshBest Buy Exclusive",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2f/BestBuyMcLaren.jpg/revision/latest?cb=20221105071847"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV74",
+        "NumbersInYear": "108",
+        "ModelName": "'69 Chevy Pickup",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f3/69_Chevy_Pickup.jpg/revision/latest?cb=20220523224640"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX45",
+        "NumbersInYear": "108",
+        "ModelName": "'69 Chevy Pickup (2nd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/43/HCX45.jpg/revision/latest?cb=20220619151707"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW33",
+        "NumbersInYear": "109",
+        "ModelName": "'71 Dodge Charger",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/57/HCW33.jpg/revision/latest?cb=20220403172852"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY31",
+        "NumbersInYear": "109",
+        "ModelName": "'71 Dodge Charger (2nd Color - Zamac)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/99/Hot_Wheels_Skate_2023_-_71_Dodge_Charger_-_HW_Art_Cars_-_ZAMAC.png/revision/latest?cb=20221203034616"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX14",
+        "NumbersInYear": "109",
+        "ModelName": "'71 Dodge Charger (3rd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b0/HCX14.jpg/revision/latest?cb=20220827132218"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT23",
+        "NumbersInYear": "110",
+        "ModelName": "LB Super Silhouette Nissan Silvia (S15)",
+        "Series": "HW Turbo",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/LBWKSilvia.jpg/revision/latest?cb=20211231074315"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX15",
+        "NumbersInYear": "110",
+        "ModelName": "LB Super Silhouette Nissan Silvia (S15) (2nd Color)",
+        "Series": "HW Turbo",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1d/YellowLBWKSilvia.jpg/revision/latest?cb=20220721133328"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV19",
+        "NumbersInYear": "111",
+        "ModelName": "'70 Chevelle SS Wagon",
+        "Series": "HW Wagons",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/42/HW_Wagons_2022_%2770_Chevelle_SS_Wagon_HCV19.jpg/revision/latest?cb=20220326084924"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX23",
+        "NumbersInYear": "111",
+        "ModelName": "'70 Chevelle SS Wagon (2nd Color)",
+        "Series": "HW Wagons",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/02/HW-2022-111-2-HCX23-70_Chevelle_SS_Wagon_%282nd_Colour%29.png/revision/latest?cb=20221116115720"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY56",
+        "NumbersInYear": "111",
+        "ModelName": "'70 Chevelle SS Wagon (3rd Color)",
+        "Series": "HW Wagons",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/25/KrogerChevelle.jpg/revision/latest?cb=20221105071901"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV14",
+        "NumbersInYear": "112",
+        "ModelName": "Big-Air Bel-Air",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/HCV14.jpg/revision/latest?cb=20220330191232"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY29",
+        "NumbersInYear": "112",
+        "ModelName": "Big-Air Bel-Air (2nd Color - Zamac)",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/61/Big-Air_Bel-Air_-_Silver_-_ZAMAC.jpg/revision/latest?cb=20220523224732"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX75",
+        "NumbersInYear": "112",
+        "ModelName": "Big-Air Bel-Air (3rd Color)",
+        "Series": "Chevy Bel Air",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/HW-2022-112-3-HCX75-Big-Air_Bel-Air_%283rd_Colour%29.png/revision/latest?cb=20221116115819"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY05",
+        "NumbersInYear": "113",
+        "ModelName": "Draftnator",
+        "Series": "HW Speed Team",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c9/HCY05.jpg/revision/latest?cb=20220411220534"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV33",
+        "NumbersInYear": "114",
+        "ModelName": "'83 Chevy Silverado",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/79/%2783Silverado.jpg/revision/latest?cb=20220615103528"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY62",
+        "NumbersInYear": "114",
+        "ModelName": "'83 Chevy Silverado (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "5/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9e/RedEdSilverado.jpg/revision/latest?cb=20221105071914"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT33",
+        "NumbersInYear": "115",
+        "ModelName": "Lolux",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/Lolux.jpg/revision/latest?cb=20211230062719"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX16",
+        "NumbersInYear": "115",
+        "ModelName": "Lolux (2nd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/19/20221015_182532.jpg/revision/latest?cb=20221113031131"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV95",
+        "NumbersInYear": "116",
+        "ModelName": "La Troca",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/HCV95.jpg/revision/latest?cb=20220405232844"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX77",
+        "NumbersInYear": "116",
+        "ModelName": "La Troca (2nd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/55/HW-2022-116-2-HCX77-La_Troca_%282nd_Colour%29.png/revision/latest?cb=20221116115900"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT66",
+        "NumbersInYear": "117",
+        "ModelName": "Ducati Scrambler Hot Wheels Edition",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/65/Black_HCT66_117-250.jpg/revision/latest?cb=20220619041440"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV85",
+        "NumbersInYear": "118",
+        "ModelName": "Honda S2000",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d1/HCV85.jpg/revision/latest?cb=20220404011345"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX25",
+        "NumbersInYear": "118",
+        "ModelName": "Honda S2000 (2nd Color)",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/HCX25.jpg/revision/latest?cb=20220606164458"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY33",
+        "NumbersInYear": "118",
+        "ModelName": "Honda S2000 (3rd Color - Zamac)",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/78/ZAMACS2000.jpg/revision/latest?cb=20221105071926"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV77",
+        "NumbersInYear": "119",
+        "ModelName": "'91 Mazda MX-5 Miata",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4c/N0KIDN.jpg/revision/latest?cb=20220615103322"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV50",
+        "NumbersInYear": "120",
+        "ModelName": "Hyper Rocker",
+        "Series": "HW Rescue",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b7/Hyper_Rocker%28Yellow%29_2022.jpg/revision/latest?cb=20220616213335"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX26",
+        "NumbersInYear": "120",
+        "ModelName": "Hyper Rocker (2nd Color)",
+        "Series": "HW Rescue",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/61/HYPER_ROCKER_HCX26.jpg/revision/latest?cb=20220718003242"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT84",
+        "NumbersInYear": "121",
+        "ModelName": "Lethal Diesel",
+        "Series": "HW Rescue",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/HCT84.jpg/revision/latest?cb=20220325161210"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX17",
+        "NumbersInYear": "121",
+        "ModelName": "Lethal Diesel (2nd Color)",
+        "Series": "HW Rescue",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/HCX17.jpg/revision/latest?cb=20220531154211"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT85",
+        "NumbersInYear": "122",
+        "ModelName": "Cosmic Coupe",
+        "Series": "X-Raycers",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6b/Cosmic_Coupe_X-Raycers_2022.jpg/revision/latest?cb=20220401220505"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX18",
+        "NumbersInYear": "122",
+        "ModelName": "Cosmic Coupe (2nd Color)",
+        "Series": "X-Raycers",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/COSMIC_COUPE_HCX18.jpg/revision/latest?cb=20220718004319"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT28",
+        "NumbersInYear": "123",
+        "ModelName": "Glory Chaser",
+        "Series": "Retro Racers",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/GloryChaser.jpg/revision/latest?cb=20211230062658"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX20",
+        "NumbersInYear": "123",
+        "ModelName": "Glory Chaser (2nd Color)",
+        "Series": "Retro Racers",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/28/2022HWGloryChaserRedInt-123.jpg/revision/latest?cb=20220717175146"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT13",
+        "NumbersInYear": "124",
+        "ModelName": "Nissan Z Proto",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8a/NissanZProto.jpg/revision/latest?cb=20220122045509"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX34",
+        "NumbersInYear": "124",
+        "ModelName": "Nissan Z Proto (2nd Color)",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/af/ZProtoWhite.jpg/revision/latest?cb=20220618124153"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT98",
+        "NumbersInYear": "125",
+        "ModelName": "'99 Honda Civic Type R (EK9)",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/%2799_Honda_Civic_%282022_Yellow%29.jpg/revision/latest?cb=20220617105523"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY12",
+        "NumbersInYear": "125",
+        "ModelName": "'99 Honda Civic Type R (EK9)",
+        "Series": "HW Hatchbacks",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/38/Civic_EK9.jpg/revision/latest?cb=20220120045142"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY63",
+        "NumbersInYear": "125",
+        "ModelName": "'99 Honda Civic Type R (EK9) (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "6/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/20/RedEditionEK.jpg/revision/latest?cb=20220806125720"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY03",
+        "NumbersInYear": "126",
+        "ModelName": "'17 Jeep Wrangler",
+        "Series": "Mud Studs",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/33/17_JEEP_WRANGLER_HCY03_TH.jpg/revision/latest?cb=20220706134558"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW42",
+        "NumbersInYear": "127",
+        "ModelName": "Rennen Rig",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/HCW42.jpg/revision/latest?cb=20220325162542"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX55",
+        "NumbersInYear": "127",
+        "ModelName": "Rennen Rig (2nd Color)",
+        "Series": "HW Hot Trucks",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/21/HW-2022-127-2-HCX55-Rennen_Rig_%282nd_Colour%29.png/revision/latest?cb=20221116115958"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT39",
+        "NumbersInYear": "128",
+        "ModelName": "Layin' Lowrider",
+        "Series": "Experimotors",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/21/Layin%27Lowrider.jpg/revision/latest?cb=20220122045205"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX29",
+        "NumbersInYear": "128",
+        "ModelName": "Layin' Lowrider (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/LayinLowriderBlue2022.jpg/revision/latest?cb=20230217235407"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV70",
+        "NumbersInYear": "129",
+        "ModelName": "'70 Dodge Charger",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/Charger70_fast%26furious.jpg/revision/latest?cb=20220511234922"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT03",
+        "NumbersInYear": "130",
+        "ModelName": "GMC Hummer EV",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a8/GMCHummerEV.jpg/revision/latest?cb=20220221084839"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX41",
+        "NumbersInYear": "130",
+        "ModelName": "GMC Hummer EV (2nd Color)",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/59/HCX41.jpg/revision/latest?cb=20220613160742"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV64",
+        "NumbersInYear": "131",
+        "ModelName": "TV Series Batmobile",
+        "Series": "Batman",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/48/HCV64_Carded.jpg/revision/latest?cb=20220622152702"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW61",
+        "NumbersInYear": "131",
+        "ModelName": "TV Series Batmobile (2nd Color)",
+        "Series": "Batman",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d8/HCW61.jpg/revision/latest?cb=20220722123233"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT96",
+        "NumbersInYear": "132",
+        "ModelName": "Porsche 935",
+        "Series": "Retro Racers",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/Porsche_935_-_Blue.jpg/revision/latest?cb=20220523225447"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HJP30",
+        "NumbersInYear": "132",
+        "ModelName": "Porsche 935 (2nd Color)",
+        "Series": "Retro RacersBest Buy Exclusive",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cf/BestBuy935.jpg/revision/latest?cb=20221105071942"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV39",
+        "NumbersInYear": "133",
+        "ModelName": "K.I.T.T. Super Pursuit Mode",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/KITTSPM.jpg/revision/latest?cb=20220311075259"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT35",
+        "NumbersInYear": "134",
+        "ModelName": "Barbie Extra",
+        "Series": "Tooned",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/98/BarbieExtraCar.jpg/revision/latest?cb=20220122050003"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX32",
+        "NumbersInYear": "134",
+        "ModelName": "Barbie Extra (2nd Color)",
+        "Series": "Tooned",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/54/BarbiePinkCar.jpg/revision/latest?cb=20220818101505"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV52",
+        "NumbersInYear": "135",
+        "ModelName": "Carbonator",
+        "Series": "Fast Foodie",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e4/Green_HCV52_135-250.jpg/revision/latest?cb=20220619041533"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX33",
+        "NumbersInYear": "135",
+        "ModelName": "Carbonator (2nd Color)",
+        "Series": "Fast Foodie",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/HCX33_carded.jpg/revision/latest?cb=20221022010955"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW31",
+        "NumbersInYear": "136",
+        "ModelName": "Lotus Sport Elise",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/36/HCW31-01.JPG/revision/latest?cb=20220525044615"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX44",
+        "NumbersInYear": "136",
+        "ModelName": "Lotus Sport Elise (2nd Color)",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ee/LotusSportElise_Front.png/revision/latest?cb=20221107184139"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV48",
+        "NumbersInYear": "137",
+        "ModelName": "Cyber Speeder",
+        "Series": "HW Turbo",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/39/2022-CyberSpeeder-Red-Mainline.jpg/revision/latest?cb=20220709042252"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX46",
+        "NumbersInYear": "137",
+        "ModelName": "Cyber Speeder (2nd Color)",
+        "Series": "HW Turbo",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/60/2022-CyberSpeeder-White-Mainline.jpg/revision/latest?cb=20220709042218"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT01",
+        "NumbersInYear": "138",
+        "ModelName": "Koenigsegg Gemera",
+        "Series": "HW Turbo",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3d/KoenigseggGemera.jpg/revision/latest?cb=20220221084857"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX35",
+        "NumbersInYear": "138",
+        "ModelName": "Koenigsegg Gemera (2nd Color)",
+        "Series": "HW Turbo",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f2/KoenigseggGemera_Front.png/revision/latest?cb=20221107184108"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY06",
+        "NumbersInYear": "139",
+        "ModelName": "Duck N' Roll",
+        "Series": "Street Beasts",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/58/DUCK_N%27_ROLL_HCY06_TH.jpg/revision/latest?cb=20220706141036"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV21",
+        "NumbersInYear": "140",
+        "ModelName": "Volvo 850 Estate",
+        "Series": "HW Wagons",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/29/Volvo_850_Estate_HW_Wagons_2022.jpg/revision/latest?cb=20220401223506"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX36",
+        "NumbersInYear": "140",
+        "ModelName": "Volvo 850 Estate (2nd Color)",
+        "Series": "HW Wagons",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/29/HCX36.jpg/revision/latest?cb=20220613160916"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT75",
+        "NumbersInYear": "141",
+        "ModelName": "Custom '70 Honda N600",
+        "Series": "Compact Kings",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/61/HondaN600.jpg/revision/latest?cb=20220626122109"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HJP32",
+        "NumbersInYear": "141",
+        "ModelName": "Custom '70 Honda N600 (2nd Color)",
+        "Series": "Compact KingsBest Buy Exclusive",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/BestBuyN600.jpg/revision/latest?cb=20221105071955"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW48",
+        "NumbersInYear": "142",
+        "ModelName": "Volkswagen K\u00e4fer Racer",
+        "Series": "HW Contoured",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/60/VOLKSWAGEN_KAFER_RACER_HCW48.jpg/revision/latest?cb=20220706142307"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY09",
+        "NumbersInYear": "142",
+        "ModelName": "Volkswagen K\u00e4fer Racer",
+        "Series": "HW Contoured",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/2022_%24uper_TH_VW_Kafer_Racer_G_Case.JPG/revision/latest?cb=20220502063153"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV78",
+        "NumbersInYear": "143",
+        "ModelName": "Mazda RX-3",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ae/HCV78-01.JPG/revision/latest?cb=20220526101101"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY54",
+        "NumbersInYear": "143",
+        "ModelName": "Mazda RX-3 (2nd Color)",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0a/KrogerRX-3.jpg/revision/latest?cb=20221105072025"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV83",
+        "NumbersInYear": "144",
+        "ModelName": "'90 Acura NSX",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f6/%2790HondaNSX.jpg/revision/latest?cb=20220626122318"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX58",
+        "NumbersInYear": "144",
+        "ModelName": "'90 Acura NSX (2nd Color)",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/42/HW-2022-144-2-HCX58-90_Acura_NSX_%282nd_Colour%29.png/revision/latest?cb=20221116120116"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW54",
+        "NumbersInYear": "145",
+        "ModelName": "Snow Stormer",
+        "Series": "HW Rescue",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/94/SNOW_STORMER_HCW54.jpg/revision/latest?cb=20220618135751"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX47",
+        "NumbersInYear": "145",
+        "ModelName": "Snow Stormer (2nd Color)",
+        "Series": "HW Rescue",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/87/HCX47.jpg/revision/latest?cb=20220616151540"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV12",
+        "NumbersInYear": "146",
+        "ModelName": "2005 Ford Mustang",
+        "Series": "Spoiler Alert",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/70/2005_Ford_Mustang_%282022%29.jpg/revision/latest?cb=20220523230119"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX88",
+        "NumbersInYear": "146",
+        "ModelName": "2005 Ford Mustang (2nd Color)",
+        "Series": "Spoiler Alert",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/07/HCX88_carded.jpg/revision/latest?cb=20220923225039"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT24",
+        "NumbersInYear": "147",
+        "ModelName": "Lucid Air",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/95/LucidAir_Front.png/revision/latest?cb=20221006182649"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX40",
+        "NumbersInYear": "147",
+        "ModelName": "Lucid Air (2nd Color)",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/36/HCX40.jpg/revision/latest?cb=20220808122631"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV60",
+        "NumbersInYear": "148",
+        "ModelName": "Driftsta",
+        "Series": "HW Drift",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f5/HCV60.jpg/revision/latest?cb=20220509114525"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX43",
+        "NumbersInYear": "148",
+        "ModelName": "Driftsta (2nd Color)",
+        "Series": "HW Drift",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/14/HCX43-LOOSE.jpg/revision/latest?cb=20220922135808"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT52",
+        "NumbersInYear": "149",
+        "ModelName": "Electrack",
+        "Series": "X-Raycers",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9c/HCT52_Carded.jpg/revision/latest?cb=20220428134007"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX63",
+        "NumbersInYear": "149",
+        "ModelName": "Electrack (2nd Color)",
+        "Series": "X-Raycers",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2b/HCX63_carded.jpg/revision/latest?cb=20221028233745"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT10",
+        "NumbersInYear": "150",
+        "ModelName": "'95 Jeep Cherokee",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/%2795JeepCherokee.jpg/revision/latest?cb=20220311075210"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX28",
+        "NumbersInYear": "150",
+        "ModelName": "'95 Jeep Cherokee (2nd Color)",
+        "Series": "Baja Blazers",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/df/HCX28.jpg/revision/latest?cb=20220824151212"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT82",
+        "NumbersInYear": "151",
+        "ModelName": "Custom Small Block",
+        "Series": "Experimotors",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f1/CUSTOM_SMALL_BLOCK_HCT82.jpg/revision/latest?cb=20220618151837"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX69",
+        "NumbersInYear": "151",
+        "ModelName": "Custom Small Block (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b8/20221015_181015.jpg/revision/latest?cb=20221113031300"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV65",
+        "NumbersInYear": "152",
+        "ModelName": "Shelby Cobra 427 S/C",
+        "Series": "Retro Racers",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/23/SHELBY_COBRA_427_SC_HCV65.jpg/revision/latest?cb=20220618154528"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX48",
+        "NumbersInYear": "152",
+        "ModelName": "Shelby Cobra 427 S/C (2nd Color)",
+        "Series": "Retro Racers",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fb/HCX48_carded.jpg/revision/latest?cb=20221022004808"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT47",
+        "NumbersInYear": "153",
+        "ModelName": "BMW R nineT Racer",
+        "Series": "Retro Racers",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/26/BMWRnineT.jpg/revision/latest?cb=20220311075121"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX31",
+        "NumbersInYear": "153",
+        "ModelName": "BMW R nineT Racer (2nd Color)",
+        "Series": "Retro Racers",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c5/HCX31.jpg/revision/latest?cb=20220802154004"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT99",
+        "NumbersInYear": "154",
+        "ModelName": "LB-Silhouette WORKS GT Nissan 35GT-RR VER.2",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/LBSWGT-RV2.jpg/revision/latest?cb=20220327075635"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX49",
+        "NumbersInYear": "154",
+        "ModelName": "LB-Silhouette WORKS GT Nissan 35GT-RR VER.2 (2nd Color)",
+        "Series": "HW Dream Garage",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f4/HW-2022-154-2-HCX49-LB-Silhouette_WORKS_GT_Nissan_35GT-RR_VER.2_%282nd_Colour%29.png/revision/latest?cb=20221116120314"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV91",
+        "NumbersInYear": "155",
+        "ModelName": "'47 Chevy Fleetline",
+        "Series": "Rod Squad",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/47_CHEVY_FLEETLINE_HCV91.jpg/revision/latest?cb=20220620150559"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX50",
+        "NumbersInYear": "155",
+        "ModelName": "'47 Chevy Fleetline (2nd Color)",
+        "Series": "Rod Squad",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/05/HW-2022-155-2-HCX50-47_Chevy_Fleetline_%282nd_Colour%29.png/revision/latest?cb=20221116120343"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV56",
+        "NumbersInYear": "156",
+        "ModelName": "Alfa Romeo 8C Competizione",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/19/HCV56.jpg/revision/latest?cb=20220428131521"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY34",
+        "NumbersInYear": "156",
+        "ModelName": "Alfa Romeo 8C Competizione (2nd Color - Zamac)",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3e/HW-2022-156-2-HCY34-Alfa_Romeo_8C_Competizione_%282nd_Colour_-_Zamac%29.png/revision/latest?cb=20221116120420"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW47",
+        "NumbersInYear": "157",
+        "ModelName": "'17 Ford GT",
+        "Series": "HW Turbo",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/be/FordGT_Front.png/revision/latest?cb=20221107184015"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY70",
+        "NumbersInYear": "157",
+        "ModelName": "'17 Ford GT (2nd Color)",
+        "Series": "HW Turbo",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walgreens Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/80/GreenieFordGT.jpg/revision/latest?cb=20221105065918"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT71",
+        "NumbersInYear": "158",
+        "ModelName": "2020 Jaguar F-Type",
+        "Series": "HW Turbo",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/81/2022_2020_Jaguar_F-Type_Regular.jpg/revision/latest?cb=20220616012224"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY17",
+        "NumbersInYear": "158",
+        "ModelName": "2020 Jaguar F-Type",
+        "Series": "HW Turbo",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1c/HW-2022-158-2-HCY17-2020_Jaguar_F-Type.png/revision/latest?cb=20221116120509"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT76",
+        "NumbersInYear": "159",
+        "ModelName": "Range Rover Classic",
+        "Series": "Mud Studs",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7c/RANGE_ROVER_CLASSIC_HCT76_.jpg/revision/latest?cb=20220620160610"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX52",
+        "NumbersInYear": "159",
+        "ModelName": "Range Rover Classic (2nd Color)",
+        "Series": "Mud Studs",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/23/HCX52.jpg/revision/latest?cb=20220803140217"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW52",
+        "NumbersInYear": "160",
+        "ModelName": "Volkswagen \"Baja Bug\"",
+        "Series": "Mud Studs",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e7/VOLKSWAGEN_BAJA_BUG_HCW52.jpg/revision/latest?cb=20220620161406"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY35",
+        "NumbersInYear": "160",
+        "ModelName": "Volkswagen \"Baja Bug\" (2nd Color - Zamac)",
+        "Series": "Mud Studs",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/08/2022_Hot_Wheels_Baja_Bug_zamac_carded.jpg/revision/latest?cb=20221019225016"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX74",
+        "NumbersInYear": "160",
+        "ModelName": "Volkswagen \"Baja Bug\" (3rd Color)",
+        "Series": "Mud Studs",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/62/HCX74.jpg/revision/latest?cb=20220831150724"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY07",
+        "NumbersInYear": "161",
+        "ModelName": "Morris Mini",
+        "Series": "Compact Kings",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/02/MORRIS_MINI_HCY07_TH.jpg/revision/latest?cb=20220620162520"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV04",
+        "NumbersInYear": "162",
+        "ModelName": "Tesla Roadster",
+        "Series": "HW Exotics",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/2022TeslaRoadster_Front.png/revision/latest?cb=20221107183942"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT34",
+        "NumbersInYear": "163",
+        "ModelName": "Dimachinni Veloce",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/DimachinniVeloce.jpg/revision/latest?cb=20220310063741"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX57",
+        "NumbersInYear": "163",
+        "ModelName": "Dimachinni Veloce (2nd Color)",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/26/HW-2022-163-2-HCX57-Dimachinni_Veloce_%282nd_Colour%29.png/revision/latest?cb=20221116120551"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV49",
+        "NumbersInYear": "164",
+        "ModelName": "Track Ripper",
+        "Series": "Spoiler Alert",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/Track_Ripper_2022.jpg/revision/latest?cb=20220531134800"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX68",
+        "NumbersInYear": "164",
+        "ModelName": "Track Ripper (2nd Color)",
+        "Series": "Spoiler Alert",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e5/TrackRipper2022SpoilerAlertred.jpg/revision/latest?cb=20230326071415"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT37",
+        "NumbersInYear": "165",
+        "ModelName": "Bricking Speed",
+        "Series": "Experimotors",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/96/BrickingSpeed.jpg/revision/latest?cb=20220414040328"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX30",
+        "NumbersInYear": "165",
+        "ModelName": "Bricking Speed (2nd Color)",
+        "Series": "Experimotors",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0d/HW-2022-165-2-HCX30-Bricking_Speed_%282nd_Colour%29.png/revision/latest?cb=20221116120714"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX96",
+        "NumbersInYear": "166",
+        "ModelName": "Gotta Go",
+        "Series": "Experimotors",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/GOTTA_GO_HCX96_TH.jpg/revision/latest?cb=20220623132049"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV54",
+        "NumbersInYear": "167",
+        "ModelName": "Back to the Future Time Machine",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/TimeMachine.jpg/revision/latest?cb=20220426091249"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV17",
+        "NumbersInYear": "168",
+        "ModelName": "Mod Rod",
+        "Series": "Rod Squad",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/53/ModRodModSquad2022Black.jpg/revision/latest?cb=20230326071349"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW65",
+        "NumbersInYear": "168",
+        "ModelName": "Mod Rod (2nd Color)",
+        "Series": "Rod Squad",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/38/HCW65-LOOSE.jpg/revision/latest?cb=20220923163203"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT46",
+        "NumbersInYear": "169",
+        "ModelName": "Honda Super Cub",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/HondaSuperCub.jpg/revision/latest?cb=20220416051503"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX21",
+        "NumbersInYear": "169",
+        "ModelName": "Honda Super Cub (2nd Color)",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b5/HW-2022-169-2-HCX21-Honda_Super_Cub_%282nd_Colour%29.png/revision/latest?cb=20221116120744"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW44",
+        "NumbersInYear": "170",
+        "ModelName": "MS-T Suzuka",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/81/HCW44.jpg/revision/latest?cb=20220403162806"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX51",
+        "NumbersInYear": "170",
+        "ModelName": "MS-T Suzuka (2nd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/HW-2022-170-2-HCX51-MS-T_Suzuka_%282nd_Colour%29.png/revision/latest?cb=20221116120927"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV89",
+        "NumbersInYear": "171",
+        "ModelName": "Automobili Pininfarina Battista",
+        "Series": "HW Exotics",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/PinifariniBattista_Front.png/revision/latest?cb=20221107183858"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY65",
+        "NumbersInYear": "171",
+        "ModelName": "Automobili Pininfarina Battista (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "8/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/RossoBattista.jpg/revision/latest?cb=20221105072042"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX53",
+        "NumbersInYear": "171",
+        "ModelName": "Automobili Pininfarina Battista (3rd Color)",
+        "Series": "HW Exotics",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/80/BattistaBluIconica.jpg/revision/latest?cb=20220806122354"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT97",
+        "NumbersInYear": "172",
+        "ModelName": "LB-WORKS Lamborghini Hurac\u00e1n Coup\u00e9",
+        "Series": "HW Exotics",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8f/LB-WorksLamborghiniHuracanCoupe_Front.png/revision/latest?cb=20221107183811"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY55",
+        "NumbersInYear": "172",
+        "ModelName": "LB-WORKS Lamborghini Hurac\u00e1n Coup\u00e9 (2nd Color)",
+        "Series": "HW Exotics",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Kroger Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/28/KrogerLambo.jpg/revision/latest?cb=20221105072055"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT15",
+        "NumbersInYear": "173",
+        "ModelName": "1986 Toyota Van",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/60/ToyotaVan.jpg/revision/latest?cb=20220409072344"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX37",
+        "NumbersInYear": "173",
+        "ModelName": "1986 Toyota Van (2nd Color)",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/HW-2022-173-2-HCX37-1986_Toyota_Van_%282nd_Colour%29.png/revision/latest?cb=20221116121010"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW32",
+        "NumbersInYear": "174",
+        "ModelName": "Nissan Skyline 2000GT-R LBWK",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bd/KatoSkyline.jpg/revision/latest?cb=20220414040537"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV87",
+        "NumbersInYear": "175",
+        "ModelName": "Custom '18 Ford Mustang GT",
+        "Series": "Spoiler Alert",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/31/HCV87-01.JPG/revision/latest?cb=20220607001723"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY18",
+        "NumbersInYear": "175",
+        "ModelName": "Custom '18 Ford Mustang GT",
+        "Series": "Spoiler Alert",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/57/Custom%2718MustangGT.jpg/revision/latest?cb=20220329011512"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCR99",
+        "NumbersInYear": "176",
+        "ModelName": "Audi RS e-tron GT",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7d/AudiRSetronGT_Front.png/revision/latest?cb=20221105164120"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX39",
+        "NumbersInYear": "176",
+        "ModelName": "Audi RS e-tron GT (2nd Color)",
+        "Series": "HW Green Speed",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/HCX39.jpg/revision/latest?cb=20220917104139"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV86",
+        "NumbersInYear": "177",
+        "ModelName": "'95 Mazda RX-7",
+        "Series": "HW Drift",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/95_MAZDA_RX-7_HCV86.jpg/revision/latest?cb=20220706151713"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX62",
+        "NumbersInYear": "177",
+        "ModelName": "'95 Mazda RX-7 (2nd Color)",
+        "Series": "HW Drift",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/HCX62.jpg/revision/latest?cb=20220804154956"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT65",
+        "NumbersInYear": "178",
+        "ModelName": "Batmobile",
+        "Series": "Batman",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/75/PattinsonBatmobileGunmetal.jpg/revision/latest?cb=20220721135236"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY36",
+        "NumbersInYear": "178",
+        "ModelName": "Batmobile (2nd Color - Zamac)",
+        "Series": "Batman",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ab/HW-2022-178-2-HCY36-Batmobile_%282nd_Colour_-_Zamac%29.png/revision/latest?cb=20221116121132"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW62",
+        "NumbersInYear": "178",
+        "ModelName": "Batmobile (3rd Color)",
+        "Series": "Batman",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/78/HW-2022-178-3-HCW62-Batmobile_%283rd_Colour%29.png/revision/latest?cb=20221116121057"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT14",
+        "NumbersInYear": "179",
+        "ModelName": "Armadillo",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7b/Armadillo.jpg/revision/latest?cb=20220429101030"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV29",
+        "NumbersInYear": "180",
+        "ModelName": "'84 Audi Sport quattro",
+        "Series": "Rally Champs",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6c/AudiUrQuattro.jpg/revision/latest?cb=20220721135147"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX60",
+        "NumbersInYear": "180",
+        "ModelName": "'84 Audi Sport quattro (2nd Color)",
+        "Series": "Rally Champs",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fd/HW-2022-180-2-HCX60-84_Audi_Sport_quattro_%282nd_Colour%29.png/revision/latest?cb=20221116121221"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY39",
+        "NumbersInYear": "180",
+        "ModelName": "'84 Audi Sport quattro (3rd Color - Zamac)",
+        "Series": "Rally Champs",
+        "SeriesNumber": "1/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6e/HW-2022-180-3-HCY39-84_Audi_Sport_Quattro_%283rd_Colour_-_Zamac%29.png/revision/latest?cb=20221116121253"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV92",
+        "NumbersInYear": "181",
+        "ModelName": "'40 Ford Pickup",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/08/HCV92_carded.jpg/revision/latest?cb=20221022012452"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX61",
+        "NumbersInYear": "181",
+        "ModelName": "'40 Ford Pickup (2nd Color)",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/HW-2022-181-2-HCX61-40_Ford_Pickup_%282nd_Colour%29.png/revision/latest?cb=20221116121412"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT74",
+        "NumbersInYear": "182",
+        "ModelName": "'06 Pontiac GTO",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/31/2022ML182_%28Large%29.JPG/revision/latest?cb=20220807050202"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY37",
+        "NumbersInYear": "182",
+        "ModelName": "'06 Pontiac GTO (2nd Color - Zamac)",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3f/HW-2022-182-2-HCY37-06_Pontiac_GTO_%282nd_Colour_-_Zamac%29.png/revision/latest?cb=20221116121611"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX70",
+        "NumbersInYear": "182",
+        "ModelName": "'06 Pontiac GTO (3rd Color)",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/HW-2022-182-3-HCX70-06_Pontiac_GTO_%283rd_Colour%29.png/revision/latest?cb=20221116121545"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT94",
+        "NumbersInYear": "183",
+        "ModelName": "Aston Martin V12 Speedster",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cc/AstonMartinV12Speedster_Front.png/revision/latest?cb=20221107183702"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX71",
+        "NumbersInYear": "183",
+        "ModelName": "Aston Martin V12 Speedster (2nd Color)",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/54/HW-2022-183-2-HCX71-Aston_Martin_V12_Speedster_%282nd_Colour%29.png/revision/latest?cb=20221116121642"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT83",
+        "NumbersInYear": "184",
+        "ModelName": "Head Gasket",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/44/HEAD_GASKET_HCT83.jpg/revision/latest?cb=20220718011210"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX65",
+        "NumbersInYear": "184",
+        "ModelName": "Head Gasket (2nd Color)",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/65/HW-2022-184-2-HCX65-Head_Gasket_%282nd_Colour%29.png/revision/latest?cb=20221116121743"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCR98",
+        "NumbersInYear": "185",
+        "ModelName": "HW K.I.T.T. Concept",
+        "Series": "HW Exotics",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bc/KITTConcept.jpg/revision/latest?cb=20220427110357"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX99",
+        "NumbersInYear": "186",
+        "ModelName": "'87 Dodge D100",
+        "Series": "HW Daredevils",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/HW-2022-186-1-HCX99-87_Dodge_D100.png/revision/latest?cb=20221116121909"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV11",
+        "NumbersInYear": "187",
+        "ModelName": "Nissan Skyline HT 2000GT-X",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/77/SeafoamHako.jpg/revision/latest?cb=20220721133601"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY15",
+        "NumbersInYear": "187",
+        "ModelName": "Nissan Skyline HT 2000GT-X",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/81/HakoSuper.jpg/revision/latest?cb=20220715051843"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW25",
+        "NumbersInYear": "188",
+        "ModelName": "Ford Mustang GT Concept",
+        "Series": "HW Rescue",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/ce/FORD_MUSTANG_GT_CONCEPT_HCW25.jpg/revision/latest?cb=20220718012316"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT30",
+        "NumbersInYear": "189",
+        "ModelName": "Turbine Sublime",
+        "Series": "X-Raycers",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/ca/TurbineSublime.jpg/revision/latest?cb=20220414040204"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX42",
+        "NumbersInYear": "189",
+        "ModelName": "Turbine Sublime (2nd Color)",
+        "Series": "X-Raycers",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/36/TurbineSublimeOrange.jpg/revision/latest?cb=20220806085232"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT73",
+        "NumbersInYear": "190",
+        "ModelName": "Corvette C8.R",
+        "Series": "Then and Now",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/54/HCT73-01.JPG/revision/latest?cb=20220920032805"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV62",
+        "NumbersInYear": "191",
+        "ModelName": "Twin Mill",
+        "Series": "Then and Now",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/HCV62_Carded.jpg/revision/latest?cb=20220714232920"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV37",
+        "NumbersInYear": "192",
+        "ModelName": "'65 Mustang 2+2 Fastback",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/c4/2022ML192_%28Large%29.JPG/revision/latest?cb=20220807050224"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY68",
+        "NumbersInYear": "192",
+        "ModelName": "'65 Mustang 2+2 Fastback (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "11/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/07/HW-2022-192-2-HCX81-65_Mustang_2%2B2_Fastback_%283rd_Colour%29.png/revision/latest?cb=20221116122031"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX81",
+        "NumbersInYear": "192",
+        "ModelName": "'65 Mustang 2+2 Fastback (3rd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "1/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/HW-2022-192-3-HCY68-65_Mustang_2%2B2_Fastback_%282nd_Colour%29.png/revision/latest?cb=20221116122054"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV68",
+        "NumbersInYear": "193",
+        "ModelName": "'69 COPO Camaro",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/2022ML193_%28Large%29.JPG/revision/latest?cb=20220807050234"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX82",
+        "NumbersInYear": "193",
+        "ModelName": "'69 COPO Camaro (2nd Color)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "2/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/80/69_camaro_2022_yellow.png/revision/latest?cb=20220909043254"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT60",
+        "NumbersInYear": "194",
+        "ModelName": "X-34 Landspeeder",
+        "Series": "HW Screen Time",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/dd/HW-2022-194-1-HCT60-X-34_Landspeeder.png/revision/latest?cb=20221116122122"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT91",
+        "NumbersInYear": "195",
+        "ModelName": "Sand Burner",
+        "Series": "Rally Champs",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/18/Hct91.jpg/revision/latest?cb=20220531152925"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX64",
+        "NumbersInYear": "195",
+        "ModelName": "Sand Burner (2nd Color)",
+        "Series": "Rally Champs",
+        "SeriesNumber": "2/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/SandBurnerRed2022.jpg/revision/latest?cb=20230209035834"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV94",
+        "NumbersInYear": "196",
+        "ModelName": "'68 El Camino",
+        "Series": "Rod Squad",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7a/68ElCaminoRodSquad2022Blue.jpg/revision/latest?cb=20230326071447"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY38",
+        "NumbersInYear": "196",
+        "ModelName": "'68 El Camino (2nd Color - Zamac)",
+        "Series": "Rod Squad",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5a/Hot_Wheels_Skate_2022_-_68_El_Camino_-_Rod_Squad_-_ZAMAC.png/revision/latest?cb=20221203035215"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT44",
+        "NumbersInYear": "197",
+        "ModelName": "Hot Wired",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/HotWired.jpg/revision/latest?cb=20220603060852"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV31",
+        "NumbersInYear": "198",
+        "ModelName": "'18 Dodge Challenger SRT Demon",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0b/2022ML198_%28Large%29.JPG/revision/latest?cb=20220807050248"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY69",
+        "NumbersInYear": "198",
+        "ModelName": "'18 Dodge Challenger SRT Demon (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "12/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/72/HW-2022-198-2-HCY69-18_Dodge_Challenger_SRT_Demon_%282nd_Colour%29.png/revision/latest?cb=20221116122308"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT22",
+        "NumbersInYear": "199",
+        "ModelName": "Porsche 911 GT3",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e8/Porsche911GT3_Front.png/revision/latest?cb=20221107183607"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX85",
+        "NumbersInYear": "199",
+        "ModelName": "Porsche 911 GT3 (2nd Color)",
+        "Series": "Factory Fresh",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/82/HW-2022-199-2-HCX85-Porsche_911_GT3_%282nd_Colour%29.png/revision/latest?cb=20221116122347"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX98",
+        "NumbersInYear": "200",
+        "ModelName": "'58 Impala",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/5c/DayOfTheDeadImpala.jpg/revision/latest?cb=20220818101000"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV20",
+        "NumbersInYear": "201",
+        "ModelName": "Cruise Bruiser",
+        "Series": "HW Wagons",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bb/HCV20_carded.jpg/revision/latest?cb=20221029015830"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX72",
+        "NumbersInYear": "201",
+        "ModelName": "Cruise Bruiser (2nd Color)",
+        "Series": "HW Wagons",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/4a/2022CruseBrusierWhite.jpg/revision/latest?cb=20230209035721"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV34",
+        "NumbersInYear": "202",
+        "ModelName": "'71 Lamborghini Miura SV",
+        "Series": "HW Exotics",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8d/HCV34-LOOSE.jpg/revision/latest?cb=20220815120352"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY13",
+        "NumbersInYear": "202",
+        "ModelName": "'71 Lamborghini Miura SV",
+        "Series": "HW Exotics",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/54/Lamborghini_Miura_STH_2022.jpg/revision/latest?cb=20220709153119"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX02",
+        "NumbersInYear": "202",
+        "ModelName": "'71 Lamborghini Miura SV (2nd Color)",
+        "Series": "HW Exotics",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/9f/2022MiuraBlue.jpg/revision/latest?cb=20230209035735"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT09",
+        "NumbersInYear": "203",
+        "ModelName": "McLaren Elva",
+        "Series": "HW Exotics",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/36/McLarenElva.jpg/revision/latest?cb=20220804105749"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX54",
+        "NumbersInYear": "203",
+        "ModelName": "McLaren Elva (2nd Color)",
+        "Series": "HW Exotics",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6a/HW-2022-203-2-HCX54-McLaren_Elva_%282nd_Colour%29.png/revision/latest?cb=20221116122536"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT11",
+        "NumbersInYear": "204",
+        "ModelName": "Honda Civic Custom",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/HondaCivicCustom.jpg/revision/latest?cb=20220528090159"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX78",
+        "NumbersInYear": "204",
+        "ModelName": "Honda Civic Custom (2nd Color)",
+        "Series": "HW J-Imports",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/28/HW-2022-204-2-HCX78-Honda_Civic_Custom_%282nd_Colour%29.png/revision/latest?cb=20221116122600"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW35",
+        "NumbersInYear": "205",
+        "ModelName": "HW Rapid Response",
+        "Series": "HW Rescue",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/02/HCW35_carded.jpg/revision/latest?cb=20220923230257"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX79",
+        "NumbersInYear": "205",
+        "ModelName": "HW Rapid Response (2nd Color)",
+        "Series": "HW Rescue",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/27/HW-2022-205-2-HCX79-HW_Rapid_Response_%282nd_Colour%29.png/revision/latest?cb=20221116122645"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW24",
+        "NumbersInYear": "206",
+        "ModelName": "'15 Dodge Charger SRT",
+        "Series": "HW Rescue",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/63/HCW24-Card.jpg/revision/latest?cb=20220902005011"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV88",
+        "NumbersInYear": "207",
+        "ModelName": "Dodge Challenger Drift Car",
+        "Series": "HW Drift",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/HW-2022-207-1-HCV88-Dodge_Challenger_Drift_Car.png/revision/latest?cb=20221116122819"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX80",
+        "NumbersInYear": "207",
+        "ModelName": "Dodge Challenger Drift Car (2nd Color)",
+        "Series": "HW Drift",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/9/99/HW-2022-207-2-HCX80-Dodge_Challenger_Drift_Car_%282nd_Color%29.png/revision/latest?cb=20221116123343"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV80",
+        "NumbersInYear": "208",
+        "ModelName": "Dodge Viper RT/10",
+        "Series": "Then and Now",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1e/DodgeRT10.jpg/revision/latest?cb=20220818101327"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY40",
+        "NumbersInYear": "208",
+        "ModelName": "Dodge Viper RT/10 (2nd Color - Zamac)",
+        "Series": "Then and Now",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/e1/HW-2022-208-2-HCY40-Dodge_Viper_RT10_%282nd_Colour_-_Zamac%29.png/revision/latest?cb=20221116123511"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV71",
+        "NumbersInYear": "209",
+        "ModelName": "'69 Dodge Charger 500",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "3/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/20/HCV71.jpg/revision/latest?cb=20220905183324"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT88",
+        "NumbersInYear": "210",
+        "ModelName": "Lancia Delta Integrale",
+        "Series": "Rally Champs",
+        "SeriesNumber": "3/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3b/HCT88-01.JPG/revision/latest?cb=20220920052005"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV90",
+        "NumbersInYear": "211",
+        "ModelName": "Supercharged",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fa/HCV90.jpg/revision/latest?cb=20220615161232"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW50",
+        "NumbersInYear": "212",
+        "ModelName": "Aristo Rat",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a6/HCW50_carded.jpg/revision/latest?cb=20221029025559"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW43",
+        "NumbersInYear": "213",
+        "ModelName": "Electro Silhouette",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/HCW43.jpg/revision/latest?cb=20220616152432"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT17",
+        "NumbersInYear": "214",
+        "ModelName": "Nissan Maxima Drift Car",
+        "Series": "HW Wagons",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2e/NissanMaximaDriftCar_Front.png/revision/latest?cb=20221107183344"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT02",
+        "NumbersInYear": "215",
+        "ModelName": "Pagani Zonda R",
+        "Series": "HW Exotics",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/88/PaganiZondaR_Front.png/revision/latest?cb=20221107183508"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW26",
+        "NumbersInYear": "216",
+        "ModelName": "Rescue Duty",
+        "Series": "HW Rescue",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a2/HW-2022-216-1-HCW26-Rescue_Duty.png/revision/latest?cb=20221116123631"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY02",
+        "NumbersInYear": "217",
+        "ModelName": "HW Warp Speeder",
+        "Series": "X-Raycers",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/63/HW_Warp_Speeder.jpg/revision/latest?cb=20220721004255"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT45",
+        "NumbersInYear": "218",
+        "ModelName": "Lightnin' Bug",
+        "Series": "X-Raycers",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/c/cb/Lightnin%27Bug.jpg/revision/latest?cb=20220628101527"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV82",
+        "NumbersInYear": "219",
+        "ModelName": "'18 Camaro SS",
+        "Series": "Then and Now",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/75/HW-2022-219-1-HCV82-18_Camaro_SS.png/revision/latest?cb=20221116123738"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY67",
+        "NumbersInYear": "219",
+        "ModelName": "'18 Camaro SS (2nd Color)",
+        "Series": "Red Edition",
+        "SeriesNumber": "10/12",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Target Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/70/HW-2022-219-2-HCY67-18_Camaro_SS_%282nd_Colour%29.png/revision/latest?cb=20221116123842"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV16",
+        "NumbersInYear": "220",
+        "ModelName": "Toyota Supra",
+        "Series": "Then and Now",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/81/Toyota_Supra_Front.png/revision/latest?cb=20221003182239"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW28",
+        "NumbersInYear": "221",
+        "ModelName": "'84 Mustang SVO",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/%2784MustangSVO_Front.png/revision/latest?cb=20221107183223"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY19",
+        "NumbersInYear": "221",
+        "ModelName": "'84 Mustang SVO",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "4/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/f9/HW-2022-221-2-HCY19-84_Mustang_SVO.png/revision/latest?cb=20221116123920"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV72",
+        "NumbersInYear": "222",
+        "ModelName": "'69 Camaro Convertible",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/4/48/HW-2022-222-1-HCV72-69_Camaro_Convertible.png/revision/latest?cb=20221116124039"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY41",
+        "NumbersInYear": "222",
+        "ModelName": "'69 Camaro Convertible (2nd Color - Zamac)",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "5/10",
+        "ChaseCar": [],
+        "Exclusive": [
+            "Walmart Exclusive"
+        ],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/79/HW-2022-222-2-HCY41-69_Camaro_Convertible_%282nd_Colour_-_Zamac%29.png/revision/latest?cb=20221116124056"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY04",
+        "NumbersInYear": "223",
+        "ModelName": "'98 Subaru Impreza 22B STi-Version",
+        "Series": "Rally Champs",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/fe/%2798SubaruImpreza22B-STiVersion_Front.png/revision/latest?cb=20221107183128"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT29",
+        "NumbersInYear": "224",
+        "ModelName": "Max Steel",
+        "Series": "Rod Squad",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/72/MaxSteel.jpg/revision/latest?cb=20220702064654"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT12",
+        "NumbersInYear": "225",
+        "ModelName": "'62 Corvette Gasser",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6d/%2762CorvetteGasser.jpg/revision/latest?cb=20220702103136"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW45",
+        "NumbersInYear": "226",
+        "ModelName": "Altered Ego",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/38/HCW45.jpg/revision/latest?cb=20220724091826"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW41",
+        "NumbersInYear": "227",
+        "ModelName": "Velocita",
+        "Series": "HW Art Cars",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/HCW41.jpg/revision/latest?cb=20220728141309"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT69",
+        "NumbersInYear": "228",
+        "ModelName": "'94 Audi Avant RS2",
+        "Series": "HW Wagons",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/bf/%2794AudiAvantRS2_Front.png/revision/latest?cb=20221107183050"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY22",
+        "NumbersInYear": "228",
+        "ModelName": "'94 Audi Avant RS2",
+        "Series": "HW Wagons",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a0/%2794_Audi_Avant_RS2_STH.jpeg/revision/latest?cb=20220905010248"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT07",
+        "NumbersInYear": "229",
+        "ModelName": "Lotus Evija",
+        "Series": "HW Exotics",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/3c/LotusEvija.jpg/revision/latest?cb=20220804142832"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW27",
+        "NumbersInYear": "230",
+        "ModelName": "5 Alarm",
+        "Series": "HW Rescue",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/0/0c/2022-5Alarm-Pink-Mainline.jpg/revision/latest?cb=20220709041453"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT87",
+        "NumbersInYear": "231",
+        "ModelName": "Water Bomber",
+        "Series": "HW Rescue",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/58/HW-2022-231-1-HCT87-Water_Bomber.png/revision/latest?cb=20221116124127"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT20",
+        "NumbersInYear": "232",
+        "ModelName": "Volvo 240 Drift Wagon",
+        "Series": "HW Drift",
+        "SeriesNumber": "4/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/eb/Volvo240DriftWagon_Front.png/revision/latest?cb=20221027175440"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV35",
+        "NumbersInYear": "233",
+        "ModelName": "Corvette C6R",
+        "Series": "Then and Now",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/5/55/HW-2022-233-1-HCV35-Corvette_C6R.png/revision/latest?cb=20221116124202"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV96",
+        "NumbersInYear": "234",
+        "ModelName": "Twin Mill III",
+        "Series": "Then and Now",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a4/HW-2022-234-1-HCV96-Twin_Mill_III..png/revision/latest?cb=20221116124235"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW30",
+        "NumbersInYear": "235",
+        "ModelName": "'15 Dodge Challenger SRT",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "6/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/22/HCW30-01.JPG/revision/latest?cb=20220920034027"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV59",
+        "NumbersInYear": "236",
+        "ModelName": "'68 Mercury Cougar",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "7/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a3/HCV59-Card.jpg/revision/latest?cb=20221105020404"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV75",
+        "NumbersInYear": "237",
+        "ModelName": "'32 Ford",
+        "Series": "Rod Squad",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/1f/HW-2022-237-1-HCV75-32_Ford.png/revision/latest?cb=20221116124322"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY21",
+        "NumbersInYear": "237",
+        "ModelName": "'32 Ford",
+        "Series": "Rod Squad",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/f/ff/HW-2022-237-2-HCY21-32_Ford.png/revision/latest?cb=20221116124344"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT19",
+        "NumbersInYear": "238",
+        "ModelName": "Aston Martin Vantage GTE",
+        "Series": "HW Exotics",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/3/35/AMRVantageGTE.jpg/revision/latest?cb=20220804100819"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT43",
+        "NumbersInYear": "239",
+        "ModelName": "Drone Duty",
+        "Series": "HW Rescue",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/80/DroneDuty.jpg/revision/latest?cb=20220802063329"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY00",
+        "NumbersInYear": "240",
+        "ModelName": "Muscle and Blown",
+        "Series": "HW Drift",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/ac/DriftandBlown.jpg/revision/latest?cb=20220805064727"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT62",
+        "NumbersInYear": "241",
+        "ModelName": "'20 Toyota GR Supra",
+        "Series": "Then and Now",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/71/%2720ToyotaGRSupra.jpg/revision/latest?cb=20221030060147"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV79",
+        "NumbersInYear": "242",
+        "ModelName": "Dodge Viper SRT10 ACR",
+        "Series": "Then and Now",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/7/7f/HW-2022-242-1-HCV79-Dodge_Viper_SRT10_ACR.png/revision/latest?cb=20221116124422"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV18",
+        "NumbersInYear": "243",
+        "ModelName": "Chevelle SS Express",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "8/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2a/HCV18-LOOSE.jpg/revision/latest?cb=20220914151128"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV30",
+        "NumbersInYear": "244",
+        "ModelName": "'70 Ford Escort RS1600",
+        "Series": "Rally Champs",
+        "SeriesNumber": "5/5",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/e/ef/HW-2022-244-1-HCV30-70_Ford_Escort_RS1600.png/revision/latest?cb=20221116124800"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCX95",
+        "NumbersInYear": "245",
+        "ModelName": "'71 Mustang Funny Car",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [
+            "Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/1/17/HW-2022-245-1-HCX95-71_Mustang_Funny_Car1.png/revision/latest?cb=20221210091431"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT25",
+        "NumbersInYear": "246",
+        "ModelName": "Matt and Debbie Hay's 1988 Pro Street Thunderbird",
+        "Series": "HW Drag Strip",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/2/2c/ProStreetThunderbird.jpg/revision/latest?cb=20220822100300"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCT00",
+        "NumbersInYear": "247",
+        "ModelName": "Lotus Emira",
+        "Series": "HW Exotics",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/a/a1/LotusEmira.jpg/revision/latest?cb=20220822100321"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCV81",
+        "NumbersInYear": "248",
+        "ModelName": "'81 Camaro",
+        "Series": "Then and Now",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/b/b3/HW-2022-248-1-HCV81-81_Camaro.png/revision/latest?cb=20221116124547"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCY23",
+        "NumbersInYear": "248",
+        "ModelName": "'81 Camaro",
+        "Series": "Then and Now",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [
+            "Super Treasure Hunt"
+        ],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/6/6f/HW-2022-248-2-HCY23-81_Camaro.png/revision/latest?cb=20221116124612"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW36",
+        "NumbersInYear": "249",
+        "ModelName": "Ford Shelby GT350R",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "9/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/8/8b/HW-2022-249-1-HCW36-Ford_Shelby_GT350R.png/revision/latest?cb=20221116124641"
+    },
+    {
+        "YEAR": 2022,
+        "ToyID": "HCW29",
+        "NumbersInYear": "250",
+        "ModelName": "'72 Ford Gran Torino Sport",
+        "Series": "Muscle Mania",
+        "SeriesNumber": "10/10",
+        "ChaseCar": [],
+        "Exclusive": [],
+        "img_url": "https://static.wikia.nocookie.net/hotwheels/images/d/d6/2022TorinoMuscleMania.jpg/revision/latest?cb=20230209035706"
+    }
+]
